@@ -69,6 +69,22 @@ def day_to_moon_phase_and_accurate_code(a, day):
     return phase_today, code_today
 
 
+tsv = open('moon-phases.tsv', 'w')
+tsv_full = open('moon-phases-full.tsv', 'w')
+tsv_all = open('moon-phases-all.tsv', 'w')
+md = open('moon-phases.md', 'w')
+md_full = open('moon-phases-full.md', 'w')
+md_all = open('moon-phases-all.md', 'w')
+tsv_header = '# Day\t# Phase\t# Symbol\t# Name\n'
+tsv.write(tsv_header)
+tsv_full.write(tsv_header)
+tsv_all.write(tsv_header)
+md_header = '''Day        | Phase  | Symbol | Name
+-----------|--------|--------|-----
+'''
+md.write(md_header)
+md_full.write(md_header)
+md_all.write(md_header)
 a = Astral()
 today = date.today()
 start = today - timedelta(days=31 + 1)
@@ -78,5 +94,12 @@ for i in range((end - start).days):
     phase, code = day_to_moon_phase_and_accurate_code(a, day)
     symbol = moon_phase_code_to_symbol(code)
     name = moon_phase_code_to_name(code)
-    print('{} {:6.3f} {} {} '.format(day, phase, symbol, name))
+    tsv_all.write('{}\t{:6.3f}\t{}\t{}\n'.format(day, phase, symbol, name))
+    md_all.write('{} | {:6.3f} | {}     | {}\n'.format(day, phase, symbol, name))
+    if code % 2 == 0:
+        tsv.write('{}\t{:6.3f}\t{}\t{}\n'.format(day, phase, symbol, name))
+        md.write('{} | {:6.3f} | {}     | {}\n'.format(day, phase, symbol, name))
+    if code == 4:
+        tsv_full.write('{}\t{:6.3f}\t{}\t{}\n'.format(day, phase, symbol, name))
+        md_full.write('{} | {:6.3f} | {}     | {}\n'.format(day, phase, symbol, name))
 
