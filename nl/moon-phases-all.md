@@ -1,4 +1,4 @@
-Dag        | Stand  | Symbool | Naam
+Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
 2018-12-02 | 23.445 | 🌘 | Waning crescent
 2018-12-03 | 24.456 | 🌘 | Waning crescent

@@ -1,4 +1,4 @@
-Dag        | Stand  | Symbool | Naam
+Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
 2018-12-07 |  0.189 | 🌑 | New moon
 2018-12-15 |  7.033 | 🌓 | First quarter

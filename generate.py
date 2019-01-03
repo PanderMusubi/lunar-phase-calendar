@@ -45,7 +45,7 @@ moon_phase_names = {'en':
 moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '🌘')
 
 header = {'en': ('Day', 'Phase', 'Symbol', 'Name'),
-          'nl': ('Dag', 'Stand', 'Symbool', 'Naam'),
+          'nl': ('Dag', 'Fase', 'Symbool', 'Naam'),
           'de': ('Tag', 'Phase', 'Symbole', 'Name'),
           'fr': ('Jour', 'Phase', 'Symbole', 'Nom'),
          }
