@@ -107,18 +107,25 @@ def write_files(lang='en'):
         header[lang][1],
         header[lang][2],
         header[lang][3])
+    tsv_header_full = '# {}\t# {}\n'.format(
+        header[lang][0],
+        header[lang][1])
     tsv.write(tsv_header)
-    tsv_full.write(tsv_header)
     tsv_all.write(tsv_header)
+    tsv_full.write(tsv_header_full)
     md_header = '''{} | {} | {} | {}
 -----------|-------:|---|---
 '''.format(header[lang][0].ljust(10),
            header[lang][1].ljust(6),
            header[lang][2],
            header[lang][3])
+    md_header_full = '''{} | {}
+-----------|------:
+'''.format(header[lang][0].ljust(10),
+           header[lang][1])
     md.write(md_header)
-    md_full.write(md_header)
     md_all.write(md_header)
+    md_full.write(md_header_full)
     a = Astral()
     today = date.today()
     start = today - timedelta(days=31 + 1)
@@ -146,14 +153,8 @@ def write_files(lang='en'):
                                                        symbol,
                                                        name))
         if code == 4:
-            tsv_full.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,
-                                                          phase,
-                                                          symbol,
-                                                          name))
-            md_full.write('{} | {:6.3f} | {} | {}\n'.format(day,
-                                                            phase,
-                                                            symbol,
-                                                            name))
+            tsv_full.write('{}\t{:6.3f}\n'.format(day, phase))
+            md_full.write('{} | {:6.3f}\n'.format(day, phase,))
 
 
 for lang in sorted(header.keys()):
