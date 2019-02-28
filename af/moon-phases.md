@@ -1,0 +1,116 @@
+# Maanfase
+    
+Dag        | Fase   | Simbool | Naam
+-----------|-------:|---|---
+2019-01-28 | 21.578 | 🌗 | Laaste kwartier
+2019-02-05 |  0.578 | 🌑 | Donkermaan
+2019-02-13 |  7.578 | 🌓 | Eerste kwartier
+2019-02-20 | 14.889 | 🌕 | Volmaan
+2019-02-26 | 21.033 | 🌗 | Laaste kwartier
+2019-03-07 |  0.811 | 🌑 | Donkermaan
+2019-03-14 |  7.111 | 🌓 | Eerste kwartier
+2019-03-21 | 14.422 | 🌕 | Volmaan
+2019-03-28 | 21.345 | 🌗 | Laaste kwartier
+2019-04-05 |  0.189 | 🌑 | Donkermaan
+2019-04-13 |  7.733 | 🌓 | Eerste kwartier
+2019-04-19 | 14.033 | 🌕 | Volmaan
+2019-04-27 | 21.578 | 🌗 | Laaste kwartier
+2019-05-05 |  0.578 | 🌑 | Donkermaan
+2019-05-12 |  7.500 | 🌓 | Eerste kwartier
+2019-05-19 | 14.578 | 🌕 | Volmaan
+2019-05-27 | 21.733 | 🌗 | Laaste kwartier
+2019-06-03 |  0.111 | 🌑 | Donkermaan
+2019-06-10 |  7.267 | 🌓 | Eerste kwartier
+2019-06-17 | 14.189 | 🌕 | Volmaan
+2019-06-25 | 21.111 | 🌗 | Laaste kwartier
+2019-07-03 |  0.733 | 🌑 | Donkermaan
+2019-07-09 |  7.033 | 🌓 | Eerste kwartier
+2019-07-17 | 14.578 | 🌕 | Volmaan
+2019-07-25 | 21.422 | 🌗 | Laaste kwartier
+2019-08-01 |  0.345 | 🌑 | Donkermaan
+2019-08-08 |  7.733 | 🌓 | Eerste kwartier
+2019-08-15 | 14.111 | 🌕 | Volmaan
+2019-08-24 | 21.811 | 🌗 | Laaste kwartier
+2019-08-30 |  0.033 | 🌑 | Donkermaan
+2019-09-06 |  7.345 | 🌓 | Eerste kwartier
+2019-09-14 | 14.345 | 🌕 | Volmaan
+2019-09-22 | 21.422 | 🌗 | Laaste kwartier
+2019-09-29 |  0.733 | 🌑 | Donkermaan
+2019-10-06 |  7.811 | 🌓 | Eerste kwartier
+2019-10-14 | 14.578 | 🌕 | Volmaan
+2019-10-21 | 21.033 | 🌗 | Laaste kwartier
+2019-10-28 |  0.345 | 🌑 | Donkermaan
+2019-11-04 |  7.189 | 🌓 | Eerste kwartier
+2019-11-13 | 14.889 | 🌕 | Volmaan
+2019-11-20 | 21.656 | 🌗 | Laaste kwartier
+2019-11-27 |  0.811 | 🌑 | Donkermaan
+2019-12-04 |  7.267 | 🌓 | Eerste kwartier
+2019-12-12 | 14.267 | 🌕 | Volmaan
+2019-12-19 | 21.267 | 🌗 | Laaste kwartier
+2019-12-26 |  0.267 | 🌑 | Donkermaan
+2020-01-03 |  7.345 | 🌓 | Eerste kwartier
+2020-01-11 | 14.733 | 🌕 | Volmaan
+2020-01-18 | 21.967 | 🌗 | Laaste kwartier
+2020-01-25 |  0.578 | 🌑 | Donkermaan
+2020-02-02 |  7.422 | 🌓 | Eerste kwartier
+2020-02-09 | 14.189 | 🌕 | Volmaan
+2020-02-16 | 21.500 | 🌗 | Laaste kwartier
+2020-02-24 |  0.811 | 🌑 | Donkermaan
+2020-03-03 |  7.656 | 🌓 | Eerste kwartier
+2020-03-10 | 14.811 | 🌕 | Volmaan
+2020-03-16 | 21.111 | 🌗 | Laaste kwartier
+2020-03-24 |  0.189 | 🌑 | Donkermaan
+2020-04-01 |  7.111 | 🌓 | Eerste kwartier
+2020-04-08 | 14.422 | 🌕 | Volmaan
+2020-04-15 | 21.578 | 🌗 | Laaste kwartier
+2020-04-23 |  0.422 | 🌑 | Donkermaan
+2020-05-01 |  7.656 | 🌓 | Eerste kwartier
+2020-05-07 | 14.033 | 🌕 | Volmaan
+2020-05-14 | 21.033 | 🌗 | Laaste kwartier
+2020-05-23 |  0.733 | 🌑 | Donkermaan
+2020-05-30 |  7.345 | 🌓 | Eerste kwartier
+2020-06-06 | 14.656 | 🌕 | Volmaan
+2020-06-13 | 21.267 | 🌗 | Laaste kwartier
+2020-06-21 |  0.267 | 🌑 | Donkermaan
+2020-06-28 |  7.189 | 🌓 | Eerste kwartier
+2020-07-05 | 14.267 | 🌕 | Volmaan
+2020-07-13 | 21.500 | 🌗 | Laaste kwartier
+2020-07-21 |  0.811 | 🌑 | Donkermaan
+2020-07-28 |  7.967 | 🌓 | Eerste kwartier
+2020-08-04 | 14.811 | 🌕 | Volmaan
+2020-08-12 | 21.733 | 🌗 | Laaste kwartier
+2020-08-19 |  0.422 | 🌑 | Donkermaan
+2020-08-26 |  7.733 | 🌓 | Eerste kwartier
+2020-09-02 | 14.345 | 🌕 | Volmaan
+2020-09-10 | 21.111 | 🌗 | Laaste kwartier
+2020-09-17 |  0.033 | 🌑 | Donkermaan
+2020-09-24 |  7.422 | 🌓 | Eerste kwartier
+2020-10-02 | 14.578 | 🌕 | Volmaan
+2020-10-10 | 21.500 | 🌗 | Laaste kwartier
+2020-10-17 |  0.656 | 🌑 | Donkermaan
+2020-10-24 |  7.889 | 🌓 | Eerste kwartier
+2020-11-01 | 14.811 | 🌕 | Volmaan
+2020-11-09 | 21.967 | 🌗 | Laaste kwartier
+2020-11-15 |  0.267 | 🌑 | Donkermaan
+2020-11-22 |  7.345 | 🌓 | Eerste kwartier
+2020-11-30 | 14.111 | 🌕 | Volmaan
+2020-12-08 | 21.500 | 🌗 | Laaste kwartier
+2020-12-15 |  0.811 | 🌑 | Donkermaan
+2020-12-22 |  7.500 | 🌓 | Eerste kwartier
+2020-12-30 | 14.345 | 🌕 | Volmaan
+2021-01-06 | 21.111 | 🌗 | Laaste kwartier
+2021-01-13 |  0.267 | 🌑 | Donkermaan
+2021-01-21 |  7.578 | 🌓 | Eerste kwartier
+2021-01-29 | 14.733 | 🌕 | Volmaan
+2021-02-05 | 21.733 | 🌗 | Laaste kwartier
+2021-02-12 |  0.733 | 🌑 | Donkermaan
+2021-02-20 |  7.656 | 🌓 | Eerste kwartier
+2021-02-27 | 14.189 | 🌕 | Volmaan
+2021-03-06 | 21.422 | 🌗 | Laaste kwartier
+2021-03-13 |  0.111 | 🌑 | Donkermaan
+2021-03-22 |  7.811 | 🌓 | Eerste kwartier
+2021-03-29 | 14.733 | 🌕 | Volmaan
+2021-04-04 | 21.033 | 🌗 | Laaste kwartier
+2021-04-12 |  0.422 | 🌑 | Donkermaan
+2021-04-20 |  7.189 | 🌓 | Eerste kwartier
+2021-04-27 | 14.345 | 🌕 | Volmaan
