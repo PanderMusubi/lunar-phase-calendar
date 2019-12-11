@@ -2,17 +2,6 @@
     
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2019-08-24 | 21.811 | 🌗 | Ultimo quarto
-2019-08-30 |  0.033 | 🌑 | Luna nuova
-2019-09-06 |  7.345 | 🌓 | Primo quarto
-2019-09-14 | 14.345 | 🌕 | Luna piena
-2019-09-22 | 21.422 | 🌗 | Ultimo quarto
-2019-09-29 |  0.733 | 🌑 | Luna nuova
-2019-10-06 |  7.811 | 🌓 | Primo quarto
-2019-10-14 | 14.578 | 🌕 | Luna piena
-2019-10-21 | 21.033 | 🌗 | Ultimo quarto
-2019-10-28 |  0.345 | 🌑 | Luna nuova
-2019-11-04 |  7.189 | 🌓 | Primo quarto
 2019-11-13 | 14.889 | 🌕 | Luna piena
 2019-11-20 | 21.656 | 🌗 | Ultimo quarto
 2019-11-27 |  0.811 | 🌑 | Luna nuova
@@ -113,3 +102,14 @@ Giorno     | Fase   | Simbolo | Nome
 2021-11-05 |  0.578 | 🌑 | Luna nuova
 2021-11-12 |  7.967 | 🌓 | Primo quarto
 2021-11-19 | 14.189 | 🌕 | Luna piena
+2021-11-27 | 21.033 | 🌗 | Ultimo quarto
+2021-12-04 |  0.111 | 🌑 | Luna nuova
+2021-12-11 |  7.422 | 🌓 | Primo quarto
+2021-12-19 | 14.345 | 🌕 | Luna piena
+2021-12-27 | 21.422 | 🌗 | Ultimo quarto
+2022-01-03 |  0.733 | 🌑 | Luna nuova
+2022-01-10 |  7.733 | 🌓 | Primo quarto
+2022-01-18 | 14.500 | 🌕 | Luna piena
+2022-01-26 | 21.967 | 🌗 | Ultimo quarto
+2022-02-01 |  0.267 | 🌑 | Luna nuova
+2022-02-08 |  7.033 | 🌓 | Primo quarto
