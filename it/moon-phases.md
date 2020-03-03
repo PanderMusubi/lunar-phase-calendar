@@ -1,18 +1,7 @@
 # Fase Lunari
-    
+
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2019-11-13 | 14.889 | 🌕 | Luna piena
-2019-11-20 | 21.656 | 🌗 | Ultimo quarto
-2019-11-27 |  0.811 | 🌑 | Luna nuova
-2019-12-04 |  7.267 | 🌓 | Primo quarto
-2019-12-12 | 14.267 | 🌕 | Luna piena
-2019-12-19 | 21.267 | 🌗 | Ultimo quarto
-2019-12-26 |  0.267 | 🌑 | Luna nuova
-2020-01-03 |  7.345 | 🌓 | Primo quarto
-2020-01-11 | 14.733 | 🌕 | Luna piena
-2020-01-18 | 21.967 | 🌗 | Ultimo quarto
-2020-01-25 |  0.578 | 🌑 | Luna nuova
 2020-02-02 |  7.422 | 🌓 | Primo quarto
 2020-02-09 | 14.189 | 🌕 | Luna piena
 2020-02-16 | 21.500 | 🌗 | Ultimo quarto
@@ -113,3 +102,14 @@ Giorno     | Fase   | Simbolo | Nome
 2022-01-26 | 21.967 | 🌗 | Ultimo quarto
 2022-02-01 |  0.267 | 🌑 | Luna nuova
 2022-02-08 |  7.033 | 🌓 | Primo quarto
+2022-02-17 | 14.733 | 🌕 | Luna piena
+2022-02-24 | 21.578 | 🌗 | Ultimo quarto
+2022-03-03 |  0.733 | 🌑 | Luna nuova
+2022-03-10 |  7.111 | 🌓 | Primo quarto
+2022-03-18 | 14.189 | 🌕 | Luna piena
+2022-03-25 | 21.267 | 🌗 | Ultimo quarto
+2022-04-01 |  0.267 | 🌑 | Luna nuova
+2022-04-09 |  7.267 | 🌓 | Primo quarto
+2022-04-17 | 14.733 | 🌕 | Luna piena
+2022-04-24 | 21.967 | 🌗 | Ultimo quarto
+2022-05-01 |  0.656 | 🌑 | Luna nuova

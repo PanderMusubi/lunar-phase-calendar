@@ -1,18 +1,7 @@
 # Mondphase
-    
+
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2019-11-13 | 14.889 | 🌕 | Vollmond
-2019-11-20 | 21.656 | 🌗 | Letztes Viertel
-2019-11-27 |  0.811 | 🌑 | Neumond
-2019-12-04 |  7.267 | 🌓 | Erstes Viertel
-2019-12-12 | 14.267 | 🌕 | Vollmond
-2019-12-19 | 21.267 | 🌗 | Letztes Viertel
-2019-12-26 |  0.267 | 🌑 | Neumond
-2020-01-03 |  7.345 | 🌓 | Erstes Viertel
-2020-01-11 | 14.733 | 🌕 | Vollmond
-2020-01-18 | 21.967 | 🌗 | Letztes Viertel
-2020-01-25 |  0.578 | 🌑 | Neumond
 2020-02-02 |  7.422 | 🌓 | Erstes Viertel
 2020-02-09 | 14.189 | 🌕 | Vollmond
 2020-02-16 | 21.500 | 🌗 | Letztes Viertel
@@ -113,3 +102,14 @@ Tag        | Phase  | Symbole | Name
 2022-01-26 | 21.967 | 🌗 | Letztes Viertel
 2022-02-01 |  0.267 | 🌑 | Neumond
 2022-02-08 |  7.033 | 🌓 | Erstes Viertel
+2022-02-17 | 14.733 | 🌕 | Vollmond
+2022-02-24 | 21.578 | 🌗 | Letztes Viertel
+2022-03-03 |  0.733 | 🌑 | Neumond
+2022-03-10 |  7.111 | 🌓 | Erstes Viertel
+2022-03-18 | 14.189 | 🌕 | Vollmond
+2022-03-25 | 21.267 | 🌗 | Letztes Viertel
+2022-04-01 |  0.267 | 🌑 | Neumond
+2022-04-09 |  7.267 | 🌓 | Erstes Viertel
+2022-04-17 | 14.733 | 🌕 | Vollmond
+2022-04-24 | 21.967 | 🌗 | Letztes Viertel
+2022-05-01 |  0.656 | 🌑 | Neumond

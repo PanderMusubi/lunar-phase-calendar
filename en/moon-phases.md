@@ -1,18 +1,7 @@
 # Lunar Phase
-    
+
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2019-11-13 | 14.889 | 🌕 | Full moon
-2019-11-20 | 21.656 | 🌗 | Last quarter
-2019-11-27 |  0.811 | 🌑 | New moon
-2019-12-04 |  7.267 | 🌓 | First quarter
-2019-12-12 | 14.267 | 🌕 | Full moon
-2019-12-19 | 21.267 | 🌗 | Last quarter
-2019-12-26 |  0.267 | 🌑 | New moon
-2020-01-03 |  7.345 | 🌓 | First quarter
-2020-01-11 | 14.733 | 🌕 | Full moon
-2020-01-18 | 21.967 | 🌗 | Last quarter
-2020-01-25 |  0.578 | 🌑 | New moon
 2020-02-02 |  7.422 | 🌓 | First quarter
 2020-02-09 | 14.189 | 🌕 | Full moon
 2020-02-16 | 21.500 | 🌗 | Last quarter
@@ -113,3 +102,14 @@ Day        | Phase  | Symbol | Name
 2022-01-26 | 21.967 | 🌗 | Last quarter
 2022-02-01 |  0.267 | 🌑 | New moon
 2022-02-08 |  7.033 | 🌓 | First quarter
+2022-02-17 | 14.733 | 🌕 | Full moon
+2022-02-24 | 21.578 | 🌗 | Last quarter
+2022-03-03 |  0.733 | 🌑 | New moon
+2022-03-10 |  7.111 | 🌓 | First quarter
+2022-03-18 | 14.189 | 🌕 | Full moon
+2022-03-25 | 21.267 | 🌗 | Last quarter
+2022-04-01 |  0.267 | 🌑 | New moon
+2022-04-09 |  7.267 | 🌓 | First quarter
+2022-04-17 | 14.733 | 🌕 | Full moon
+2022-04-24 | 21.967 | 🌗 | Last quarter
+2022-05-01 |  0.656 | 🌑 | New moon

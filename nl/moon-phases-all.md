@@ -1,90 +1,7 @@
 # Maanfase
-    
+
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2019-11-09 | 11.389 | 🌔 | Wassende,vooruitspringende maan
-2019-11-10 | 12.245 | 🌔 | Wassende,vooruitspringende maan
-2019-11-11 | 13.100 | 🌔 | Wassende,vooruitspringende maan
-2019-11-12 | 13.956 | 🌔 | Wassende,vooruitspringende maan
-2019-11-13 | 14.889 | 🌕 | Volle maan
-2019-11-14 | 15.822 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-15 | 16.756 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-16 | 17.689 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-17 | 18.622 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-18 | 19.633 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-19 | 20.645 | 🌖 | Krimpende, vooruitspringende maan
-2019-11-20 | 21.656 | 🌗 | Laatste kwartier
-2019-11-21 | 22.667 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-22 | 23.678 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-23 | 24.689 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-24 | 25.778 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-25 | 26.789 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-26 | 27.800 | 🌘 | Krimpende, sikkelvormige maan
-2019-11-27 |  0.811 | 🌑 | Nieuwe maan
-2019-11-28 |  1.822 | 🌒 | Wassende, sikkelvormige maan
-2019-11-29 |  2.833 | 🌒 | Wassende, sikkelvormige maan
-2019-11-30 |  3.767 | 🌒 | Wassende, sikkelvormige maan
-2019-12-01 |  4.700 | 🌒 | Wassende, sikkelvormige maan
-2019-12-02 |  5.556 | 🌒 | Wassende, sikkelvormige maan
-2019-12-03 |  6.411 | 🌒 | Wassende, sikkelvormige maan
-2019-12-04 |  7.267 | 🌓 | Eerste kwartier
-2019-12-05 |  8.122 | 🌔 | Wassende,vooruitspringende maan
-2019-12-06 |  8.978 | 🌔 | Wassende,vooruitspringende maan
-2019-12-07 |  9.756 | 🌔 | Wassende,vooruitspringende maan
-2019-12-08 | 10.611 | 🌔 | Wassende,vooruitspringende maan
-2019-12-09 | 11.545 | 🌔 | Wassende,vooruitspringende maan
-2019-12-10 | 12.400 | 🌔 | Wassende,vooruitspringende maan
-2019-12-11 | 13.333 | 🌔 | Wassende,vooruitspringende maan
-2019-12-12 | 14.267 | 🌕 | Volle maan
-2019-12-13 | 15.278 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-14 | 16.211 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-15 | 17.222 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-16 | 18.233 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-17 | 19.245 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-18 | 20.256 | 🌖 | Krimpende, vooruitspringende maan
-2019-12-19 | 21.267 | 🌗 | Laatste kwartier
-2019-12-20 | 22.278 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-21 | 23.289 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-22 | 24.300 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-23 | 25.311 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-24 | 26.322 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-25 | 27.333 | 🌘 | Krimpende, sikkelvormige maan
-2019-12-26 |  0.267 | 🌑 | Nieuwe maan
-2019-12-27 |  1.278 | 🌒 | Wassende, sikkelvormige maan
-2019-12-28 |  2.133 | 🌒 | Wassende, sikkelvormige maan
-2019-12-29 |  3.067 | 🌒 | Wassende, sikkelvormige maan
-2019-12-30 |  3.922 | 🌒 | Wassende, sikkelvormige maan
-2019-12-31 |  4.778 | 🌒 | Wassende, sikkelvormige maan
-2020-01-01 |  5.633 | 🌒 | Wassende, sikkelvormige maan
-2020-01-02 |  6.489 | 🌒 | Wassende, sikkelvormige maan
-2020-01-03 |  7.345 | 🌓 | Eerste kwartier
-2020-01-04 |  8.200 | 🌔 | Wassende,vooruitspringende maan
-2020-01-05 |  9.056 | 🌔 | Wassende,vooruitspringende maan
-2020-01-06 |  9.911 | 🌔 | Wassende,vooruitspringende maan
-2020-01-07 | 10.767 | 🌔 | Wassende,vooruitspringende maan
-2020-01-08 | 11.700 | 🌔 | Wassende,vooruitspringende maan
-2020-01-09 | 12.711 | 🌔 | Wassende,vooruitspringende maan
-2020-01-10 | 13.722 | 🌔 | Wassende,vooruitspringende maan
-2020-01-11 | 14.733 | 🌕 | Volle maan
-2020-01-12 | 15.745 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-13 | 16.756 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-14 | 17.845 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-15 | 18.856 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-16 | 19.867 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-17 | 20.956 | 🌖 | Krimpende, vooruitspringende maan
-2020-01-18 | 21.967 | 🌗 | Laatste kwartier
-2020-01-19 | 22.900 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-20 | 23.911 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-21 | 24.845 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-22 | 25.856 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-23 | 26.789 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-24 | 27.722 | 🌘 | Krimpende, sikkelvormige maan
-2020-01-25 |  0.578 | 🌑 | Nieuwe maan
-2020-01-26 |  1.511 | 🌒 | Wassende, sikkelvormige maan
-2020-01-27 |  2.367 | 🌒 | Wassende, sikkelvormige maan
-2020-01-28 |  3.222 | 🌒 | Wassende, sikkelvormige maan
-2020-01-29 |  4.078 | 🌒 | Wassende, sikkelvormige maan
-2020-01-30 |  4.856 | 🌒 | Wassende, sikkelvormige maan
 2020-01-31 |  5.711 | 🌒 | Wassende, sikkelvormige maan
 2020-02-01 |  6.567 | 🌒 | Wassende, sikkelvormige maan
 2020-02-02 |  7.422 | 🌓 | Eerste kwartier
@@ -828,3 +745,86 @@ Dag        | Fase   | Symbool | Naam
 2022-02-09 |  7.889 | 🌔 | Wassende,vooruitspringende maan
 2022-02-10 |  8.745 | 🌔 | Wassende,vooruitspringende maan
 2022-02-11 |  9.522 | 🌔 | Wassende,vooruitspringende maan
+2022-02-12 | 10.378 | 🌔 | Wassende,vooruitspringende maan
+2022-02-13 | 11.233 | 🌔 | Wassende,vooruitspringende maan
+2022-02-14 | 12.089 | 🌔 | Wassende,vooruitspringende maan
+2022-02-15 | 12.945 | 🌔 | Wassende,vooruitspringende maan
+2022-02-16 | 13.878 | 🌔 | Wassende,vooruitspringende maan
+2022-02-17 | 14.733 | 🌕 | Volle maan
+2022-02-18 | 15.667 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-19 | 16.678 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-20 | 17.611 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-21 | 18.545 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-22 | 19.556 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-23 | 20.567 | 🌖 | Krimpende, vooruitspringende maan
+2022-02-24 | 21.578 | 🌗 | Laatste kwartier
+2022-02-25 | 22.589 | 🌘 | Krimpende, sikkelvormige maan
+2022-02-26 | 23.600 | 🌘 | Krimpende, sikkelvormige maan
+2022-02-27 | 24.689 | 🌘 | Krimpende, sikkelvormige maan
+2022-02-28 | 25.700 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-01 | 26.711 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-02 | 27.722 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-03 |  0.733 | 🌑 | Nieuwe maan
+2022-03-04 |  1.745 | 🌒 | Wassende, sikkelvormige maan
+2022-03-05 |  2.678 | 🌒 | Wassende, sikkelvormige maan
+2022-03-06 |  3.689 | 🌒 | Wassende, sikkelvormige maan
+2022-03-07 |  4.545 | 🌒 | Wassende, sikkelvormige maan
+2022-03-08 |  5.400 | 🌒 | Wassende, sikkelvormige maan
+2022-03-09 |  6.256 | 🌒 | Wassende, sikkelvormige maan
+2022-03-10 |  7.111 | 🌓 | Eerste kwartier
+2022-03-11 |  7.967 | 🌔 | Wassende,vooruitspringende maan
+2022-03-12 |  8.822 | 🌔 | Wassende,vooruitspringende maan
+2022-03-13 |  9.678 | 🌔 | Wassende,vooruitspringende maan
+2022-03-14 | 10.533 | 🌔 | Wassende,vooruitspringende maan
+2022-03-15 | 11.389 | 🌔 | Wassende,vooruitspringende maan
+2022-03-16 | 12.322 | 🌔 | Wassende,vooruitspringende maan
+2022-03-17 | 13.256 | 🌔 | Wassende,vooruitspringende maan
+2022-03-18 | 14.189 | 🌕 | Volle maan
+2022-03-19 | 15.200 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-20 | 16.211 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-21 | 17.222 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-22 | 18.233 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-23 | 19.245 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-24 | 20.256 | 🌖 | Krimpende, vooruitspringende maan
+2022-03-25 | 21.267 | 🌗 | Laatste kwartier
+2022-03-26 | 22.278 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-27 | 23.289 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-28 | 24.300 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-29 | 25.311 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-30 | 26.322 | 🌘 | Krimpende, sikkelvormige maan
+2022-03-31 | 27.256 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-01 |  0.267 | 🌑 | Nieuwe maan
+2022-04-02 |  1.200 | 🌒 | Wassende, sikkelvormige maan
+2022-04-03 |  2.133 | 🌒 | Wassende, sikkelvormige maan
+2022-04-04 |  2.989 | 🌒 | Wassende, sikkelvormige maan
+2022-04-05 |  3.845 | 🌒 | Wassende, sikkelvormige maan
+2022-04-06 |  4.700 | 🌒 | Wassende, sikkelvormige maan
+2022-04-07 |  5.556 | 🌒 | Wassende, sikkelvormige maan
+2022-04-08 |  6.411 | 🌒 | Wassende, sikkelvormige maan
+2022-04-09 |  7.267 | 🌓 | Eerste kwartier
+2022-04-10 |  8.122 | 🌔 | Wassende,vooruitspringende maan
+2022-04-11 |  8.978 | 🌔 | Wassende,vooruitspringende maan
+2022-04-12 |  9.833 | 🌔 | Wassende,vooruitspringende maan
+2022-04-13 | 10.767 | 🌔 | Wassende,vooruitspringende maan
+2022-04-14 | 11.700 | 🌔 | Wassende,vooruitspringende maan
+2022-04-15 | 12.711 | 🌔 | Wassende,vooruitspringende maan
+2022-04-16 | 13.722 | 🌔 | Wassende,vooruitspringende maan
+2022-04-17 | 14.733 | 🌕 | Volle maan
+2022-04-18 | 15.745 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-19 | 16.833 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-20 | 17.845 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-21 | 18.933 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-22 | 19.945 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-23 | 20.956 | 🌖 | Krimpende, vooruitspringende maan
+2022-04-24 | 21.967 | 🌗 | Laatste kwartier
+2022-04-25 | 22.978 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-26 | 23.989 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-27 | 24.922 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-28 | 25.856 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-29 | 26.789 | 🌘 | Krimpende, sikkelvormige maan
+2022-04-30 | 27.722 | 🌘 | Krimpende, sikkelvormige maan
+2022-05-01 |  0.656 | 🌑 | Nieuwe maan
+2022-05-02 |  1.511 | 🌒 | Wassende, sikkelvormige maan
+2022-05-03 |  2.367 | 🌒 | Wassende, sikkelvormige maan
+2022-05-04 |  3.222 | 🌒 | Wassende, sikkelvormige maan
+2022-05-05 |  4.078 | 🌒 | Wassende, sikkelvormige maan

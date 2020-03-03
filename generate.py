@@ -154,12 +154,15 @@ def write_files(lang='en'):
  
     # open files for writing    
     tsv = open('moon-phases.tsv', 'w')
+    tsv_new = open('new-moon.tsv', 'w')
     tsv_full = open('full-moon.tsv', 'w')
     tsv_all = open('moon-phases-all.tsv', 'w')
     md = open('moon-phases.md', 'w')
+    md_new = open('new-moon.md', 'w')
     md_full = open('full-moon.md', 'w')
     md_all = open('moon-phases-all.md', 'w')
     ics = open('moon-phases.ics', 'w', newline='\r\n')
+    ics_new = open('new-moon.ics', 'w', newline='\r\n')
     ics_full = open('full-moon.ics', 'w', newline='\r\n')
     
     # write headers
@@ -168,32 +171,41 @@ def write_files(lang='en'):
         header[lang][1],
         header[lang][2],
         header[lang][3])
-    tsv_header_full = '# {}\t# {}\n'.format(
+    tsv_header_short = '# {}\t# {}\n'.format(
         header[lang][0],
         header[lang][1])
     tsv.write(tsv_header)
     tsv_all.write(tsv_header)
-    tsv_full.write(tsv_header_full)
+    tsv_new.write(tsv_header_short)
+    tsv_full.write(tsv_header_short)
     md_header = '''# {}
-    
+
 {} | {} | {} | {}
 -----------|-------:|---|---
 '''.format(header[lang][4].title(), header[lang][0].ljust(10),
            header[lang][1].ljust(6),
            header[lang][2],
            header[lang][3])
+    md_header_new = '''# {}
+
+{} | {}
+-----------|------:
+'''.format(moon_phase_names[lang][4].title(), header[lang][0].ljust(10),
+           header[lang][1])
     md_header_full = '''# {}
-    
+
 {} | {}
 -----------|------:
 '''.format(moon_phase_names[lang][4].title(), header[lang][0].ljust(10),
            header[lang][1])
     md.write(md_header)
     md_all.write(md_header)
+    md_new.write(md_header_new)
     md_full.write(md_header_full)
     calendar_header = open('../templates/calendar-header-{}.txt'.format(lang))
     for line in calendar_header:
         ics.write(line.replace('Lunar Phase', header[lang][4].title()))
+        ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0].title()))
         ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4].title()))
 
     # create event header
@@ -240,6 +252,17 @@ def write_files(lang='en'):
             ics.write('DTSTART;VALUE=DATE:{}\n'.format(ics_start.replace('-', '')))
             ics.write('DTEND;VALUE=DATE:{}\n'.format(ics_end.replace('-', '')))
             ics.write(event_footer)
+        if code == 0:
+            tsv_new.write('{}\t{:6.3f}\n'.format(day, phase))
+            md_new.write('{} | {:6.3f}\n'.format(day, phase,))
+            ics_new.write('{}{} {}\n'.format(event_header.strip(), symbol, name))
+            ics_new.write(uid_format % (dict(list(uid_replace_values.items()) + list({ 'lang': 'nl', 'seq': event_seq }.items()))))
+            event_seq += 1
+            ics_start = '{}'.format(day)
+            ics_end = '{}'.format(day + timedelta(days=1))
+            ics_new.write('DTSTART;VALUE=DATE:{}\n'.format(ics_start.replace('-', '')))
+            ics_new.write('DTEND;VALUE=DATE:{}\n'.format(ics_end.replace('-', '')))
+            ics_new.write(event_footer)
         if code == 4:
             tsv_full.write('{}\t{:6.3f}\n'.format(day, phase))
             md_full.write('{} | {:6.3f}\n'.format(day, phase,))
@@ -256,6 +279,7 @@ def write_files(lang='en'):
     calendar_footer = open('../templates/calendar-footer.txt')
     for line in calendar_footer:
         ics.write(line)
+        ics_new.write(line)
         ics_full.write(line)
 
 for lang in sorted(header.keys()):
