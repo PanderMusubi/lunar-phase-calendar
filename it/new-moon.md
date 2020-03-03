@@ -1,4 +1,4 @@
-# Luna Nuova
+# Luna nuova
 
 Giorno     | Fase
 -----------|------:

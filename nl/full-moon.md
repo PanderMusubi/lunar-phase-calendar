@@ -1,4 +1,4 @@
-# Volle Maan
+# Volle maan
 
 Dag        | Fase
 -----------|------:

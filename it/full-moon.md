@@ -1,4 +1,4 @@
-# Luna Piena
+# Luna piena
 
 Giorno     | Fase
 -----------|------:

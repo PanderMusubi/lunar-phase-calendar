@@ -1,4 +1,4 @@
-# Fase Lunari
+# Fase lunari
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---

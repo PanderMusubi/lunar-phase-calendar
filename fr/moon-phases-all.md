@@ -1,4 +1,4 @@
-# Phase Lunaire
+# Phase lunaire
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---

@@ -93,6 +93,8 @@ header = {'en': ('Day', 'Phase', 'Symbol', 'Name', 'Lunar Phase'),
           'af': ('Dag', 'Fase', 'Simbool', 'Naam', 'Maanfase'),
          }
 
+titles = ('en', 'pt')
+
 
 def moon_phase_code_to_name(code, lang='en'):
     return moon_phase_names[lang][code]
@@ -178,25 +180,34 @@ def write_files(lang='en'):
     tsv_all.write(tsv_header)
     tsv_new.write(tsv_header_short)
     tsv_full.write(tsv_header_short)
+    t = header[lang][4]
+    if lang in titles:
+        t = t.title()
     md_header = '''# {}
 
 {} | {} | {} | {}
 -----------|-------:|---|---
-'''.format(header[lang][4].title(), header[lang][0].ljust(10),
+'''.format(t, header[lang][0].ljust(10),
            header[lang][1].ljust(6),
            header[lang][2],
            header[lang][3])
+    t = moon_phase_names[lang][0]
+    if lang in titles:
+        t = t.title()
     md_header_new = '''# {}
 
 {} | {}
 -----------|------:
-'''.format(moon_phase_names[lang][0].title(), header[lang][0].ljust(10),
+'''.format(t, header[lang][0].ljust(10),
            header[lang][1])
+    t =moon_phase_names[lang][4]
+    if lang in titles:
+        t = t.title()
     md_header_full = '''# {}
 
 {} | {}
 -----------|------:
-'''.format(moon_phase_names[lang][4].title(), header[lang][0].ljust(10),
+'''.format(t, header[lang][0].ljust(10),
            header[lang][1])
     md.write(md_header)
     md_all.write(md_header)
@@ -204,9 +215,14 @@ def write_files(lang='en'):
     md_full.write(md_header_full)
     calendar_header = open('../templates/calendar-header-{}.txt'.format(lang))
     for line in calendar_header:
-        ics.write(line.replace('Lunar Phase', header[lang][4].title()))
-        ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0].title()))
-        ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4].title()))
+        if lang in titles:
+            ics.write(line.replace('Lunar Phase', header[lang][4].title()))
+            ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0].title()))
+            ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4].title()))
+        else:
+            ics.write(line.replace('Lunar Phase', header[lang][4]))
+            ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0]))
+            ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4]))
 
     # create event header
     event_header = ''

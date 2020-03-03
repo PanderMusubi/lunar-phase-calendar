@@ -1,4 +1,4 @@
-# Nieuwe Maan
+# Nieuwe maan
 
 Dag        | Fase
 -----------|------:
