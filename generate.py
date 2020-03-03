@@ -190,7 +190,7 @@ def write_files(lang='en'):
 
 {} | {}
 -----------|------:
-'''.format(moon_phase_names[lang][4].title(), header[lang][0].ljust(10),
+'''.format(moon_phase_names[lang][0].title(), header[lang][0].ljust(10),
            header[lang][1])
     md_header_full = '''# {}
 

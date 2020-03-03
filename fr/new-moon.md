@@ -1,4 +1,4 @@
-# Pleine Lune
+# Nouvelle Lune
 
 Jour       | Phase
 -----------|------:

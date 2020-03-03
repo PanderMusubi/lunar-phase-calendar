@@ -1,4 +1,4 @@
-# Full Moon
+# New Moon
 
 Day        | Phase
 -----------|------:

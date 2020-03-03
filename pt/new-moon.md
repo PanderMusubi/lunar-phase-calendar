@@ -1,4 +1,4 @@
-# Lua Cheia
+# Lua Nova
 
 Dia        | Fase
 -----------|------:

@@ -1,4 +1,4 @@
-# Vollmond
+# Neumond
 
 Tag        | Phase
 -----------|------:
