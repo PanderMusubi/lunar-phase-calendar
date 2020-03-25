@@ -2,28 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2020-01-31 |  5.711 | 🌒 | Lua crescente
-2020-02-01 |  6.567 | 🌒 | Lua crescente
-2020-02-02 |  7.422 | 🌓 | Quarto crescente
-2020-02-03 |  8.278 | 🌔 | Lua crescente gibosa
-2020-02-04 |  9.211 | 🌔 | Lua crescente gibosa
-2020-02-05 | 10.145 | 🌔 | Lua crescente gibosa
-2020-02-06 | 11.078 | 🌔 | Lua crescente gibosa
-2020-02-07 | 12.089 | 🌔 | Lua crescente gibosa
-2020-02-08 | 13.178 | 🌔 | Lua crescente gibosa
-2020-02-09 | 14.189 | 🌕 | Lua cheia
-2020-02-10 | 15.278 | 🌖 | Lua minguante gibosa
-2020-02-11 | 16.367 | 🌖 | Lua minguante gibosa
-2020-02-12 | 17.378 | 🌖 | Lua minguante gibosa
-2020-02-13 | 18.467 | 🌖 | Lua minguante gibosa
-2020-02-14 | 19.556 | 🌖 | Lua minguante gibosa
-2020-02-15 | 20.567 | 🌖 | Lua minguante gibosa
-2020-02-16 | 21.500 | 🌗 | Quarto minguante
-2020-02-17 | 22.511 | 🌘 | Lua minguante
-2020-02-18 | 23.445 | 🌘 | Lua minguante
-2020-02-19 | 24.378 | 🌘 | Lua minguante
-2020-02-20 | 25.311 | 🌘 | Lua minguante
-2020-02-21 | 26.245 | 🌘 | Lua minguante
 2020-02-22 | 27.100 | 🌘 | Lua minguante
 2020-02-23 | 27.956 | 🌘 | Lua minguante
 2020-02-24 |  0.811 | 🌑 | Lua nova
@@ -828,3 +806,25 @@ Dia        | Fase   | Símbolo | Nome
 2022-05-03 |  2.367 | 🌒 | Lua crescente
 2022-05-04 |  3.222 | 🌒 | Lua crescente
 2022-05-05 |  4.078 | 🌒 | Lua crescente
+2022-05-06 |  4.933 | 🌒 | Lua crescente
+2022-05-07 |  5.789 | 🌒 | Lua crescente
+2022-05-08 |  6.567 | 🌒 | Lua crescente
+2022-05-09 |  7.422 | 🌓 | Quarto crescente
+2022-05-10 |  8.356 | 🌔 | Lua crescente gibosa
+2022-05-11 |  9.289 | 🌔 | Lua crescente gibosa
+2022-05-12 | 10.222 | 🌔 | Lua crescente gibosa
+2022-05-13 | 11.233 | 🌔 | Lua crescente gibosa
+2022-05-14 | 12.245 | 🌔 | Lua crescente gibosa
+2022-05-15 | 13.256 | 🌔 | Lua crescente gibosa
+2022-05-16 | 14.345 | 🌕 | Lua cheia
+2022-05-17 | 15.433 | 🌖 | Lua minguante gibosa
+2022-05-18 | 16.522 | 🌖 | Lua minguante gibosa
+2022-05-19 | 17.533 | 🌖 | Lua minguante gibosa
+2022-05-20 | 18.622 | 🌖 | Lua minguante gibosa
+2022-05-21 | 19.711 | 🌖 | Lua minguante gibosa
+2022-05-22 | 20.722 | 🌖 | Lua minguante gibosa
+2022-05-23 | 21.733 | 🌗 | Quarto minguante
+2022-05-24 | 22.667 | 🌘 | Lua minguante
+2022-05-25 | 23.600 | 🌘 | Lua minguante
+2022-05-26 | 24.533 | 🌘 | Lua minguante
+2022-05-27 | 25.467 | 🌘 | Lua minguante

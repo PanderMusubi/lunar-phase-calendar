@@ -2,28 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2020-01-31 |  5.711 | 🌒 | Premier croissant
-2020-02-01 |  6.567 | 🌒 | Premier croissant
-2020-02-02 |  7.422 | 🌓 | Premier quartier
-2020-02-03 |  8.278 | 🌔 | Lune gibbeuse croissante
-2020-02-04 |  9.211 | 🌔 | Lune gibbeuse croissante
-2020-02-05 | 10.145 | 🌔 | Lune gibbeuse croissante
-2020-02-06 | 11.078 | 🌔 | Lune gibbeuse croissante
-2020-02-07 | 12.089 | 🌔 | Lune gibbeuse croissante
-2020-02-08 | 13.178 | 🌔 | Lune gibbeuse croissante
-2020-02-09 | 14.189 | 🌕 | Pleine lune
-2020-02-10 | 15.278 | 🌖 | Lune gibbeuse décroissante
-2020-02-11 | 16.367 | 🌖 | Lune gibbeuse décroissante
-2020-02-12 | 17.378 | 🌖 | Lune gibbeuse décroissante
-2020-02-13 | 18.467 | 🌖 | Lune gibbeuse décroissante
-2020-02-14 | 19.556 | 🌖 | Lune gibbeuse décroissante
-2020-02-15 | 20.567 | 🌖 | Lune gibbeuse décroissante
-2020-02-16 | 21.500 | 🌗 | Dernier quartier
-2020-02-17 | 22.511 | 🌘 | Dernier croissant
-2020-02-18 | 23.445 | 🌘 | Dernier croissant
-2020-02-19 | 24.378 | 🌘 | Dernier croissant
-2020-02-20 | 25.311 | 🌘 | Dernier croissant
-2020-02-21 | 26.245 | 🌘 | Dernier croissant
 2020-02-22 | 27.100 | 🌘 | Dernier croissant
 2020-02-23 | 27.956 | 🌘 | Dernier croissant
 2020-02-24 |  0.811 | 🌑 | Nouvelle lune
@@ -828,3 +806,25 @@ Jour       | Phase  | Symbole | Nom
 2022-05-03 |  2.367 | 🌒 | Premier croissant
 2022-05-04 |  3.222 | 🌒 | Premier croissant
 2022-05-05 |  4.078 | 🌒 | Premier croissant
+2022-05-06 |  4.933 | 🌒 | Premier croissant
+2022-05-07 |  5.789 | 🌒 | Premier croissant
+2022-05-08 |  6.567 | 🌒 | Premier croissant
+2022-05-09 |  7.422 | 🌓 | Premier quartier
+2022-05-10 |  8.356 | 🌔 | Lune gibbeuse croissante
+2022-05-11 |  9.289 | 🌔 | Lune gibbeuse croissante
+2022-05-12 | 10.222 | 🌔 | Lune gibbeuse croissante
+2022-05-13 | 11.233 | 🌔 | Lune gibbeuse croissante
+2022-05-14 | 12.245 | 🌔 | Lune gibbeuse croissante
+2022-05-15 | 13.256 | 🌔 | Lune gibbeuse croissante
+2022-05-16 | 14.345 | 🌕 | Pleine lune
+2022-05-17 | 15.433 | 🌖 | Lune gibbeuse décroissante
+2022-05-18 | 16.522 | 🌖 | Lune gibbeuse décroissante
+2022-05-19 | 17.533 | 🌖 | Lune gibbeuse décroissante
+2022-05-20 | 18.622 | 🌖 | Lune gibbeuse décroissante
+2022-05-21 | 19.711 | 🌖 | Lune gibbeuse décroissante
+2022-05-22 | 20.722 | 🌖 | Lune gibbeuse décroissante
+2022-05-23 | 21.733 | 🌗 | Dernier quartier
+2022-05-24 | 22.667 | 🌘 | Dernier croissant
+2022-05-25 | 23.600 | 🌘 | Dernier croissant
+2022-05-26 | 24.533 | 🌘 | Dernier croissant
+2022-05-27 | 25.467 | 🌘 | Dernier croissant

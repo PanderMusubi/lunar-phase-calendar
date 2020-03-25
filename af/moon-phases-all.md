@@ -2,28 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2020-01-31 |  5.711 | 🌒 | Groeiende sekelmaan
-2020-02-01 |  6.567 | 🌒 | Groeiende sekelmaan
-2020-02-02 |  7.422 | 🌓 | Eerste kwartier
-2020-02-03 |  8.278 | 🌔 | Groeiende bolmaan
-2020-02-04 |  9.211 | 🌔 | Groeiende bolmaan
-2020-02-05 | 10.145 | 🌔 | Groeiende bolmaan
-2020-02-06 | 11.078 | 🌔 | Groeiende bolmaan
-2020-02-07 | 12.089 | 🌔 | Groeiende bolmaan
-2020-02-08 | 13.178 | 🌔 | Groeiende bolmaan
-2020-02-09 | 14.189 | 🌕 | Volmaan
-2020-02-10 | 15.278 | 🌖 | Afnemende bolmaan
-2020-02-11 | 16.367 | 🌖 | Afnemende bolmaan
-2020-02-12 | 17.378 | 🌖 | Afnemende bolmaan
-2020-02-13 | 18.467 | 🌖 | Afnemende bolmaan
-2020-02-14 | 19.556 | 🌖 | Afnemende bolmaan
-2020-02-15 | 20.567 | 🌖 | Afnemende bolmaan
-2020-02-16 | 21.500 | 🌗 | Laaste kwartier
-2020-02-17 | 22.511 | 🌘 | Afnemende sekelmaan
-2020-02-18 | 23.445 | 🌘 | Afnemende sekelmaan
-2020-02-19 | 24.378 | 🌘 | Afnemende sekelmaan
-2020-02-20 | 25.311 | 🌘 | Afnemende sekelmaan
-2020-02-21 | 26.245 | 🌘 | Afnemende sekelmaan
 2020-02-22 | 27.100 | 🌘 | Afnemende sekelmaan
 2020-02-23 | 27.956 | 🌘 | Afnemende sekelmaan
 2020-02-24 |  0.811 | 🌑 | Donkermaan
@@ -828,3 +806,25 @@ Dag        | Fase   | Simbool | Naam
 2022-05-03 |  2.367 | 🌒 | Groeiende sekelmaan
 2022-05-04 |  3.222 | 🌒 | Groeiende sekelmaan
 2022-05-05 |  4.078 | 🌒 | Groeiende sekelmaan
+2022-05-06 |  4.933 | 🌒 | Groeiende sekelmaan
+2022-05-07 |  5.789 | 🌒 | Groeiende sekelmaan
+2022-05-08 |  6.567 | 🌒 | Groeiende sekelmaan
+2022-05-09 |  7.422 | 🌓 | Eerste kwartier
+2022-05-10 |  8.356 | 🌔 | Groeiende bolmaan
+2022-05-11 |  9.289 | 🌔 | Groeiende bolmaan
+2022-05-12 | 10.222 | 🌔 | Groeiende bolmaan
+2022-05-13 | 11.233 | 🌔 | Groeiende bolmaan
+2022-05-14 | 12.245 | 🌔 | Groeiende bolmaan
+2022-05-15 | 13.256 | 🌔 | Groeiende bolmaan
+2022-05-16 | 14.345 | 🌕 | Volmaan
+2022-05-17 | 15.433 | 🌖 | Afnemende bolmaan
+2022-05-18 | 16.522 | 🌖 | Afnemende bolmaan
+2022-05-19 | 17.533 | 🌖 | Afnemende bolmaan
+2022-05-20 | 18.622 | 🌖 | Afnemende bolmaan
+2022-05-21 | 19.711 | 🌖 | Afnemende bolmaan
+2022-05-22 | 20.722 | 🌖 | Afnemende bolmaan
+2022-05-23 | 21.733 | 🌗 | Laaste kwartier
+2022-05-24 | 22.667 | 🌘 | Afnemende sekelmaan
+2022-05-25 | 23.600 | 🌘 | Afnemende sekelmaan
+2022-05-26 | 24.533 | 🌘 | Afnemende sekelmaan
+2022-05-27 | 25.467 | 🌘 | Afnemende sekelmaan

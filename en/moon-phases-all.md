@@ -2,28 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2020-01-31 |  5.711 | 🌒 | Waxing crescent
-2020-02-01 |  6.567 | 🌒 | Waxing crescent
-2020-02-02 |  7.422 | 🌓 | First quarter
-2020-02-03 |  8.278 | 🌔 | Waxing gibbous
-2020-02-04 |  9.211 | 🌔 | Waxing gibbous
-2020-02-05 | 10.145 | 🌔 | Waxing gibbous
-2020-02-06 | 11.078 | 🌔 | Waxing gibbous
-2020-02-07 | 12.089 | 🌔 | Waxing gibbous
-2020-02-08 | 13.178 | 🌔 | Waxing gibbous
-2020-02-09 | 14.189 | 🌕 | Full moon
-2020-02-10 | 15.278 | 🌖 | Waning gibbous
-2020-02-11 | 16.367 | 🌖 | Waning gibbous
-2020-02-12 | 17.378 | 🌖 | Waning gibbous
-2020-02-13 | 18.467 | 🌖 | Waning gibbous
-2020-02-14 | 19.556 | 🌖 | Waning gibbous
-2020-02-15 | 20.567 | 🌖 | Waning gibbous
-2020-02-16 | 21.500 | 🌗 | Last quarter
-2020-02-17 | 22.511 | 🌘 | Waning crescent
-2020-02-18 | 23.445 | 🌘 | Waning crescent
-2020-02-19 | 24.378 | 🌘 | Waning crescent
-2020-02-20 | 25.311 | 🌘 | Waning crescent
-2020-02-21 | 26.245 | 🌘 | Waning crescent
 2020-02-22 | 27.100 | 🌘 | Waning crescent
 2020-02-23 | 27.956 | 🌘 | Waning crescent
 2020-02-24 |  0.811 | 🌑 | New moon
@@ -828,3 +806,25 @@ Day        | Phase  | Symbol | Name
 2022-05-03 |  2.367 | 🌒 | Waxing crescent
 2022-05-04 |  3.222 | 🌒 | Waxing crescent
 2022-05-05 |  4.078 | 🌒 | Waxing crescent
+2022-05-06 |  4.933 | 🌒 | Waxing crescent
+2022-05-07 |  5.789 | 🌒 | Waxing crescent
+2022-05-08 |  6.567 | 🌒 | Waxing crescent
+2022-05-09 |  7.422 | 🌓 | First quarter
+2022-05-10 |  8.356 | 🌔 | Waxing gibbous
+2022-05-11 |  9.289 | 🌔 | Waxing gibbous
+2022-05-12 | 10.222 | 🌔 | Waxing gibbous
+2022-05-13 | 11.233 | 🌔 | Waxing gibbous
+2022-05-14 | 12.245 | 🌔 | Waxing gibbous
+2022-05-15 | 13.256 | 🌔 | Waxing gibbous
+2022-05-16 | 14.345 | 🌕 | Full moon
+2022-05-17 | 15.433 | 🌖 | Waning gibbous
+2022-05-18 | 16.522 | 🌖 | Waning gibbous
+2022-05-19 | 17.533 | 🌖 | Waning gibbous
+2022-05-20 | 18.622 | 🌖 | Waning gibbous
+2022-05-21 | 19.711 | 🌖 | Waning gibbous
+2022-05-22 | 20.722 | 🌖 | Waning gibbous
+2022-05-23 | 21.733 | 🌗 | Last quarter
+2022-05-24 | 22.667 | 🌘 | Waning crescent
+2022-05-25 | 23.600 | 🌘 | Waning crescent
+2022-05-26 | 24.533 | 🌘 | Waning crescent
+2022-05-27 | 25.467 | 🌘 | Waning crescent

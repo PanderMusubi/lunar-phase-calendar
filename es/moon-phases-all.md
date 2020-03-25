@@ -2,28 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2020-01-31 |  5.711 | 🌒 | Luna creciente
-2020-02-01 |  6.567 | 🌒 | Luna creciente
-2020-02-02 |  7.422 | 🌓 | Cuarto creciente
-2020-02-03 |  8.278 | 🌔 | Luna creciente gibosa
-2020-02-04 |  9.211 | 🌔 | Luna creciente gibosa
-2020-02-05 | 10.145 | 🌔 | Luna creciente gibosa
-2020-02-06 | 11.078 | 🌔 | Luna creciente gibosa
-2020-02-07 | 12.089 | 🌔 | Luna creciente gibosa
-2020-02-08 | 13.178 | 🌔 | Luna creciente gibosa
-2020-02-09 | 14.189 | 🌕 | Luna llena
-2020-02-10 | 15.278 | 🌖 | Luna menguante gibosa
-2020-02-11 | 16.367 | 🌖 | Luna menguante gibosa
-2020-02-12 | 17.378 | 🌖 | Luna menguante gibosa
-2020-02-13 | 18.467 | 🌖 | Luna menguante gibosa
-2020-02-14 | 19.556 | 🌖 | Luna menguante gibosa
-2020-02-15 | 20.567 | 🌖 | Luna menguante gibosa
-2020-02-16 | 21.500 | 🌗 | Cuarto menguante
-2020-02-17 | 22.511 | 🌘 | Luna menguante
-2020-02-18 | 23.445 | 🌘 | Luna menguante
-2020-02-19 | 24.378 | 🌘 | Luna menguante
-2020-02-20 | 25.311 | 🌘 | Luna menguante
-2020-02-21 | 26.245 | 🌘 | Luna menguante
 2020-02-22 | 27.100 | 🌘 | Luna menguante
 2020-02-23 | 27.956 | 🌘 | Luna menguante
 2020-02-24 |  0.811 | 🌑 | Luna nueva
@@ -828,3 +806,25 @@ Día        | Fase   | Símbolo | Nombre
 2022-05-03 |  2.367 | 🌒 | Luna creciente
 2022-05-04 |  3.222 | 🌒 | Luna creciente
 2022-05-05 |  4.078 | 🌒 | Luna creciente
+2022-05-06 |  4.933 | 🌒 | Luna creciente
+2022-05-07 |  5.789 | 🌒 | Luna creciente
+2022-05-08 |  6.567 | 🌒 | Luna creciente
+2022-05-09 |  7.422 | 🌓 | Cuarto creciente
+2022-05-10 |  8.356 | 🌔 | Luna creciente gibosa
+2022-05-11 |  9.289 | 🌔 | Luna creciente gibosa
+2022-05-12 | 10.222 | 🌔 | Luna creciente gibosa
+2022-05-13 | 11.233 | 🌔 | Luna creciente gibosa
+2022-05-14 | 12.245 | 🌔 | Luna creciente gibosa
+2022-05-15 | 13.256 | 🌔 | Luna creciente gibosa
+2022-05-16 | 14.345 | 🌕 | Luna llena
+2022-05-17 | 15.433 | 🌖 | Luna menguante gibosa
+2022-05-18 | 16.522 | 🌖 | Luna menguante gibosa
+2022-05-19 | 17.533 | 🌖 | Luna menguante gibosa
+2022-05-20 | 18.622 | 🌖 | Luna menguante gibosa
+2022-05-21 | 19.711 | 🌖 | Luna menguante gibosa
+2022-05-22 | 20.722 | 🌖 | Luna menguante gibosa
+2022-05-23 | 21.733 | 🌗 | Cuarto menguante
+2022-05-24 | 22.667 | 🌘 | Luna menguante
+2022-05-25 | 23.600 | 🌘 | Luna menguante
+2022-05-26 | 24.533 | 🌘 | Luna menguante
+2022-05-27 | 25.467 | 🌘 | Luna menguante
