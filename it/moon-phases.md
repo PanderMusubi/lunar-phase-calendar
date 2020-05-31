@@ -2,15 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2020-02-24 |  0.811 | 🌑 | Luna nuova
-2020-03-03 |  7.656 | 🌓 | Primo quarto
-2020-03-10 | 14.811 | 🌕 | Luna piena
-2020-03-16 | 21.111 | 🌗 | Ultimo quarto
-2020-03-24 |  0.189 | 🌑 | Luna nuova
-2020-04-01 |  7.111 | 🌓 | Primo quarto
-2020-04-08 | 14.422 | 🌕 | Luna piena
-2020-04-15 | 21.578 | 🌗 | Ultimo quarto
-2020-04-23 |  0.422 | 🌑 | Luna nuova
 2020-05-01 |  7.656 | 🌓 | Primo quarto
 2020-05-07 | 14.033 | 🌕 | Luna piena
 2020-05-14 | 21.033 | 🌗 | Ultimo quarto
@@ -113,3 +104,11 @@ Giorno     | Fase   | Simbolo | Nome
 2022-05-09 |  7.422 | 🌓 | Primo quarto
 2022-05-16 | 14.345 | 🌕 | Luna piena
 2022-05-23 | 21.733 | 🌗 | Ultimo quarto
+2022-05-30 |  0.111 | 🌑 | Luna nuova
+2022-06-08 |  7.811 | 🌓 | Primo quarto
+2022-06-21 | 21.345 | 🌗 | Ultimo quarto
+2022-06-29 |  0.422 | 🌑 | Luna nuova
+2022-07-07 |  7.422 | 🌓 | Primo quarto
+2022-07-14 | 14.733 | 🌕 | Luna piena
+2022-07-21 | 21.889 | 🌗 | Ultimo quarto
+2022-07-29 |  0.733 | 🌑 | Luna nuova

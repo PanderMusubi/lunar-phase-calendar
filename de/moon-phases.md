@@ -2,15 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2020-02-24 |  0.811 | 🌑 | Neumond
-2020-03-03 |  7.656 | 🌓 | Erstes Viertel
-2020-03-10 | 14.811 | 🌕 | Vollmond
-2020-03-16 | 21.111 | 🌗 | Letztes Viertel
-2020-03-24 |  0.189 | 🌑 | Neumond
-2020-04-01 |  7.111 | 🌓 | Erstes Viertel
-2020-04-08 | 14.422 | 🌕 | Vollmond
-2020-04-15 | 21.578 | 🌗 | Letztes Viertel
-2020-04-23 |  0.422 | 🌑 | Neumond
 2020-05-01 |  7.656 | 🌓 | Erstes Viertel
 2020-05-07 | 14.033 | 🌕 | Vollmond
 2020-05-14 | 21.033 | 🌗 | Letztes Viertel
@@ -113,3 +104,11 @@ Tag        | Phase  | Symbole | Name
 2022-05-09 |  7.422 | 🌓 | Erstes Viertel
 2022-05-16 | 14.345 | 🌕 | Vollmond
 2022-05-23 | 21.733 | 🌗 | Letztes Viertel
+2022-05-30 |  0.111 | 🌑 | Neumond
+2022-06-08 |  7.811 | 🌓 | Erstes Viertel
+2022-06-21 | 21.345 | 🌗 | Letztes Viertel
+2022-06-29 |  0.422 | 🌑 | Neumond
+2022-07-07 |  7.422 | 🌓 | Erstes Viertel
+2022-07-14 | 14.733 | 🌕 | Vollmond
+2022-07-21 | 21.889 | 🌗 | Letztes Viertel
+2022-07-29 |  0.733 | 🌑 | Neumond

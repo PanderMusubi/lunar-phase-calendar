@@ -2,15 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2020-02-24 |  0.811 | 🌑 | Donkermaan
-2020-03-03 |  7.656 | 🌓 | Eerste kwartier
-2020-03-10 | 14.811 | 🌕 | Volmaan
-2020-03-16 | 21.111 | 🌗 | Laaste kwartier
-2020-03-24 |  0.189 | 🌑 | Donkermaan
-2020-04-01 |  7.111 | 🌓 | Eerste kwartier
-2020-04-08 | 14.422 | 🌕 | Volmaan
-2020-04-15 | 21.578 | 🌗 | Laaste kwartier
-2020-04-23 |  0.422 | 🌑 | Donkermaan
 2020-05-01 |  7.656 | 🌓 | Eerste kwartier
 2020-05-07 | 14.033 | 🌕 | Volmaan
 2020-05-14 | 21.033 | 🌗 | Laaste kwartier
@@ -113,3 +104,11 @@ Dag        | Fase   | Simbool | Naam
 2022-05-09 |  7.422 | 🌓 | Eerste kwartier
 2022-05-16 | 14.345 | 🌕 | Volmaan
 2022-05-23 | 21.733 | 🌗 | Laaste kwartier
+2022-05-30 |  0.111 | 🌑 | Donkermaan
+2022-06-08 |  7.811 | 🌓 | Eerste kwartier
+2022-06-21 | 21.345 | 🌗 | Laaste kwartier
+2022-06-29 |  0.422 | 🌑 | Donkermaan
+2022-07-07 |  7.422 | 🌓 | Eerste kwartier
+2022-07-14 | 14.733 | 🌕 | Volmaan
+2022-07-21 | 21.889 | 🌗 | Laaste kwartier
+2022-07-29 |  0.733 | 🌑 | Donkermaan

@@ -2,15 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2020-02-24 |  0.811 | 🌑 | Luna nueva
-2020-03-03 |  7.656 | 🌓 | Cuarto creciente
-2020-03-10 | 14.811 | 🌕 | Luna llena
-2020-03-16 | 21.111 | 🌗 | Cuarto menguante
-2020-03-24 |  0.189 | 🌑 | Luna nueva
-2020-04-01 |  7.111 | 🌓 | Cuarto creciente
-2020-04-08 | 14.422 | 🌕 | Luna llena
-2020-04-15 | 21.578 | 🌗 | Cuarto menguante
-2020-04-23 |  0.422 | 🌑 | Luna nueva
 2020-05-01 |  7.656 | 🌓 | Cuarto creciente
 2020-05-07 | 14.033 | 🌕 | Luna llena
 2020-05-14 | 21.033 | 🌗 | Cuarto menguante
@@ -113,3 +104,11 @@ Día        | Fase   | Símbolo | Nombre
 2022-05-09 |  7.422 | 🌓 | Cuarto creciente
 2022-05-16 | 14.345 | 🌕 | Luna llena
 2022-05-23 | 21.733 | 🌗 | Cuarto menguante
+2022-05-30 |  0.111 | 🌑 | Luna nueva
+2022-06-08 |  7.811 | 🌓 | Cuarto creciente
+2022-06-21 | 21.345 | 🌗 | Cuarto menguante
+2022-06-29 |  0.422 | 🌑 | Luna nueva
+2022-07-07 |  7.422 | 🌓 | Cuarto creciente
+2022-07-14 | 14.733 | 🌕 | Luna llena
+2022-07-21 | 21.889 | 🌗 | Cuarto menguante
+2022-07-29 |  0.733 | 🌑 | Luna nueva
