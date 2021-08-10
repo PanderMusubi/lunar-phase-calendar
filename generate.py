@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
+'''Generates calendars with lunar phase in iCal format.'''
 
 from datetime import date, datetime, timedelta
-from astral import moon
 from os.path import isdir
 from os import makedirs, chdir, getpid
 from socket import getfqdn
+from astral import moon
 
 
 moon_phase_names = {'en':
@@ -97,14 +98,17 @@ titles = ('en', 'pt')
 
 
 def moon_phase_code_to_name(code, lang='en'):
+    '''Converts moon phase code to name.'''
     return moon_phase_names[lang][code]
 
 
 def moon_phase_code_to_symbol(code):
+    '''Converts moon phase code to symbol.'''
     return moon_phase_symbols[code]
 
 
 def moon_phase_to_inacurate_code(phase):
+    '''Converts moon phase code to inacurate code.'''
     phase = int(phase)
     if phase == 0:
         return 0
@@ -124,6 +128,7 @@ def moon_phase_to_inacurate_code(phase):
 
 
 def day_to_moon_phase_and_accurate_code(day):
+    '''Converts day to moon phase and accurate code.'''
     phase_today = moon.phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
@@ -140,6 +145,7 @@ def day_to_moon_phase_and_accurate_code(day):
 
 
 def write_files(lang='en'):
+    '''Writes calendar files.'''
     # date and time
     utcnow = datetime.utcnow()
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
@@ -154,17 +160,17 @@ def write_files(lang='en'):
     event_seq = 1
 
     # open files for writing
-    tsv = open('moon-phases.tsv', 'w')
-    tsv_new = open('new-moon.tsv', 'w')
-    tsv_full = open('full-moon.tsv', 'w')
-    tsv_all = open('moon-phases-all.tsv', 'w')
-    md = open('moon-phases.md', 'w')
-    md_new = open('new-moon.md', 'w')
-    md_full = open('full-moon.md', 'w')
-    md_all = open('moon-phases-all.md', 'w')
-    ics = open('moon-phases.ics', 'w', newline='\r\n')
-    ics_new = open('new-moon.ics', 'w', newline='\r\n')
-    ics_full = open('full-moon.ics', 'w', newline='\r\n')
+    tsv = open('moon-phases.tsv', 'w')  # pylint:disable=consider-using-with
+    tsv_new = open('new-moon.tsv', 'w')  # pylint:disable=consider-using-with
+    tsv_full = open('full-moon.tsv', 'w')  # pylint:disable=consider-using-with
+    tsv_all = open('moon-phases-all.tsv', 'w')  # pylint:disable=consider-using-with
+    md = open('moon-phases.md', 'w')  # pylint:disable=consider-using-with
+    md_new = open('new-moon.md', 'w')  # pylint:disable=consider-using-with
+    md_full = open('full-moon.md', 'w')  # pylint:disable=consider-using-with
+    md_all = open('moon-phases-all.md', 'w')  # pylint:disable=consider-using-with
+    ics = open('moon-phases.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
+    ics_new = open('new-moon.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
+    ics_full = open('full-moon.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
 
     # write headers
     tsv_header = '# {}\t# {}\t# {}\t# {}\n'.format(
@@ -179,40 +185,40 @@ def write_files(lang='en'):
     tsv_all.write(tsv_header)
     tsv_new.write(tsv_header_short)
     tsv_full.write(tsv_header_short)
-    t = header[lang][4]
+    title = header[lang][4]
     if lang in titles:
-        t = t.title()
+        title = title.title()
     md_header = '''# {}
 
 {} | {} | {} | {}
 -----------|-------:|---|---
-'''.format(t, header[lang][0].ljust(10),
+'''.format(title, header[lang][0].ljust(10),
            header[lang][1].ljust(6),
            header[lang][2],
            header[lang][3])
-    t = moon_phase_names[lang][0]
+    title = moon_phase_names[lang][0]
     if lang in titles:
-        t = t.title()
+        title = title.title()
     md_header_new = '''# {}
 
 {} | {}
 -----------|------:
-'''.format(t, header[lang][0].ljust(10),
+'''.format(title, header[lang][0].ljust(10),
            header[lang][1])
-    t =moon_phase_names[lang][4]
+    title = moon_phase_names[lang][4]
     if lang in titles:
-        t = t.title()
+        title = title.title()
     md_header_full = '''# {}
 
 {} | {}
 -----------|------:
-'''.format(t, header[lang][0].ljust(10),
+'''.format(title, header[lang][0].ljust(10),
            header[lang][1])
     md.write(md_header)
     md_all.write(md_header)
     md_new.write(md_header_new)
     md_full.write(md_header_full)
-    calendar_header = open('../templates/calendar-header-{}.txt'.format(lang))
+    calendar_header = open('../templates/calendar-header-{}.txt'.format(lang))  # pylint:disable=consider-using-with
     for line in calendar_header:
         if lang in titles:
             ics.write(line.replace('Lunar Phase', header[lang][4].title()))
@@ -225,12 +231,12 @@ def write_files(lang='en'):
 
     # create event header
     event_header = ''
-    for line in open('../templates/event-header.txt'):
+    for line in open('../templates/event-header.txt'):  # pylint:disable=consider-using-with
         event_header += line.replace('DTSTAMP:', 'DTSTAMP:{}'.format(dtstamp))
 
     # create event footer
     event_footer = ''
-    for line in open('../templates/event-footer.txt'):
+    for line in open('../templates/event-footer.txt'):  # pylint:disable=consider-using-with
         event_footer += line
 
     today = date.today()
@@ -290,15 +296,15 @@ def write_files(lang='en'):
             ics_full.write(event_footer)
 
 
-    calendar_footer = open('../templates/calendar-footer.txt')
+    calendar_footer = open('../templates/calendar-footer.txt')  # pylint:disable=consider-using-with
     for line in calendar_footer:
         ics.write(line)
         ics_new.write(line)
         ics_full.write(line)
 
-for lang in sorted(header.keys()):
-    if not isdir(lang):
-        makedirs(lang)
-    chdir(lang)
-    write_files(lang)
+for language in sorted(header.keys()):
+    if not isdir(language):
+        makedirs(language)
+    chdir(language)
+    write_files(language)
     chdir('..')
