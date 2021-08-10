@@ -1,0 +1,58 @@
+{
+  "en": [
+    "Day",
+    "Phase",
+    "Symbol",
+    "Name",
+    "Lunar Phase"
+  ],
+  "nl": [
+    "Dag",
+    "Fase",
+    "Symbool",
+    "Naam",
+    "Maanfase"
+  ],
+  "de": [
+    "Tag",
+    "Phase",
+    "Symbole",
+    "Name",
+    "Mondphase"
+  ],
+  "fr": [
+    "Jour",
+    "Phase",
+    "Symbole",
+    "Nom",
+    "Phase lunaire"
+  ],
+  "es": [
+    "Día",
+    "Fase",
+    "Símbolo",
+    "Nombre",
+    "Fase lunar"
+  ],
+  "pt": [
+    "Dia",
+    "Fase",
+    "Símbolo",
+    "Nome",
+    "Fase da Lua"
+  ],
+  "it": [
+    "Giorno",
+    "Fase",
+    "Simbolo",
+    "Nome",
+    "Fase lunari"
+  ],
+  "af": [
+    "Dag",
+    "Fase",
+    "Simbool",
+    "Naam",
+    "Maanfase"
+  ]
+}

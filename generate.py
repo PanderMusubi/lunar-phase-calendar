@@ -2,97 +2,19 @@
 '''Generates calendars with lunar phase in iCal format.'''
 
 from datetime import date, datetime, timedelta
-from os.path import isdir
-from os import makedirs, chdir, getpid
+from json import load
+from os.path import isdir, realpath, join, dirname
+from os import makedirs, chdir, getpid, getcwd
 from socket import getfqdn
 from astral import moon
 
 
-moon_phase_names = {'en':
-                    ('New moon',
-                     'Waxing crescent',
-                     'First quarter',
-                     'Waxing gibbous',
-                     'Full moon',
-                     'Waning gibbous',
-                     'Last quarter',
-                     'Waning crescent'),
-                    'nl':
-                    ('Nieuwe maan',
-                     'Wassende, sikkelvormige maan',
-                     'Eerste kwartier',
-                     'Wassende,vooruitspringende maan',
-                     'Volle maan',
-                     'Krimpende, vooruitspringende maan',
-                     'Laatste kwartier',
-                     'Krimpende, sikkelvormige maan'),
-                    'de':
-                    ('Neumond',
-                     'Zunehmender Sichelmond',
-                     'Erstes Viertel',
-                     'Zunehmender Mond',
-                     'Vollmond',
-                     'Abnehmender Mond',
-                     'Letztes Viertel',
-                     'Abnehmender Sichelmond'),
-                    'fr':
-                    ('Nouvelle lune',
-                     'Premier croissant',
-                     'Premier quartier',
-                     'Lune gibbeuse croissante',
-                     'Pleine lune',
-                     'Lune gibbeuse décroissante',
-                     'Dernier quartier',
-                     'Dernier croissant'),
-                    'es':
-                    ('Luna nueva',
-                     'Luna creciente',
-                     'Cuarto creciente',
-                     'Luna creciente gibosa',
-                     'Luna llena',
-                     'Luna menguante gibosa',
-                     'Cuarto menguante',
-                     'Luna menguante'),
-                    'pt':
-                    ('Lua nova',
-                     'Lua crescente',
-                     'Quarto crescente',
-                     'Lua crescente gibosa',
-                     'Lua cheia',
-                     'Lua minguante gibosa',
-                     'Quarto minguante',
-                     'Lua minguante'),
-                    'it':
-                    ('Luna nuova',
-                     'Luna crescente',
-                     'Primo quarto',
-                     'Gibbosa crescente',
-                     'Luna piena',
-                     'Gibbosa calante',
-                     'Ultimo quarto',
-                     'Luna calante'),
-                    'af':
-                    ('Donkermaan',
-                     'Groeiende sekelmaan',
-                     'Eerste kwartier',
-                     'Groeiende bolmaan',
-                     'Volmaan',
-                     'Afnemende bolmaan',
-                     'Laaste kwartier',
-                     'Afnemende sekelmaan'),
-                   }
+__location__ = realpath(join(getcwd(), dirname(__file__)))
+moon_phase_names = load(open(join(__location__, 'moon-phase-names.json')))  # pylint:disable=consider-using-with
 moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '🌘')
 
 # capitalized header values for day, phase, symbol, name and title
-header = {'en': ('Day', 'Phase', 'Symbol', 'Name', 'Lunar Phase'),
-          'nl': ('Dag', 'Fase', 'Symbool', 'Naam', 'Maanfase'),
-          'de': ('Tag', 'Phase', 'Symbole', 'Name', 'Mondphase'),
-          'fr': ('Jour', 'Phase', 'Symbole', 'Nom', 'Phase lunaire'),
-          'es': ('Día', 'Fase', 'Símbolo', 'Nombre', 'Fase lunar'),
-          'pt': ('Dia', 'Fase', 'Símbolo', 'Nome', 'Fase da Lua'),
-          'it': ('Giorno', 'Fase', 'Simbolo', 'Nome', 'Fase lunari'),
-          'af': ('Dag', 'Fase', 'Simbool', 'Naam', 'Maanfase'),
-         }
+header = load(open(join(__location__, 'headers.json')))  # pylint:disable=consider-using-with
 
 titles = ('en', 'pt')
 
@@ -112,15 +34,15 @@ def moon_phase_to_inacurate_code(phase):
     phase = int(phase)
     if phase == 0:
         return 0
-    if phase > 0 and phase < 7:
+    if 0 < phase < 7:
         return 1
     if phase == 7:
         return 2
-    if phase > 7 and phase < 14:
+    if 7 < phase < 14:
         return 3
     if phase == 14:
         return 4
-    if phase > 14 and phase < 21:
+    if 14 < phase < 21:
         return 5
     if phase == 21:
         return 6

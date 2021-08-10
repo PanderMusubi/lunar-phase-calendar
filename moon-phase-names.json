@@ -1,0 +1,82 @@
+{
+  "en": [
+    "New moon",
+    "Waxing crescent",
+    "First quarter",
+    "Waxing gibbous",
+    "Full moon",
+    "Waning gibbous",
+    "Last quarter",
+    "Waning crescent"
+  ],
+  "nl": [
+    "Nieuwe maan",
+    "Wassende, sikkelvormige maan",
+    "Eerste kwartier",
+    "Wassende,vooruitspringende maan",
+    "Volle maan",
+    "Krimpende, vooruitspringende maan",
+    "Laatste kwartier",
+    "Krimpende, sikkelvormige maan"
+  ],
+  "de": [
+    "Neumond",
+    "Zunehmender Sichelmond",
+    "Erstes Viertel",
+    "Zunehmender Mond",
+    "Vollmond",
+    "Abnehmender Mond",
+    "Letztes Viertel",
+    "Abnehmender Sichelmond"
+  ],
+  "fr": [
+    "Nouvelle lune",
+    "Premier croissant",
+    "Premier quartier",
+    "Lune gibbeuse croissante",
+    "Pleine lune",
+    "Lune gibbeuse décroissante",
+    "Dernier quartier",
+    "Dernier croissant"
+  ],
+  "es": [
+    "Luna nueva",
+    "Luna creciente",
+    "Cuarto creciente",
+    "Luna creciente gibosa",
+    "Luna llena",
+    "Luna menguante gibosa",
+    "Cuarto menguante",
+    "Luna menguante"
+  ],
+  "pt": [
+    "Lua nova",
+    "Lua crescente",
+    "Quarto crescente",
+    "Lua crescente gibosa",
+    "Lua cheia",
+    "Lua minguante gibosa",
+    "Quarto minguante",
+    "Lua minguante"
+  ],
+  "it": [
+    "Luna nuova",
+    "Luna crescente",
+    "Primo quarto",
+    "Gibbosa crescente",
+    "Luna piena",
+    "Gibbosa calante",
+    "Ultimo quarto",
+    "Luna calante"
+  ],
+  "af": [
+    "Donkermaan",
+    "Groeiende sekelmaan",
+    "Eerste kwartier",
+    "Groeiende bolmaan",
+    "Volmaan",
+    "Afnemende bolmaan",
+    "Laaste kwartier",
+    "Afnemende sekelmaan"
+  ]
+}
