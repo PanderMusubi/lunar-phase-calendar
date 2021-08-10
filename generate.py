@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from datetime import date, datetime, timedelta
-from astral import Astral
+from astral import moon
 from os.path import isdir
 from os import makedirs, chdir, getpid
 from socket import getfqdn
@@ -124,14 +124,14 @@ def moon_phase_to_inacurate_code(phase):
         return 7
 
 
-def day_to_moon_phase_and_accurate_code(a, day):
-    phase_today = a.moon_phase(date=day, rtype=float)
+def day_to_moon_phase_and_accurate_code(day):
+    phase_today = moon.phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
     if code_today % 2 != 0:
         return phase_today, code_today
     
-    phase_yesterday = a.moon_phase(date=day - timedelta(days=1), rtype=float)
+    phase_yesterday = moon.phase(day - timedelta(days=1))
     code_yesterday = moon_phase_to_inacurate_code(phase_yesterday)
    
     if code_today == code_yesterday:
@@ -234,13 +234,12 @@ def write_files(lang='en'):
     for line in open('../templates/event-footer.txt'):
         event_footer += line
 
-    a = Astral()
     today = date.today()
     start = today - timedelta(days=31 + 1)
     end = today + timedelta(days=(2 * 366) + (2 * 31))
     for i in range((end - start).days):
         day = start + timedelta(days=i)
-        phase, code = day_to_moon_phase_and_accurate_code(a, day)
+        phase, code = day_to_moon_phase_and_accurate_code(day)
         symbol = moon_phase_code_to_symbol(code)
         name = moon_phase_code_to_name(code, lang)
         tsv_all.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,

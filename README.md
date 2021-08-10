@@ -20,13 +20,11 @@ lunar phase calendar you are looking for. In case a calendar is lagging behind
 too much, you want to contribute a translation or report a bug or feature,
 please create an issue.
 
-
 ## Screenshots
 
 ![Thunderbird](images/thunderbird.png)
 
 <img alt="Android" src="images/android.png" width="50%" />
-
 
 ## Calendar Software
 
@@ -47,7 +45,6 @@ Check marks in the table have links to the software. ICSx⁵ can also be found i
 the [F-Droid](https://f-droid.org/repository/browse/?fdfilter=calendar&fdid=at.bitfire.icsdroid)
 app store. Do **not** use software that can only import ICS files.
 
-
 ## Using ICS Files in Calendar Software
 
 After you have copied the URL of an ICS file, please paste this in your calendar
@@ -56,7 +53,6 @@ this is called to subscribe to a calendar. Usually you can choose how often
 synchronization has to be done to keep your lunar phase calendar up to date. Set
 this to 24 hours, because there are not that many updates. Again, do **not**
 choose the (one time) import of the ICS calender as it will not update itself.
-
 
 ## Emoji
 
@@ -75,3 +71,13 @@ gibbous
 7. 🌗 [`U+1F317`](https://emojipedia.org/last-quarter-moon-symbol/) Last quarter
 8. 🌘 [`U+1F318`](https://emojipedia.org/waning-crescent-moon-symbol/) Waning
 crescent
+
+## Generating
+
+Generate a new calender by installing the required package with
+
+    sudo pip3 install -U astral
+
+and run
+
+    ./generate.py
