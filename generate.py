@@ -108,20 +108,19 @@ def moon_phase_to_inacurate_code(phase):
     phase = int(phase)
     if phase == 0:
         return 0
-    elif phase > 0 and phase < 7:
+    if phase > 0 and phase < 7:
         return 1
-    elif phase == 7:
+    if phase == 7:
         return 2
-    elif phase > 7 and phase < 14:
+    if phase > 7 and phase < 14:
         return 3
-    elif phase == 14:
+    if phase == 14:
         return 4
-    elif phase > 14 and phase < 21:
+    if phase > 14 and phase < 21:
         return 5
-    elif phase == 21:
+    if phase == 21:
         return 6
-    else:
-        return 7
+    return 7
 
 
 def day_to_moon_phase_and_accurate_code(day):
@@ -130,13 +129,13 @@ def day_to_moon_phase_and_accurate_code(day):
 
     if code_today % 2 != 0:
         return phase_today, code_today
-    
+
     phase_yesterday = moon.phase(day - timedelta(days=1))
     code_yesterday = moon_phase_to_inacurate_code(phase_yesterday)
-   
+
     if code_today == code_yesterday:
-        return phase_today, code_today + 1   
-        
+        return phase_today, code_today + 1
+
     return phase_today, code_today
 
 
@@ -144,7 +143,7 @@ def write_files(lang='en'):
     # date and time
     utcnow = datetime.utcnow()
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
-    
+
     # event UID
     uid_format='UID:%(date)s-%(pid)d-%(seq)04d-%(lang)s@%(domain)s\n'
     uid_replace_values = {
@@ -153,8 +152,8 @@ def write_files(lang='en'):
         'domain': getfqdn()
     }
     event_seq = 1
- 
-    # open files for writing    
+
+    # open files for writing
     tsv = open('moon-phases.tsv', 'w')
     tsv_new = open('new-moon.tsv', 'w')
     tsv_full = open('full-moon.tsv', 'w')
@@ -166,7 +165,7 @@ def write_files(lang='en'):
     ics = open('moon-phases.ics', 'w', newline='\r\n')
     ics_new = open('new-moon.ics', 'w', newline='\r\n')
     ics_full = open('full-moon.ics', 'w', newline='\r\n')
-    
+
     # write headers
     tsv_header = '# {}\t# {}\t# {}\t# {}\n'.format(
         header[lang][0].ljust(10),
@@ -228,7 +227,7 @@ def write_files(lang='en'):
     event_header = ''
     for line in open('../templates/event-header.txt'):
         event_header += line.replace('DTSTAMP:', 'DTSTAMP:{}'.format(dtstamp))
-    
+
     # create event footer
     event_footer = ''
     for line in open('../templates/event-footer.txt'):
@@ -290,7 +289,7 @@ def write_files(lang='en'):
             ics_full.write('DTEND;VALUE=DATE:{}\n'.format(ics_end.replace('-', '')))
             ics_full.write(event_footer)
 
-            
+
     calendar_footer = open('../templates/calendar-footer.txt')
     for line in calendar_footer:
         ics.write(line)
