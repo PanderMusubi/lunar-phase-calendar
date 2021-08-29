@@ -2,25 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2021-07-09 | 27.567 | 🌘 | Abnehmender Sichelmond
-2021-07-10 |  0.422 | 🌑 | Neumond
-2021-07-11 |  1.356 | 🌒 | Zunehmender Sichelmond
-2021-07-12 |  2.289 | 🌒 | Zunehmender Sichelmond
-2021-07-13 |  3.222 | 🌒 | Zunehmender Sichelmond
-2021-07-14 |  4.156 | 🌒 | Zunehmender Sichelmond
-2021-07-15 |  5.089 | 🌒 | Zunehmender Sichelmond
-2021-07-16 |  6.100 | 🌒 | Zunehmender Sichelmond
-2021-07-17 |  7.111 | 🌓 | Erstes Viertel
-2021-07-18 |  8.122 | 🌔 | Zunehmender Mond
-2021-07-19 |  9.133 | 🌔 | Zunehmender Mond
-2021-07-20 | 10.145 | 🌔 | Zunehmender Mond
-2021-07-21 | 11.233 | 🌔 | Zunehmender Mond
-2021-07-22 | 12.245 | 🌔 | Zunehmender Mond
-2021-07-23 | 13.333 | 🌔 | Zunehmender Mond
-2021-07-24 | 14.345 | 🌕 | Vollmond
-2021-07-25 | 15.433 | 🌖 | Abnehmender Mond
-2021-07-26 | 16.445 | 🌖 | Abnehmender Mond
-2021-07-27 | 17.378 | 🌖 | Abnehmender Mond
 2021-07-28 | 18.389 | 🌖 | Abnehmender Mond
 2021-07-29 | 19.322 | 🌖 | Abnehmender Mond
 2021-07-30 | 20.178 | 🌖 | Abnehmender Mond
@@ -828,3 +809,22 @@ Tag        | Phase  | Symbole | Name
 2023-10-10 | 24.456 | 🌘 | Abnehmender Sichelmond
 2023-10-11 | 25.233 | 🌘 | Abnehmender Sichelmond
 2023-10-12 | 26.089 | 🌘 | Abnehmender Sichelmond
+2023-10-13 | 26.945 | 🌘 | Abnehmender Sichelmond
+2023-10-14 | 27.800 | 🌘 | Abnehmender Sichelmond
+2023-10-15 |  0.733 | 🌑 | Neumond
+2023-10-16 |  1.589 | 🌒 | Zunehmender Sichelmond
+2023-10-17 |  2.522 | 🌒 | Zunehmender Sichelmond
+2023-10-18 |  3.456 | 🌒 | Zunehmender Sichelmond
+2023-10-19 |  4.467 | 🌒 | Zunehmender Sichelmond
+2023-10-20 |  5.400 | 🌒 | Zunehmender Sichelmond
+2023-10-21 |  6.411 | 🌒 | Zunehmender Sichelmond
+2023-10-22 |  7.345 | 🌓 | Erstes Viertel
+2023-10-23 |  8.356 | 🌔 | Zunehmender Mond
+2023-10-24 |  9.445 | 🌔 | Zunehmender Mond
+2023-10-25 | 10.456 | 🌔 | Zunehmender Mond
+2023-10-26 | 11.467 | 🌔 | Zunehmender Mond
+2023-10-27 | 12.556 | 🌔 | Zunehmender Mond
+2023-10-28 | 13.567 | 🌔 | Zunehmender Mond
+2023-10-29 | 14.656 | 🌕 | Vollmond
+2023-10-30 | 15.667 | 🌖 | Abnehmender Mond
+2023-10-31 | 16.678 | 🌖 | Abnehmender Mond

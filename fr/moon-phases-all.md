@@ -2,25 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2021-07-09 | 27.567 | 🌘 | Dernier croissant
-2021-07-10 |  0.422 | 🌑 | Nouvelle lune
-2021-07-11 |  1.356 | 🌒 | Premier croissant
-2021-07-12 |  2.289 | 🌒 | Premier croissant
-2021-07-13 |  3.222 | 🌒 | Premier croissant
-2021-07-14 |  4.156 | 🌒 | Premier croissant
-2021-07-15 |  5.089 | 🌒 | Premier croissant
-2021-07-16 |  6.100 | 🌒 | Premier croissant
-2021-07-17 |  7.111 | 🌓 | Premier quartier
-2021-07-18 |  8.122 | 🌔 | Lune gibbeuse croissante
-2021-07-19 |  9.133 | 🌔 | Lune gibbeuse croissante
-2021-07-20 | 10.145 | 🌔 | Lune gibbeuse croissante
-2021-07-21 | 11.233 | 🌔 | Lune gibbeuse croissante
-2021-07-22 | 12.245 | 🌔 | Lune gibbeuse croissante
-2021-07-23 | 13.333 | 🌔 | Lune gibbeuse croissante
-2021-07-24 | 14.345 | 🌕 | Pleine lune
-2021-07-25 | 15.433 | 🌖 | Lune gibbeuse décroissante
-2021-07-26 | 16.445 | 🌖 | Lune gibbeuse décroissante
-2021-07-27 | 17.378 | 🌖 | Lune gibbeuse décroissante
 2021-07-28 | 18.389 | 🌖 | Lune gibbeuse décroissante
 2021-07-29 | 19.322 | 🌖 | Lune gibbeuse décroissante
 2021-07-30 | 20.178 | 🌖 | Lune gibbeuse décroissante
@@ -828,3 +809,22 @@ Jour       | Phase  | Symbole | Nom
 2023-10-10 | 24.456 | 🌘 | Dernier croissant
 2023-10-11 | 25.233 | 🌘 | Dernier croissant
 2023-10-12 | 26.089 | 🌘 | Dernier croissant
+2023-10-13 | 26.945 | 🌘 | Dernier croissant
+2023-10-14 | 27.800 | 🌘 | Dernier croissant
+2023-10-15 |  0.733 | 🌑 | Nouvelle lune
+2023-10-16 |  1.589 | 🌒 | Premier croissant
+2023-10-17 |  2.522 | 🌒 | Premier croissant
+2023-10-18 |  3.456 | 🌒 | Premier croissant
+2023-10-19 |  4.467 | 🌒 | Premier croissant
+2023-10-20 |  5.400 | 🌒 | Premier croissant
+2023-10-21 |  6.411 | 🌒 | Premier croissant
+2023-10-22 |  7.345 | 🌓 | Premier quartier
+2023-10-23 |  8.356 | 🌔 | Lune gibbeuse croissante
+2023-10-24 |  9.445 | 🌔 | Lune gibbeuse croissante
+2023-10-25 | 10.456 | 🌔 | Lune gibbeuse croissante
+2023-10-26 | 11.467 | 🌔 | Lune gibbeuse croissante
+2023-10-27 | 12.556 | 🌔 | Lune gibbeuse croissante
+2023-10-28 | 13.567 | 🌔 | Lune gibbeuse croissante
+2023-10-29 | 14.656 | 🌕 | Pleine lune
+2023-10-30 | 15.667 | 🌖 | Lune gibbeuse décroissante
+2023-10-31 | 16.678 | 🌖 | Lune gibbeuse décroissante

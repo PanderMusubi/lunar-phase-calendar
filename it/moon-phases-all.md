@@ -2,25 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2021-07-09 | 27.567 | 🌘 | Luna calante
-2021-07-10 |  0.422 | 🌑 | Luna nuova
-2021-07-11 |  1.356 | 🌒 | Luna crescente
-2021-07-12 |  2.289 | 🌒 | Luna crescente
-2021-07-13 |  3.222 | 🌒 | Luna crescente
-2021-07-14 |  4.156 | 🌒 | Luna crescente
-2021-07-15 |  5.089 | 🌒 | Luna crescente
-2021-07-16 |  6.100 | 🌒 | Luna crescente
-2021-07-17 |  7.111 | 🌓 | Primo quarto
-2021-07-18 |  8.122 | 🌔 | Gibbosa crescente
-2021-07-19 |  9.133 | 🌔 | Gibbosa crescente
-2021-07-20 | 10.145 | 🌔 | Gibbosa crescente
-2021-07-21 | 11.233 | 🌔 | Gibbosa crescente
-2021-07-22 | 12.245 | 🌔 | Gibbosa crescente
-2021-07-23 | 13.333 | 🌔 | Gibbosa crescente
-2021-07-24 | 14.345 | 🌕 | Luna piena
-2021-07-25 | 15.433 | 🌖 | Gibbosa calante
-2021-07-26 | 16.445 | 🌖 | Gibbosa calante
-2021-07-27 | 17.378 | 🌖 | Gibbosa calante
 2021-07-28 | 18.389 | 🌖 | Gibbosa calante
 2021-07-29 | 19.322 | 🌖 | Gibbosa calante
 2021-07-30 | 20.178 | 🌖 | Gibbosa calante
@@ -828,3 +809,22 @@ Giorno     | Fase   | Simbolo | Nome
 2023-10-10 | 24.456 | 🌘 | Luna calante
 2023-10-11 | 25.233 | 🌘 | Luna calante
 2023-10-12 | 26.089 | 🌘 | Luna calante
+2023-10-13 | 26.945 | 🌘 | Luna calante
+2023-10-14 | 27.800 | 🌘 | Luna calante
+2023-10-15 |  0.733 | 🌑 | Luna nuova
+2023-10-16 |  1.589 | 🌒 | Luna crescente
+2023-10-17 |  2.522 | 🌒 | Luna crescente
+2023-10-18 |  3.456 | 🌒 | Luna crescente
+2023-10-19 |  4.467 | 🌒 | Luna crescente
+2023-10-20 |  5.400 | 🌒 | Luna crescente
+2023-10-21 |  6.411 | 🌒 | Luna crescente
+2023-10-22 |  7.345 | 🌓 | Primo quarto
+2023-10-23 |  8.356 | 🌔 | Gibbosa crescente
+2023-10-24 |  9.445 | 🌔 | Gibbosa crescente
+2023-10-25 | 10.456 | 🌔 | Gibbosa crescente
+2023-10-26 | 11.467 | 🌔 | Gibbosa crescente
+2023-10-27 | 12.556 | 🌔 | Gibbosa crescente
+2023-10-28 | 13.567 | 🌔 | Gibbosa crescente
+2023-10-29 | 14.656 | 🌕 | Luna piena
+2023-10-30 | 15.667 | 🌖 | Gibbosa calante
+2023-10-31 | 16.678 | 🌖 | Gibbosa calante
