@@ -33,20 +33,22 @@ def moon_phase_to_inacurate_code(phase):
     '''Converts moon phase code to inacurate code.'''
     phase = int(phase)
     if phase == 0:
-        return 0
+        value = 0
     if 0 < phase < 7:
-        return 1
+        value = 1
     if phase == 7:
-        return 2
+        value = 2
     if 7 < phase < 14:
-        return 3
+        value = 3
     if phase == 14:
-        return 4
+        value = 4
     if 14 < phase < 21:
-        return 5
+        value = 5
     if phase == 21:
-        return 6
-    return 7
+        value = 6
+    else:
+        value = 7
+    return value
 
 
 def day_to_moon_phase_and_accurate_code(day):
@@ -86,10 +88,10 @@ def write_files(lang='en'):
     tsv_new = open('new-moon.tsv', 'w')  # pylint:disable=consider-using-with
     tsv_full = open('full-moon.tsv', 'w')  # pylint:disable=consider-using-with
     tsv_all = open('moon-phases-all.tsv', 'w')  # pylint:disable=consider-using-with
-    md = open('moon-phases.md', 'w')  # pylint:disable=consider-using-with
-    md_new = open('new-moon.md', 'w')  # pylint:disable=consider-using-with
-    md_full = open('full-moon.md', 'w')  # pylint:disable=consider-using-with
-    md_all = open('moon-phases-all.md', 'w')  # pylint:disable=consider-using-with
+    mkd = open('moon-phases.md', 'w')  # pylint:disable=consider-using-with
+    mkd_new = open('new-moon.md', 'w')  # pylint:disable=consider-using-with
+    mkd_full = open('full-moon.md', 'w')  # pylint:disable=consider-using-with
+    mkd_all = open('moon-phases-all.md', 'w')  # pylint:disable=consider-using-with
     ics = open('moon-phases.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
     ics_new = open('new-moon.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
     ics_full = open('full-moon.ics', 'w', newline='\r\n')  # pylint:disable=consider-using-with
@@ -110,7 +112,7 @@ def write_files(lang='en'):
     title = header[lang][4]
     if lang in titles:
         title = title.title()
-    md_header = '''# {}
+    mkd_header = '''# {}
 
 {} | {} | {} | {}
 -----------|-------:|---|---
@@ -121,7 +123,7 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][0]
     if lang in titles:
         title = title.title()
-    md_header_new = '''# {}
+    mkd_header_new = '''# {}
 
 {} | {}
 -----------|------:
@@ -130,16 +132,16 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][4]
     if lang in titles:
         title = title.title()
-    md_header_full = '''# {}
+    mkd_header_full = '''# {}
 
 {} | {}
 -----------|------:
 '''.format(title, header[lang][0].ljust(10),
            header[lang][1])
-    md.write(md_header)
-    md_all.write(md_header)
-    md_new.write(md_header_new)
-    md_full.write(md_header_full)
+    mkd.write(mkd_header)
+    mkd_all.write(mkd_header)
+    mkd_new.write(mkd_header_new)
+    mkd_full.write(mkd_header_full)
     calendar_header = open('../templates/calendar-header-{}.txt'.format(lang))  # pylint:disable=consider-using-with
     for line in calendar_header:
         if lang in titles:
@@ -173,7 +175,7 @@ def write_files(lang='en'):
                                                      phase,
                                                      symbol,
                                                      name))
-        md_all.write('{} | {:6.3f} | {} | {}\n'.format(day,
+        mkd_all.write('{} | {:6.3f} | {} | {}\n'.format(day,
                                                        phase,
                                                        symbol,
                                                        name))
@@ -182,12 +184,15 @@ def write_files(lang='en'):
                                                      phase,
                                                      symbol,
                                                      name))
-            md.write('{} | {:6.3f} | {} | {}\n'.format(day,
+            mkd.write('{} | {:6.3f} | {} | {}\n'.format(day,
                                                        phase,
                                                        symbol,
                                                        name))
             ics.write('{}{} {}\n'.format(event_header.strip(), symbol, name))
-            ics.write(uid_format % (dict(list(uid_replace_values.items()) + list({ 'lang': 'nl', 'seq': event_seq }.items()))))
+            ics.write(uid_format % (dict(
+                list(uid_replace_values.items()) +
+                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+            )
             event_seq += 1
             ics_start = '{}'.format(day)
             ics_end = '{}'.format(day + timedelta(days=1))
@@ -196,9 +201,12 @@ def write_files(lang='en'):
             ics.write(event_footer)
         if code == 0:
             tsv_new.write('{}\t{:6.3f}\n'.format(day, phase))
-            md_new.write('{} | {:6.3f}\n'.format(day, phase,))
+            mkd_new.write('{} | {:6.3f}\n'.format(day, phase,))
             ics_new.write('{}{} {}\n'.format(event_header.strip(), symbol, name))
-            ics_new.write(uid_format % (dict(list(uid_replace_values.items()) + list({ 'lang': 'nl', 'seq': event_seq }.items()))))
+            ics_new.write(uid_format % (dict(
+                list(uid_replace_values.items()) +
+                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+            )
             event_seq += 1
             ics_start = '{}'.format(day)
             ics_end = '{}'.format(day + timedelta(days=1))
@@ -207,9 +215,12 @@ def write_files(lang='en'):
             ics_new.write(event_footer)
         if code == 4:
             tsv_full.write('{}\t{:6.3f}\n'.format(day, phase))
-            md_full.write('{} | {:6.3f}\n'.format(day, phase,))
+            mkd_full.write('{} | {:6.3f}\n'.format(day, phase,))
             ics_full.write('{}{} {}\n'.format(event_header.strip(), symbol, name))
-            ics_full.write(uid_format % (dict(list(uid_replace_values.items()) + list({ 'lang': 'nl', 'seq': event_seq }.items()))))
+            ics_full.write(uid_format % (dict(
+                list(uid_replace_values.items()) +
+                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+            )
             event_seq += 1
             ics_start = '{}'.format(day)
             ics_end = '{}'.format(day + timedelta(days=1))
