@@ -16,6 +16,7 @@ moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '�
 # capitalized header values for day, phase, symbol, name and title
 header = load(open(join(__location__, 'headers.json')))  # pylint:disable=consider-using-with
 
+# explicitely capitalize with title() all words
 titles = ('en', 'pt')
 
 
@@ -113,7 +114,6 @@ def write_files(lang='en'):
     title = header[lang][4]
     if lang in titles:
         title = title.title()
-    print(title)
     mkd_header = '''# {}
 
 {} | {} | {} | {}
@@ -125,7 +125,6 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][0]
     if lang in titles:
         title = title.title()
-    print(title)
     mkd_header_new = '''# {}
 
 {} | {}
@@ -135,7 +134,6 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][4]
     if lang in titles:
         title = title.title()
-    print(title)
     mkd_header_full = '''# {}
 
 {} | {}
@@ -239,7 +237,6 @@ def write_files(lang='en'):
         ics_full.write(line)
 
 for language in sorted(header.keys()):
-    print(language)
     if not isdir(language):
         makedirs(language)
     chdir(language)
