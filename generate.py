@@ -32,19 +32,20 @@ def moon_phase_code_to_symbol(code):
 def moon_phase_to_inacurate_code(phase):
     '''Converts moon phase code to inacurate code.'''
     phase = int(phase)
+    value = None
     if phase == 0:
         value = 0
-    if 0 < phase < 7:
+    elif 0 < phase < 7:
         value = 1
-    if phase == 7:
+    elif phase == 7:
         value = 2
-    if 7 < phase < 14:
+    elif 7 < phase < 14:
         value = 3
-    if phase == 14:
+    elif phase == 14:
         value = 4
-    if 14 < phase < 21:
+    elif 14 < phase < 21:
         value = 5
-    if phase == 21:
+    elif phase == 21:
         value = 6
     else:
         value = 7
@@ -112,6 +113,7 @@ def write_files(lang='en'):
     title = header[lang][4]
     if lang in titles:
         title = title.title()
+    print(title)
     mkd_header = '''# {}
 
 {} | {} | {} | {}
@@ -123,6 +125,7 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][0]
     if lang in titles:
         title = title.title()
+    print(title)
     mkd_header_new = '''# {}
 
 {} | {}
@@ -132,6 +135,7 @@ def write_files(lang='en'):
     title = moon_phase_names[lang][4]
     if lang in titles:
         title = title.title()
+    print(title)
     mkd_header_full = '''# {}
 
 {} | {}
@@ -228,7 +232,6 @@ def write_files(lang='en'):
             ics_full.write('DTEND;VALUE=DATE:{}\n'.format(ics_end.replace('-', '')))
             ics_full.write(event_footer)
 
-
     calendar_footer = open('../templates/calendar-footer.txt')  # pylint:disable=consider-using-with
     for line in calendar_footer:
         ics.write(line)
@@ -236,6 +239,7 @@ def write_files(lang='en'):
         ics_full.write(line)
 
 for language in sorted(header.keys()):
+    print(language)
     if not isdir(language):
         makedirs(language)
     chdir(language)
