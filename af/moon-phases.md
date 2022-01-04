@@ -2,12 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2021-10-21 | 14.811 | 🌕 | Volmaan
-2021-10-29 | 21.656 | 🌗 | Laaste kwartier
-2021-11-05 |  0.578 | 🌑 | Donkermaan
-2021-11-12 |  7.967 | 🌓 | Eerste kwartier
-2021-11-19 | 14.189 | 🌕 | Volmaan
-2021-11-27 | 21.033 | 🌗 | Laaste kwartier
 2021-12-04 |  0.111 | 🌑 | Donkermaan
 2021-12-11 |  7.422 | 🌓 | Eerste kwartier
 2021-12-19 | 14.345 | 🌕 | Volmaan
@@ -112,3 +106,9 @@ Dag        | Fase   | Simbool | Naam
 2023-12-27 | 14.500 | 🌕 | Volmaan
 2024-01-04 | 21.345 | 🌗 | Laaste kwartier
 2024-01-18 |  7.345 | 🌓 | Eerste kwartier
+2024-01-26 | 14.733 | 🌕 | Volmaan
+2024-02-03 | 21.500 | 🌗 | Laaste kwartier
+2024-02-10 |  0.578 | 🌑 | Donkermaan
+2024-02-17 |  7.889 | 🌓 | Eerste kwartier
+2024-02-24 | 14.033 | 🌕 | Volmaan
+2024-03-04 | 21.811 | 🌗 | Laaste kwartier

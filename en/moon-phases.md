@@ -2,12 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2021-10-21 | 14.811 | 🌕 | Full moon
-2021-10-29 | 21.656 | 🌗 | Last quarter
-2021-11-05 |  0.578 | 🌑 | New moon
-2021-11-12 |  7.967 | 🌓 | First quarter
-2021-11-19 | 14.189 | 🌕 | Full moon
-2021-11-27 | 21.033 | 🌗 | Last quarter
 2021-12-04 |  0.111 | 🌑 | New moon
 2021-12-11 |  7.422 | 🌓 | First quarter
 2021-12-19 | 14.345 | 🌕 | Full moon
@@ -112,3 +106,9 @@ Day        | Phase  | Symbol | Name
 2023-12-27 | 14.500 | 🌕 | Full moon
 2024-01-04 | 21.345 | 🌗 | Last quarter
 2024-01-18 |  7.345 | 🌓 | First quarter
+2024-01-26 | 14.733 | 🌕 | Full moon
+2024-02-03 | 21.500 | 🌗 | Last quarter
+2024-02-10 |  0.578 | 🌑 | New moon
+2024-02-17 |  7.889 | 🌓 | First quarter
+2024-02-24 | 14.033 | 🌕 | Full moon
+2024-03-04 | 21.811 | 🌗 | Last quarter

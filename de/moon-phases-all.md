@@ -2,54 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2021-10-16 | 10.300 | 🌔 | Zunehmender Mond
-2021-10-17 | 11.233 | 🌔 | Zunehmender Mond
-2021-10-18 | 12.167 | 🌔 | Zunehmender Mond
-2021-10-19 | 13.100 | 🌔 | Zunehmender Mond
-2021-10-20 | 13.956 | 🌔 | Zunehmender Mond
-2021-10-21 | 14.811 | 🌕 | Vollmond
-2021-10-22 | 15.667 | 🌖 | Abnehmender Mond
-2021-10-23 | 16.522 | 🌖 | Abnehmender Mond
-2021-10-24 | 17.378 | 🌖 | Abnehmender Mond
-2021-10-25 | 18.233 | 🌖 | Abnehmender Mond
-2021-10-26 | 19.089 | 🌖 | Abnehmender Mond
-2021-10-27 | 19.867 | 🌖 | Abnehmender Mond
-2021-10-28 | 20.722 | 🌖 | Abnehmender Mond
-2021-10-29 | 21.656 | 🌗 | Letztes Viertel
-2021-10-30 | 22.511 | 🌘 | Abnehmender Sichelmond
-2021-10-31 | 23.445 | 🌘 | Abnehmender Sichelmond
-2021-11-01 | 24.456 | 🌘 | Abnehmender Sichelmond
-2021-11-02 | 25.467 | 🌘 | Abnehmender Sichelmond
-2021-11-03 | 26.478 | 🌘 | Abnehmender Sichelmond
-2021-11-04 | 27.567 | 🌘 | Abnehmender Sichelmond
-2021-11-05 |  0.578 | 🌑 | Neumond
-2021-11-06 |  1.667 | 🌒 | Zunehmender Sichelmond
-2021-11-07 |  2.756 | 🌒 | Zunehmender Sichelmond
-2021-11-08 |  3.845 | 🌒 | Zunehmender Sichelmond
-2021-11-09 |  4.933 | 🌒 | Zunehmender Sichelmond
-2021-11-10 |  5.945 | 🌒 | Zunehmender Sichelmond
-2021-11-11 |  6.956 | 🌒 | Zunehmender Sichelmond
-2021-11-12 |  7.967 | 🌓 | Erstes Viertel
-2021-11-13 |  8.900 | 🌔 | Zunehmender Mond
-2021-11-14 |  9.833 | 🌔 | Zunehmender Mond
-2021-11-15 | 10.767 | 🌔 | Zunehmender Mond
-2021-11-16 | 11.622 | 🌔 | Zunehmender Mond
-2021-11-17 | 12.478 | 🌔 | Zunehmender Mond
-2021-11-18 | 13.333 | 🌔 | Zunehmender Mond
-2021-11-19 | 14.189 | 🌕 | Vollmond
-2021-11-20 | 15.045 | 🌖 | Abnehmender Mond
-2021-11-21 | 15.900 | 🌖 | Abnehmender Mond
-2021-11-22 | 16.678 | 🌖 | Abnehmender Mond
-2021-11-23 | 17.533 | 🌖 | Abnehmender Mond
-2021-11-24 | 18.389 | 🌖 | Abnehmender Mond
-2021-11-25 | 19.245 | 🌖 | Abnehmender Mond
-2021-11-26 | 20.100 | 🌖 | Abnehmender Mond
-2021-11-27 | 21.033 | 🌗 | Letztes Viertel
-2021-11-28 | 21.967 | 🌘 | Abnehmender Sichelmond
-2021-11-29 | 22.900 | 🌘 | Abnehmender Sichelmond
-2021-11-30 | 23.911 | 🌘 | Abnehmender Sichelmond
-2021-12-01 | 24.922 | 🌘 | Abnehmender Sichelmond
-2021-12-02 | 25.933 | 🌘 | Abnehmender Sichelmond
 2021-12-03 | 27.022 | 🌘 | Abnehmender Sichelmond
 2021-12-04 |  0.111 | 🌑 | Neumond
 2021-12-05 |  1.278 | 🌒 | Zunehmender Sichelmond
@@ -828,3 +780,51 @@ Tag        | Phase  | Symbole | Name
 2024-01-17 |  6.333 | 🌒 | Zunehmender Sichelmond
 2024-01-18 |  7.345 | 🌓 | Erstes Viertel
 2024-01-19 |  8.278 | 🌔 | Zunehmender Mond
+2024-01-20 |  9.289 | 🌔 | Zunehmender Mond
+2024-01-21 | 10.222 | 🌔 | Zunehmender Mond
+2024-01-22 | 11.156 | 🌔 | Zunehmender Mond
+2024-01-23 | 12.089 | 🌔 | Zunehmender Mond
+2024-01-24 | 12.945 | 🌔 | Zunehmender Mond
+2024-01-25 | 13.878 | 🌔 | Zunehmender Mond
+2024-01-26 | 14.733 | 🌕 | Vollmond
+2024-01-27 | 15.589 | 🌖 | Abnehmender Mond
+2024-01-28 | 16.445 | 🌖 | Abnehmender Mond
+2024-01-29 | 17.300 | 🌖 | Abnehmender Mond
+2024-01-30 | 18.078 | 🌖 | Abnehmender Mond
+2024-01-31 | 18.933 | 🌖 | Abnehmender Mond
+2024-02-01 | 19.789 | 🌖 | Abnehmender Mond
+2024-02-02 | 20.645 | 🌖 | Abnehmender Mond
+2024-02-03 | 21.500 | 🌗 | Letztes Viertel
+2024-02-04 | 22.433 | 🌘 | Abnehmender Sichelmond
+2024-02-05 | 23.367 | 🌘 | Abnehmender Sichelmond
+2024-02-06 | 24.378 | 🌘 | Abnehmender Sichelmond
+2024-02-07 | 25.389 | 🌘 | Abnehmender Sichelmond
+2024-02-08 | 26.400 | 🌘 | Abnehmender Sichelmond
+2024-02-09 | 27.489 | 🌘 | Abnehmender Sichelmond
+2024-02-10 |  0.578 | 🌑 | Neumond
+2024-02-11 |  1.667 | 🌒 | Zunehmender Sichelmond
+2024-02-12 |  2.756 | 🌒 | Zunehmender Sichelmond
+2024-02-13 |  3.767 | 🌒 | Zunehmender Sichelmond
+2024-02-14 |  4.856 | 🌒 | Zunehmender Sichelmond
+2024-02-15 |  5.867 | 🌒 | Zunehmender Sichelmond
+2024-02-16 |  6.878 | 🌒 | Zunehmender Sichelmond
+2024-02-17 |  7.889 | 🌓 | Erstes Viertel
+2024-02-18 |  8.822 | 🌔 | Zunehmender Mond
+2024-02-19 |  9.678 | 🌔 | Zunehmender Mond
+2024-02-20 | 10.611 | 🌔 | Zunehmender Mond
+2024-02-21 | 11.467 | 🌔 | Zunehmender Mond
+2024-02-22 | 12.322 | 🌔 | Zunehmender Mond
+2024-02-23 | 13.178 | 🌔 | Zunehmender Mond
+2024-02-24 | 14.033 | 🌕 | Vollmond
+2024-02-25 | 14.889 | 🌖 | Abnehmender Mond
+2024-02-26 | 15.745 | 🌖 | Abnehmender Mond
+2024-02-27 | 16.600 | 🌖 | Abnehmender Mond
+2024-02-28 | 17.378 | 🌖 | Abnehmender Mond
+2024-02-29 | 18.233 | 🌖 | Abnehmender Mond
+2024-03-01 | 19.089 | 🌖 | Abnehmender Mond
+2024-03-02 | 20.022 | 🌖 | Abnehmender Mond
+2024-03-03 | 20.878 | 🌖 | Abnehmender Mond
+2024-03-04 | 21.811 | 🌗 | Letztes Viertel
+2024-03-05 | 22.822 | 🌘 | Abnehmender Sichelmond
+2024-03-06 | 23.833 | 🌘 | Abnehmender Sichelmond
+2024-03-07 | 24.845 | 🌘 | Abnehmender Sichelmond
