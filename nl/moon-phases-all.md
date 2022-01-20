@@ -2,22 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2021-12-03 | 27.022 | 🌘 | Krimpende, sikkelvormige maan
-2021-12-04 |  0.111 | 🌑 | Nieuwe maan
-2021-12-05 |  1.278 | 🌒 | Wassende, sikkelvormige maan
-2021-12-06 |  2.367 | 🌒 | Wassende, sikkelvormige maan
-2021-12-07 |  3.378 | 🌒 | Wassende, sikkelvormige maan
-2021-12-08 |  4.467 | 🌒 | Wassende, sikkelvormige maan
-2021-12-09 |  5.478 | 🌒 | Wassende, sikkelvormige maan
-2021-12-10 |  6.489 | 🌒 | Wassende, sikkelvormige maan
-2021-12-11 |  7.422 | 🌓 | Eerste kwartier
-2021-12-12 |  8.356 | 🌔 | Wassende,vooruitspringende maan
-2021-12-13 |  9.289 | 🌔 | Wassende,vooruitspringende maan
-2021-12-14 | 10.145 | 🌔 | Wassende,vooruitspringende maan
-2021-12-15 | 11.000 | 🌔 | Wassende,vooruitspringende maan
-2021-12-16 | 11.856 | 🌔 | Wassende,vooruitspringende maan
-2021-12-17 | 12.633 | 🌔 | Wassende,vooruitspringende maan
-2021-12-18 | 13.489 | 🌔 | Wassende,vooruitspringende maan
 2021-12-19 | 14.345 | 🌕 | Volle maan
 2021-12-20 | 15.200 | 🌖 | Krimpende, vooruitspringende maan
 2021-12-21 | 16.056 | 🌖 | Krimpende, vooruitspringende maan
@@ -828,3 +812,19 @@ Dag        | Fase   | Symbool | Naam
 2024-03-05 | 22.822 | 🌘 | Krimpende, sikkelvormige maan
 2024-03-06 | 23.833 | 🌘 | Krimpende, sikkelvormige maan
 2024-03-07 | 24.845 | 🌘 | Krimpende, sikkelvormige maan
+2024-03-08 | 25.933 | 🌘 | Krimpende, sikkelvormige maan
+2024-03-09 | 27.022 | 🌘 | Krimpende, sikkelvormige maan
+2024-03-10 |  0.111 | 🌑 | Nieuwe maan
+2024-03-11 |  1.200 | 🌒 | Wassende, sikkelvormige maan
+2024-03-12 |  2.289 | 🌒 | Wassende, sikkelvormige maan
+2024-03-13 |  3.378 | 🌒 | Wassende, sikkelvormige maan
+2024-03-14 |  4.389 | 🌒 | Wassende, sikkelvormige maan
+2024-03-15 |  5.400 | 🌒 | Wassende, sikkelvormige maan
+2024-03-16 |  6.411 | 🌒 | Wassende, sikkelvormige maan
+2024-03-17 |  7.345 | 🌓 | Eerste kwartier
+2024-03-18 |  8.278 | 🌔 | Wassende,vooruitspringende maan
+2024-03-19 |  9.133 | 🌔 | Wassende,vooruitspringende maan
+2024-03-20 |  9.989 | 🌔 | Wassende,vooruitspringende maan
+2024-03-21 | 10.845 | 🌔 | Wassende,vooruitspringende maan
+2024-03-22 | 11.700 | 🌔 | Wassende,vooruitspringende maan
+2024-03-23 | 12.556 | 🌔 | Wassende,vooruitspringende maan

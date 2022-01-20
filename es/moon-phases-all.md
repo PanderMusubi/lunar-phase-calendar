@@ -2,22 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2021-12-03 | 27.022 | 🌘 | Luna menguante
-2021-12-04 |  0.111 | 🌑 | Luna nueva
-2021-12-05 |  1.278 | 🌒 | Luna creciente
-2021-12-06 |  2.367 | 🌒 | Luna creciente
-2021-12-07 |  3.378 | 🌒 | Luna creciente
-2021-12-08 |  4.467 | 🌒 | Luna creciente
-2021-12-09 |  5.478 | 🌒 | Luna creciente
-2021-12-10 |  6.489 | 🌒 | Luna creciente
-2021-12-11 |  7.422 | 🌓 | Cuarto creciente
-2021-12-12 |  8.356 | 🌔 | Luna creciente gibosa
-2021-12-13 |  9.289 | 🌔 | Luna creciente gibosa
-2021-12-14 | 10.145 | 🌔 | Luna creciente gibosa
-2021-12-15 | 11.000 | 🌔 | Luna creciente gibosa
-2021-12-16 | 11.856 | 🌔 | Luna creciente gibosa
-2021-12-17 | 12.633 | 🌔 | Luna creciente gibosa
-2021-12-18 | 13.489 | 🌔 | Luna creciente gibosa
 2021-12-19 | 14.345 | 🌕 | Luna llena
 2021-12-20 | 15.200 | 🌖 | Luna menguante gibosa
 2021-12-21 | 16.056 | 🌖 | Luna menguante gibosa
@@ -828,3 +812,19 @@ Día        | Fase   | Símbolo | Nombre
 2024-03-05 | 22.822 | 🌘 | Luna menguante
 2024-03-06 | 23.833 | 🌘 | Luna menguante
 2024-03-07 | 24.845 | 🌘 | Luna menguante
+2024-03-08 | 25.933 | 🌘 | Luna menguante
+2024-03-09 | 27.022 | 🌘 | Luna menguante
+2024-03-10 |  0.111 | 🌑 | Luna nueva
+2024-03-11 |  1.200 | 🌒 | Luna creciente
+2024-03-12 |  2.289 | 🌒 | Luna creciente
+2024-03-13 |  3.378 | 🌒 | Luna creciente
+2024-03-14 |  4.389 | 🌒 | Luna creciente
+2024-03-15 |  5.400 | 🌒 | Luna creciente
+2024-03-16 |  6.411 | 🌒 | Luna creciente
+2024-03-17 |  7.345 | 🌓 | Cuarto creciente
+2024-03-18 |  8.278 | 🌔 | Luna creciente gibosa
+2024-03-19 |  9.133 | 🌔 | Luna creciente gibosa
+2024-03-20 |  9.989 | 🌔 | Luna creciente gibosa
+2024-03-21 | 10.845 | 🌔 | Luna creciente gibosa
+2024-03-22 | 11.700 | 🌔 | Luna creciente gibosa
+2024-03-23 | 12.556 | 🌔 | Luna creciente gibosa

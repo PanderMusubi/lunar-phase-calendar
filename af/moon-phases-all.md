@@ -2,22 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2021-12-03 | 27.022 | 🌘 | Afnemende sekelmaan
-2021-12-04 |  0.111 | 🌑 | Donkermaan
-2021-12-05 |  1.278 | 🌒 | Groeiende sekelmaan
-2021-12-06 |  2.367 | 🌒 | Groeiende sekelmaan
-2021-12-07 |  3.378 | 🌒 | Groeiende sekelmaan
-2021-12-08 |  4.467 | 🌒 | Groeiende sekelmaan
-2021-12-09 |  5.478 | 🌒 | Groeiende sekelmaan
-2021-12-10 |  6.489 | 🌒 | Groeiende sekelmaan
-2021-12-11 |  7.422 | 🌓 | Eerste kwartier
-2021-12-12 |  8.356 | 🌔 | Groeiende bolmaan
-2021-12-13 |  9.289 | 🌔 | Groeiende bolmaan
-2021-12-14 | 10.145 | 🌔 | Groeiende bolmaan
-2021-12-15 | 11.000 | 🌔 | Groeiende bolmaan
-2021-12-16 | 11.856 | 🌔 | Groeiende bolmaan
-2021-12-17 | 12.633 | 🌔 | Groeiende bolmaan
-2021-12-18 | 13.489 | 🌔 | Groeiende bolmaan
 2021-12-19 | 14.345 | 🌕 | Volmaan
 2021-12-20 | 15.200 | 🌖 | Afnemende bolmaan
 2021-12-21 | 16.056 | 🌖 | Afnemende bolmaan
@@ -828,3 +812,19 @@ Dag        | Fase   | Simbool | Naam
 2024-03-05 | 22.822 | 🌘 | Afnemende sekelmaan
 2024-03-06 | 23.833 | 🌘 | Afnemende sekelmaan
 2024-03-07 | 24.845 | 🌘 | Afnemende sekelmaan
+2024-03-08 | 25.933 | 🌘 | Afnemende sekelmaan
+2024-03-09 | 27.022 | 🌘 | Afnemende sekelmaan
+2024-03-10 |  0.111 | 🌑 | Donkermaan
+2024-03-11 |  1.200 | 🌒 | Groeiende sekelmaan
+2024-03-12 |  2.289 | 🌒 | Groeiende sekelmaan
+2024-03-13 |  3.378 | 🌒 | Groeiende sekelmaan
+2024-03-14 |  4.389 | 🌒 | Groeiende sekelmaan
+2024-03-15 |  5.400 | 🌒 | Groeiende sekelmaan
+2024-03-16 |  6.411 | 🌒 | Groeiende sekelmaan
+2024-03-17 |  7.345 | 🌓 | Eerste kwartier
+2024-03-18 |  8.278 | 🌔 | Groeiende bolmaan
+2024-03-19 |  9.133 | 🌔 | Groeiende bolmaan
+2024-03-20 |  9.989 | 🌔 | Groeiende bolmaan
+2024-03-21 | 10.845 | 🌔 | Groeiende bolmaan
+2024-03-22 | 11.700 | 🌔 | Groeiende bolmaan
+2024-03-23 | 12.556 | 🌔 | Groeiende bolmaan
