@@ -2,14 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2021-12-19 | 14.345 | 🌕 | Luna piena
-2021-12-20 | 15.200 | 🌖 | Gibbosa calante
-2021-12-21 | 16.056 | 🌖 | Gibbosa calante
-2021-12-22 | 16.911 | 🌖 | Gibbosa calante
-2021-12-23 | 17.767 | 🌖 | Gibbosa calante
-2021-12-24 | 18.622 | 🌖 | Gibbosa calante
-2021-12-25 | 19.556 | 🌖 | Gibbosa calante
-2021-12-26 | 20.489 | 🌖 | Gibbosa calante
 2021-12-27 | 21.422 | 🌗 | Ultimo quarto
 2021-12-28 | 22.356 | 🌘 | Luna calante
 2021-12-29 | 23.367 | 🌘 | Luna calante
@@ -828,3 +820,11 @@ Giorno     | Fase   | Simbolo | Nome
 2024-03-21 | 10.845 | 🌔 | Gibbosa crescente
 2024-03-22 | 11.700 | 🌔 | Gibbosa crescente
 2024-03-23 | 12.556 | 🌔 | Gibbosa crescente
+2024-03-24 | 13.411 | 🌔 | Gibbosa crescente
+2024-03-25 | 14.267 | 🌕 | Luna piena
+2024-03-26 | 15.122 | 🌖 | Gibbosa calante
+2024-03-27 | 15.900 | 🌖 | Gibbosa calante
+2024-03-28 | 16.833 | 🌖 | Gibbosa calante
+2024-03-29 | 17.689 | 🌖 | Gibbosa calante
+2024-03-30 | 18.545 | 🌖 | Gibbosa calante
+2024-03-31 | 19.478 | 🌖 | Gibbosa calante

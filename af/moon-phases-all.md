@@ -2,14 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2021-12-19 | 14.345 | 🌕 | Volmaan
-2021-12-20 | 15.200 | 🌖 | Afnemende bolmaan
-2021-12-21 | 16.056 | 🌖 | Afnemende bolmaan
-2021-12-22 | 16.911 | 🌖 | Afnemende bolmaan
-2021-12-23 | 17.767 | 🌖 | Afnemende bolmaan
-2021-12-24 | 18.622 | 🌖 | Afnemende bolmaan
-2021-12-25 | 19.556 | 🌖 | Afnemende bolmaan
-2021-12-26 | 20.489 | 🌖 | Afnemende bolmaan
 2021-12-27 | 21.422 | 🌗 | Laaste kwartier
 2021-12-28 | 22.356 | 🌘 | Afnemende sekelmaan
 2021-12-29 | 23.367 | 🌘 | Afnemende sekelmaan
@@ -828,3 +820,11 @@ Dag        | Fase   | Simbool | Naam
 2024-03-21 | 10.845 | 🌔 | Groeiende bolmaan
 2024-03-22 | 11.700 | 🌔 | Groeiende bolmaan
 2024-03-23 | 12.556 | 🌔 | Groeiende bolmaan
+2024-03-24 | 13.411 | 🌔 | Groeiende bolmaan
+2024-03-25 | 14.267 | 🌕 | Volmaan
+2024-03-26 | 15.122 | 🌖 | Afnemende bolmaan
+2024-03-27 | 15.900 | 🌖 | Afnemende bolmaan
+2024-03-28 | 16.833 | 🌖 | Afnemende bolmaan
+2024-03-29 | 17.689 | 🌖 | Afnemende bolmaan
+2024-03-30 | 18.545 | 🌖 | Afnemende bolmaan
+2024-03-31 | 19.478 | 🌖 | Afnemende bolmaan

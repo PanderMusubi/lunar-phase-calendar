@@ -2,14 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2021-12-19 | 14.345 | 🌕 | Full moon
-2021-12-20 | 15.200 | 🌖 | Waning gibbous
-2021-12-21 | 16.056 | 🌖 | Waning gibbous
-2021-12-22 | 16.911 | 🌖 | Waning gibbous
-2021-12-23 | 17.767 | 🌖 | Waning gibbous
-2021-12-24 | 18.622 | 🌖 | Waning gibbous
-2021-12-25 | 19.556 | 🌖 | Waning gibbous
-2021-12-26 | 20.489 | 🌖 | Waning gibbous
 2021-12-27 | 21.422 | 🌗 | Last quarter
 2021-12-28 | 22.356 | 🌘 | Waning crescent
 2021-12-29 | 23.367 | 🌘 | Waning crescent
@@ -828,3 +820,11 @@ Day        | Phase  | Symbol | Name
 2024-03-21 | 10.845 | 🌔 | Waxing gibbous
 2024-03-22 | 11.700 | 🌔 | Waxing gibbous
 2024-03-23 | 12.556 | 🌔 | Waxing gibbous
+2024-03-24 | 13.411 | 🌔 | Waxing gibbous
+2024-03-25 | 14.267 | 🌕 | Full moon
+2024-03-26 | 15.122 | 🌖 | Waning gibbous
+2024-03-27 | 15.900 | 🌖 | Waning gibbous
+2024-03-28 | 16.833 | 🌖 | Waning gibbous
+2024-03-29 | 17.689 | 🌖 | Waning gibbous
+2024-03-30 | 18.545 | 🌖 | Waning gibbous
+2024-03-31 | 19.478 | 🌖 | Waning gibbous
