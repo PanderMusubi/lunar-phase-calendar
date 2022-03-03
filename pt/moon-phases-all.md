@@ -2,40 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2021-12-27 | 21.422 | 🌗 | Quarto minguante
-2021-12-28 | 22.356 | 🌘 | Lua minguante
-2021-12-29 | 23.367 | 🌘 | Lua minguante
-2021-12-30 | 24.456 | 🌘 | Lua minguante
-2021-12-31 | 25.467 | 🌘 | Lua minguante
-2022-01-01 | 26.556 | 🌘 | Lua minguante
-2022-01-02 | 27.645 | 🌘 | Lua minguante
-2022-01-03 |  0.733 | 🌑 | Lua nova
-2022-01-04 |  1.822 | 🌒 | Lua crescente
-2022-01-05 |  2.911 | 🌒 | Lua crescente
-2022-01-06 |  3.922 | 🌒 | Lua crescente
-2022-01-07 |  4.933 | 🌒 | Lua crescente
-2022-01-08 |  5.867 | 🌒 | Lua crescente
-2022-01-09 |  6.800 | 🌒 | Lua crescente
-2022-01-10 |  7.733 | 🌓 | Quarto crescente
-2022-01-11 |  8.589 | 🌔 | Lua crescente gibosa
-2022-01-12 |  9.445 | 🌔 | Lua crescente gibosa
-2022-01-13 | 10.300 | 🌔 | Lua crescente gibosa
-2022-01-14 | 11.156 | 🌔 | Lua crescente gibosa
-2022-01-15 | 11.933 | 🌔 | Lua crescente gibosa
-2022-01-16 | 12.789 | 🌔 | Lua crescente gibosa
-2022-01-17 | 13.645 | 🌔 | Lua crescente gibosa
-2022-01-18 | 14.500 | 🌕 | Lua cheia
-2022-01-19 | 15.356 | 🌖 | Lua minguante gibosa
-2022-01-20 | 16.289 | 🌖 | Lua minguante gibosa
-2022-01-21 | 17.145 | 🌖 | Lua minguante gibosa
-2022-01-22 | 18.078 | 🌖 | Lua minguante gibosa
-2022-01-23 | 19.011 | 🌖 | Lua minguante gibosa
-2022-01-24 | 19.945 | 🌖 | Lua minguante gibosa
-2022-01-25 | 20.956 | 🌖 | Lua minguante gibosa
-2022-01-26 | 21.967 | 🌗 | Quarto minguante
-2022-01-27 | 22.978 | 🌘 | Lua minguante
-2022-01-28 | 23.989 | 🌘 | Lua minguante
-2022-01-29 | 25.078 | 🌘 | Lua minguante
 2022-01-30 | 26.089 | 🌘 | Lua minguante
 2022-01-31 | 27.178 | 🌘 | Lua minguante
 2022-02-01 |  0.267 | 🌑 | Lua nova
@@ -828,3 +794,37 @@ Dia        | Fase   | Símbolo | Nome
 2024-03-29 | 17.689 | 🌖 | Lua minguante gibosa
 2024-03-30 | 18.545 | 🌖 | Lua minguante gibosa
 2024-03-31 | 19.478 | 🌖 | Lua minguante gibosa
+2024-04-01 | 20.411 | 🌖 | Lua minguante gibosa
+2024-04-02 | 21.345 | 🌗 | Quarto minguante
+2024-04-03 | 22.356 | 🌘 | Lua minguante
+2024-04-04 | 23.367 | 🌘 | Lua minguante
+2024-04-05 | 24.456 | 🌘 | Lua minguante
+2024-04-06 | 25.467 | 🌘 | Lua minguante
+2024-04-07 | 26.556 | 🌘 | Lua minguante
+2024-04-08 | 27.645 | 🌘 | Lua minguante
+2024-04-09 |  0.733 | 🌑 | Lua nova
+2024-04-10 |  1.822 | 🌒 | Lua crescente
+2024-04-11 |  2.911 | 🌒 | Lua crescente
+2024-04-12 |  3.922 | 🌒 | Lua crescente
+2024-04-13 |  4.933 | 🌒 | Lua crescente
+2024-04-14 |  5.867 | 🌒 | Lua crescente
+2024-04-15 |  6.800 | 🌒 | Lua crescente
+2024-04-16 |  7.733 | 🌓 | Quarto crescente
+2024-04-17 |  8.589 | 🌔 | Lua crescente gibosa
+2024-04-18 |  9.445 | 🌔 | Lua crescente gibosa
+2024-04-19 | 10.222 | 🌔 | Lua crescente gibosa
+2024-04-20 | 11.078 | 🌔 | Lua crescente gibosa
+2024-04-21 | 11.933 | 🌔 | Lua crescente gibosa
+2024-04-22 | 12.789 | 🌔 | Lua crescente gibosa
+2024-04-23 | 13.645 | 🌔 | Lua crescente gibosa
+2024-04-24 | 14.500 | 🌕 | Lua cheia
+2024-04-25 | 15.356 | 🌖 | Lua minguante gibosa
+2024-04-26 | 16.289 | 🌖 | Lua minguante gibosa
+2024-04-27 | 17.222 | 🌖 | Lua minguante gibosa
+2024-04-28 | 18.156 | 🌖 | Lua minguante gibosa
+2024-04-29 | 19.089 | 🌖 | Lua minguante gibosa
+2024-04-30 | 20.022 | 🌖 | Lua minguante gibosa
+2024-05-01 | 21.033 | 🌗 | Quarto minguante
+2024-05-02 | 22.045 | 🌘 | Lua minguante
+2024-05-03 | 23.056 | 🌘 | Lua minguante
+2024-05-04 | 24.067 | 🌘 | Lua minguante

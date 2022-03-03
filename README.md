@@ -81,3 +81,8 @@ Generate a new calender by installing the required package with
 and run
 
     ./generate.py
+
+The lunar phase data used here is from the Python package
+[astral](https://astral.readthedocs.io/en/latest/index.html#moon). Its
+maintainer made a in the documentation of it a reference back to this project as
+a showcase of it usage. Many thanks for this.
