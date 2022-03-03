@@ -828,3 +828,369 @@ Jour       | Phase  | Symbole | Nom
 2024-05-02 | 22.045 | 🌘 | Dernier croissant
 2024-05-03 | 23.056 | 🌘 | Dernier croissant
 2024-05-04 | 24.067 | 🌘 | Dernier croissant
+2024-05-05 | 25.156 | 🌘 | Dernier croissant
+2024-05-06 | 26.245 | 🌘 | Dernier croissant
+2024-05-07 | 27.256 | 🌘 | Dernier croissant
+2024-05-08 |  0.345 | 🌑 | Nouvelle lune
+2024-05-09 |  1.433 | 🌒 | Premier croissant
+2024-05-10 |  2.445 | 🌒 | Premier croissant
+2024-05-11 |  3.456 | 🌒 | Premier croissant
+2024-05-12 |  4.389 | 🌒 | Premier croissant
+2024-05-13 |  5.322 | 🌒 | Premier croissant
+2024-05-14 |  6.256 | 🌒 | Premier croissant
+2024-05-15 |  7.111 | 🌓 | Premier quartier
+2024-05-16 |  7.967 | 🌔 | Lune gibbeuse croissante
+2024-05-17 |  8.822 | 🌔 | Lune gibbeuse croissante
+2024-05-18 |  9.600 | 🌔 | Lune gibbeuse croissante
+2024-05-19 | 10.456 | 🌔 | Lune gibbeuse croissante
+2024-05-20 | 11.311 | 🌔 | Lune gibbeuse croissante
+2024-05-21 | 12.167 | 🌔 | Lune gibbeuse croissante
+2024-05-22 | 13.100 | 🌔 | Lune gibbeuse croissante
+2024-05-23 | 13.956 | 🌔 | Lune gibbeuse croissante
+2024-05-24 | 14.889 | 🌕 | Pleine lune
+2024-05-25 | 15.822 | 🌖 | Lune gibbeuse décroissante
+2024-05-26 | 16.833 | 🌖 | Lune gibbeuse décroissante
+2024-05-27 | 17.767 | 🌖 | Lune gibbeuse décroissante
+2024-05-28 | 18.778 | 🌖 | Lune gibbeuse décroissante
+2024-05-29 | 19.789 | 🌖 | Lune gibbeuse décroissante
+2024-05-30 | 20.800 | 🌖 | Lune gibbeuse décroissante
+2024-05-31 | 21.811 | 🌗 | Dernier quartier
+2024-06-01 | 22.822 | 🌘 | Dernier croissant
+2024-06-02 | 23.833 | 🌘 | Dernier croissant
+2024-06-03 | 24.845 | 🌘 | Dernier croissant
+2024-06-04 | 25.933 | 🌘 | Dernier croissant
+2024-06-05 | 26.945 | 🌘 | Dernier croissant
+2024-06-06 | 27.956 | 🌘 | Dernier croissant
+2024-06-07 |  0.967 | 🌑 | Nouvelle lune
+2024-06-08 |  1.978 | 🌒 | Premier croissant
+2024-06-09 |  2.911 | 🌒 | Premier croissant
+2024-06-10 |  3.845 | 🌒 | Premier croissant
+2024-06-11 |  4.778 | 🌒 | Premier croissant
+2024-06-12 |  5.633 | 🌒 | Premier croissant
+2024-06-13 |  6.489 | 🌒 | Premier croissant
+2024-06-14 |  7.345 | 🌓 | Premier quartier
+2024-06-15 |  8.122 | 🌔 | Lune gibbeuse croissante
+2024-06-16 |  8.978 | 🌔 | Lune gibbeuse croissante
+2024-06-17 |  9.833 | 🌔 | Lune gibbeuse croissante
+2024-06-18 | 10.689 | 🌔 | Lune gibbeuse croissante
+2024-06-19 | 11.622 | 🌔 | Lune gibbeuse croissante
+2024-06-20 | 12.556 | 🌔 | Lune gibbeuse croissante
+2024-06-21 | 13.489 | 🌔 | Lune gibbeuse croissante
+2024-06-22 | 14.500 | 🌕 | Pleine lune
+2024-06-23 | 15.433 | 🌖 | Lune gibbeuse décroissante
+2024-06-24 | 16.445 | 🌖 | Lune gibbeuse décroissante
+2024-06-25 | 17.456 | 🌖 | Lune gibbeuse décroissante
+2024-06-26 | 18.545 | 🌖 | Lune gibbeuse décroissante
+2024-06-27 | 19.556 | 🌖 | Lune gibbeuse décroissante
+2024-06-28 | 20.567 | 🌖 | Lune gibbeuse décroissante
+2024-06-29 | 21.578 | 🌗 | Dernier quartier
+2024-06-30 | 22.589 | 🌘 | Dernier croissant
+2024-07-01 | 23.600 | 🌘 | Dernier croissant
+2024-07-02 | 24.611 | 🌘 | Dernier croissant
+2024-07-03 | 25.622 | 🌘 | Dernier croissant
+2024-07-04 | 26.633 | 🌘 | Dernier croissant
+2024-07-05 | 27.567 | 🌘 | Dernier croissant
+2024-07-06 |  0.500 | 🌑 | Nouvelle lune
+2024-07-07 |  1.511 | 🌒 | Premier croissant
+2024-07-08 |  2.367 | 🌒 | Premier croissant
+2024-07-09 |  3.300 | 🌒 | Premier croissant
+2024-07-10 |  4.156 | 🌒 | Premier croissant
+2024-07-11 |  5.011 | 🌒 | Premier croissant
+2024-07-12 |  5.867 | 🌒 | Premier croissant
+2024-07-13 |  6.722 | 🌒 | Premier croissant
+2024-07-14 |  7.500 | 🌓 | Premier quartier
+2024-07-15 |  8.356 | 🌔 | Lune gibbeuse croissante
+2024-07-16 |  9.289 | 🌔 | Lune gibbeuse croissante
+2024-07-17 | 10.145 | 🌔 | Lune gibbeuse croissante
+2024-07-18 | 11.078 | 🌔 | Lune gibbeuse croissante
+2024-07-19 | 12.089 | 🌔 | Lune gibbeuse croissante
+2024-07-20 | 13.022 | 🌔 | Lune gibbeuse croissante
+2024-07-21 | 14.033 | 🌕 | Pleine lune
+2024-07-22 | 15.122 | 🌖 | Lune gibbeuse décroissante
+2024-07-23 | 16.133 | 🌖 | Lune gibbeuse décroissante
+2024-07-24 | 17.222 | 🌖 | Lune gibbeuse décroissante
+2024-07-25 | 18.233 | 🌖 | Lune gibbeuse décroissante
+2024-07-26 | 19.322 | 🌖 | Lune gibbeuse décroissante
+2024-07-27 | 20.333 | 🌖 | Lune gibbeuse décroissante
+2024-07-28 | 21.345 | 🌗 | Dernier quartier
+2024-07-29 | 22.356 | 🌘 | Dernier croissant
+2024-07-30 | 23.367 | 🌘 | Dernier croissant
+2024-07-31 | 24.378 | 🌘 | Dernier croissant
+2024-08-01 | 25.311 | 🌘 | Dernier croissant
+2024-08-02 | 26.245 | 🌘 | Dernier croissant
+2024-08-03 | 27.178 | 🌘 | Dernier croissant
+2024-08-04 |  0.111 | 🌑 | Nouvelle lune
+2024-08-05 |  0.967 | 🌒 | Premier croissant
+2024-08-06 |  1.822 | 🌒 | Premier croissant
+2024-08-07 |  2.756 | 🌒 | Premier croissant
+2024-08-08 |  3.533 | 🌒 | Premier croissant
+2024-08-09 |  4.389 | 🌒 | Premier croissant
+2024-08-10 |  5.245 | 🌒 | Premier croissant
+2024-08-11 |  6.100 | 🌒 | Premier croissant
+2024-08-12 |  6.956 | 🌒 | Premier croissant
+2024-08-13 |  7.811 | 🌓 | Premier quartier
+2024-08-14 |  8.667 | 🌔 | Lune gibbeuse croissante
+2024-08-15 |  9.600 | 🌔 | Lune gibbeuse croissante
+2024-08-16 | 10.611 | 🌔 | Lune gibbeuse croissante
+2024-08-17 | 11.622 | 🌔 | Lune gibbeuse croissante
+2024-08-18 | 12.633 | 🌔 | Lune gibbeuse croissante
+2024-08-19 | 13.645 | 🌔 | Lune gibbeuse croissante
+2024-08-20 | 14.733 | 🌕 | Pleine lune
+2024-08-21 | 15.822 | 🌖 | Lune gibbeuse décroissante
+2024-08-22 | 16.911 | 🌖 | Lune gibbeuse décroissante
+2024-08-23 | 18.000 | 🌖 | Lune gibbeuse décroissante
+2024-08-24 | 19.011 | 🌖 | Lune gibbeuse décroissante
+2024-08-25 | 20.100 | 🌖 | Lune gibbeuse décroissante
+2024-08-26 | 21.111 | 🌗 | Dernier quartier
+2024-08-27 | 22.122 | 🌘 | Dernier croissant
+2024-08-28 | 23.056 | 🌘 | Dernier croissant
+2024-08-29 | 23.989 | 🌘 | Dernier croissant
+2024-08-30 | 24.922 | 🌘 | Dernier croissant
+2024-08-31 | 25.856 | 🌘 | Dernier croissant
+2024-09-01 | 26.711 | 🌘 | Dernier croissant
+2024-09-02 | 27.567 | 🌘 | Dernier croissant
+2024-09-03 |  0.422 | 🌑 | Nouvelle lune
+2024-09-04 |  1.278 | 🌒 | Premier croissant
+2024-09-05 |  2.133 | 🌒 | Premier croissant
+2024-09-06 |  2.989 | 🌒 | Premier croissant
+2024-09-07 |  3.845 | 🌒 | Premier croissant
+2024-09-08 |  4.622 | 🌒 | Premier croissant
+2024-09-09 |  5.478 | 🌒 | Premier croissant
+2024-09-10 |  6.333 | 🌒 | Premier croissant
+2024-09-11 |  7.267 | 🌓 | Premier quartier
+2024-09-12 |  8.200 | 🌔 | Lune gibbeuse croissante
+2024-09-13 |  9.133 | 🌔 | Lune gibbeuse croissante
+2024-09-14 | 10.145 | 🌔 | Lune gibbeuse croissante
+2024-09-15 | 11.156 | 🌔 | Lune gibbeuse croissante
+2024-09-16 | 12.167 | 🌔 | Lune gibbeuse croissante
+2024-09-17 | 13.256 | 🌔 | Lune gibbeuse croissante
+2024-09-18 | 14.345 | 🌕 | Pleine lune
+2024-09-19 | 15.433 | 🌖 | Lune gibbeuse décroissante
+2024-09-20 | 16.600 | 🌖 | Lune gibbeuse décroissante
+2024-09-21 | 17.611 | 🌖 | Lune gibbeuse décroissante
+2024-09-22 | 18.700 | 🌖 | Lune gibbeuse décroissante
+2024-09-23 | 19.711 | 🌖 | Lune gibbeuse décroissante
+2024-09-24 | 20.722 | 🌖 | Lune gibbeuse décroissante
+2024-09-25 | 21.733 | 🌗 | Dernier quartier
+2024-09-26 | 22.667 | 🌘 | Dernier croissant
+2024-09-27 | 23.522 | 🌘 | Dernier croissant
+2024-09-28 | 24.456 | 🌘 | Dernier croissant
+2024-09-29 | 25.311 | 🌘 | Dernier croissant
+2024-09-30 | 26.167 | 🌘 | Dernier croissant
+2024-10-01 | 27.022 | 🌘 | Dernier croissant
+2024-10-02 | 27.878 | 🌘 | Dernier croissant
+2024-10-03 |  0.656 | 🌑 | Nouvelle lune
+2024-10-04 |  1.511 | 🌒 | Premier croissant
+2024-10-05 |  2.367 | 🌒 | Premier croissant
+2024-10-06 |  3.222 | 🌒 | Premier croissant
+2024-10-07 |  4.078 | 🌒 | Premier croissant
+2024-10-08 |  4.933 | 🌒 | Premier croissant
+2024-10-09 |  5.867 | 🌒 | Premier croissant
+2024-10-10 |  6.800 | 🌒 | Premier croissant
+2024-10-11 |  7.733 | 🌓 | Premier quartier
+2024-10-12 |  8.667 | 🌔 | Lune gibbeuse croissante
+2024-10-13 |  9.678 | 🌔 | Lune gibbeuse croissante
+2024-10-14 | 10.689 | 🌔 | Lune gibbeuse croissante
+2024-10-15 | 11.778 | 🌔 | Lune gibbeuse croissante
+2024-10-16 | 12.867 | 🌔 | Lune gibbeuse croissante
+2024-10-17 | 13.956 | 🌔 | Lune gibbeuse croissante
+2024-10-18 | 15.045 | 🌖 | Lune gibbeuse décroissante
+2024-10-19 | 16.133 | 🌖 | Lune gibbeuse décroissante
+2024-10-20 | 17.222 | 🌖 | Lune gibbeuse décroissante
+2024-10-21 | 18.233 | 🌖 | Lune gibbeuse décroissante
+2024-10-22 | 19.245 | 🌖 | Lune gibbeuse décroissante
+2024-10-23 | 20.256 | 🌖 | Lune gibbeuse décroissante
+2024-10-24 | 21.189 | 🌗 | Dernier quartier
+2024-10-25 | 22.122 | 🌘 | Dernier croissant
+2024-10-26 | 22.978 | 🌘 | Dernier croissant
+2024-10-27 | 23.833 | 🌘 | Dernier croissant
+2024-10-28 | 24.689 | 🌘 | Dernier croissant
+2024-10-29 | 25.545 | 🌘 | Dernier croissant
+2024-10-30 | 26.400 | 🌘 | Dernier croissant
+2024-10-31 | 27.178 | 🌘 | Dernier croissant
+2024-11-01 |  0.033 | 🌑 | Nouvelle lune
+2024-11-02 |  0.889 | 🌒 | Premier croissant
+2024-11-03 |  1.745 | 🌒 | Premier croissant
+2024-11-04 |  2.678 | 🌒 | Premier croissant
+2024-11-05 |  3.533 | 🌒 | Premier croissant
+2024-11-06 |  4.467 | 🌒 | Premier croissant
+2024-11-07 |  5.322 | 🌒 | Premier croissant
+2024-11-08 |  6.333 | 🌒 | Premier croissant
+2024-11-09 |  7.267 | 🌓 | Premier quartier
+2024-11-10 |  8.278 | 🌔 | Lune gibbeuse croissante
+2024-11-11 |  9.289 | 🌔 | Lune gibbeuse croissante
+2024-11-12 | 10.300 | 🌔 | Lune gibbeuse croissante
+2024-11-13 | 11.389 | 🌔 | Lune gibbeuse croissante
+2024-11-14 | 12.478 | 🌔 | Lune gibbeuse croissante
+2024-11-15 | 13.489 | 🌔 | Lune gibbeuse croissante
+2024-11-16 | 14.578 | 🌕 | Pleine lune
+2024-11-17 | 15.667 | 🌖 | Lune gibbeuse décroissante
+2024-11-18 | 16.678 | 🌖 | Lune gibbeuse décroissante
+2024-11-19 | 17.689 | 🌖 | Lune gibbeuse décroissante
+2024-11-20 | 18.700 | 🌖 | Lune gibbeuse décroissante
+2024-11-21 | 19.633 | 🌖 | Lune gibbeuse décroissante
+2024-11-22 | 20.567 | 🌖 | Lune gibbeuse décroissante
+2024-11-23 | 21.422 | 🌗 | Dernier quartier
+2024-11-24 | 22.356 | 🌘 | Dernier croissant
+2024-11-25 | 23.133 | 🌘 | Dernier croissant
+2024-11-26 | 23.989 | 🌘 | Dernier croissant
+2024-11-27 | 24.845 | 🌘 | Dernier croissant
+2024-11-28 | 25.700 | 🌘 | Dernier croissant
+2024-11-29 | 26.556 | 🌘 | Dernier croissant
+2024-11-30 | 27.411 | 🌘 | Dernier croissant
+2024-12-01 |  0.267 | 🌑 | Nouvelle lune
+2024-12-02 |  1.122 | 🌒 | Premier croissant
+2024-12-03 |  2.056 | 🌒 | Premier croissant
+2024-12-04 |  2.989 | 🌒 | Premier croissant
+2024-12-05 |  3.922 | 🌒 | Premier croissant
+2024-12-06 |  4.933 | 🌒 | Premier croissant
+2024-12-07 |  5.867 | 🌒 | Premier croissant
+2024-12-08 |  6.878 | 🌒 | Premier croissant
+2024-12-09 |  7.889 | 🌓 | Premier quartier
+2024-12-10 |  8.900 | 🌔 | Lune gibbeuse croissante
+2024-12-11 |  9.911 | 🌔 | Lune gibbeuse croissante
+2024-12-12 | 11.000 | 🌔 | Lune gibbeuse croissante
+2024-12-13 | 12.011 | 🌔 | Lune gibbeuse croissante
+2024-12-14 | 13.100 | 🌔 | Lune gibbeuse croissante
+2024-12-15 | 14.111 | 🌕 | Pleine lune
+2024-12-16 | 15.122 | 🌖 | Lune gibbeuse décroissante
+2024-12-17 | 16.133 | 🌖 | Lune gibbeuse décroissante
+2024-12-18 | 17.145 | 🌖 | Lune gibbeuse décroissante
+2024-12-19 | 18.078 | 🌖 | Lune gibbeuse décroissante
+2024-12-20 | 19.011 | 🌖 | Lune gibbeuse décroissante
+2024-12-21 | 19.867 | 🌖 | Lune gibbeuse décroissante
+2024-12-22 | 20.722 | 🌖 | Lune gibbeuse décroissante
+2024-12-23 | 21.578 | 🌗 | Dernier quartier
+2024-12-24 | 22.433 | 🌘 | Dernier croissant
+2024-12-25 | 23.211 | 🌘 | Dernier croissant
+2024-12-26 | 24.067 | 🌘 | Dernier croissant
+2024-12-27 | 24.922 | 🌘 | Dernier croissant
+2024-12-28 | 25.778 | 🌘 | Dernier croissant
+2024-12-29 | 26.711 | 🌘 | Dernier croissant
+2024-12-30 | 27.645 | 🌘 | Dernier croissant
+2024-12-31 |  0.578 | 🌑 | Nouvelle lune
+2025-01-01 |  1.511 | 🌒 | Premier croissant
+2025-01-02 |  2.522 | 🌒 | Premier croissant
+2025-01-03 |  3.456 | 🌒 | Premier croissant
+2025-01-04 |  4.467 | 🌒 | Premier croissant
+2025-01-05 |  5.478 | 🌒 | Premier croissant
+2025-01-06 |  6.489 | 🌒 | Premier croissant
+2025-01-07 |  7.500 | 🌓 | Premier quartier
+2025-01-08 |  8.511 | 🌔 | Lune gibbeuse croissante
+2025-01-09 |  9.522 | 🌔 | Lune gibbeuse croissante
+2025-01-10 | 10.533 | 🌔 | Lune gibbeuse croissante
+2025-01-11 | 11.545 | 🌔 | Lune gibbeuse croissante
+2025-01-12 | 12.556 | 🌔 | Lune gibbeuse croissante
+2025-01-13 | 13.567 | 🌔 | Lune gibbeuse croissante
+2025-01-14 | 14.578 | 🌕 | Pleine lune
+2025-01-15 | 15.511 | 🌖 | Lune gibbeuse décroissante
+2025-01-16 | 16.445 | 🌖 | Lune gibbeuse décroissante
+2025-01-17 | 17.378 | 🌖 | Lune gibbeuse décroissante
+2025-01-18 | 18.233 | 🌖 | Lune gibbeuse décroissante
+2025-01-19 | 19.089 | 🌖 | Lune gibbeuse décroissante
+2025-01-20 | 19.945 | 🌖 | Lune gibbeuse décroissante
+2025-01-21 | 20.800 | 🌖 | Lune gibbeuse décroissante
+2025-01-22 | 21.656 | 🌗 | Dernier quartier
+2025-01-23 | 22.433 | 🌘 | Dernier croissant
+2025-01-24 | 23.289 | 🌘 | Dernier croissant
+2025-01-25 | 24.222 | 🌘 | Dernier croissant
+2025-01-26 | 25.078 | 🌘 | Dernier croissant
+2025-01-27 | 26.011 | 🌘 | Dernier croissant
+2025-01-28 | 27.022 | 🌘 | Dernier croissant
+2025-01-29 | 27.956 | 🌘 | Dernier croissant
+2025-01-30 |  0.967 | 🌑 | Nouvelle lune
+2025-01-31 |  1.978 | 🌒 | Premier croissant
+2025-02-01 |  3.067 | 🌒 | Premier croissant
+2025-02-02 |  4.078 | 🌒 | Premier croissant
+2025-02-03 |  5.089 | 🌒 | Premier croissant
+2025-02-04 |  6.178 | 🌒 | Premier croissant
+2025-02-05 |  7.189 | 🌓 | Premier quartier
+2025-02-06 |  8.200 | 🌔 | Lune gibbeuse croissante
+2025-02-07 |  9.133 | 🌔 | Lune gibbeuse croissante
+2025-02-08 | 10.145 | 🌔 | Lune gibbeuse croissante
+2025-02-09 | 11.156 | 🌔 | Lune gibbeuse croissante
+2025-02-10 | 12.089 | 🌔 | Lune gibbeuse croissante
+2025-02-11 | 13.022 | 🌔 | Lune gibbeuse croissante
+2025-02-12 | 13.956 | 🌔 | Lune gibbeuse croissante
+2025-02-13 | 14.889 | 🌕 | Pleine lune
+2025-02-14 | 15.745 | 🌖 | Lune gibbeuse décroissante
+2025-02-15 | 16.678 | 🌖 | Lune gibbeuse décroissante
+2025-02-16 | 17.533 | 🌖 | Lune gibbeuse décroissante
+2025-02-17 | 18.389 | 🌖 | Lune gibbeuse décroissante
+2025-02-18 | 19.167 | 🌖 | Lune gibbeuse décroissante
+2025-02-19 | 20.022 | 🌖 | Lune gibbeuse décroissante
+2025-02-20 | 20.878 | 🌖 | Lune gibbeuse décroissante
+2025-02-21 | 21.733 | 🌗 | Dernier quartier
+2025-02-22 | 22.589 | 🌘 | Dernier croissant
+2025-02-23 | 23.522 | 🌘 | Dernier croissant
+2025-02-24 | 24.456 | 🌘 | Dernier croissant
+2025-02-25 | 25.389 | 🌘 | Dernier croissant
+2025-02-26 | 26.400 | 🌘 | Dernier croissant
+2025-02-27 | 27.411 | 🌘 | Dernier croissant
+2025-02-28 |  0.500 | 🌑 | Nouvelle lune
+2025-03-01 |  1.511 | 🌒 | Premier croissant
+2025-03-02 |  2.600 | 🌒 | Premier croissant
+2025-03-03 |  3.689 | 🌒 | Premier croissant
+2025-03-04 |  4.700 | 🌒 | Premier croissant
+2025-03-05 |  5.789 | 🌒 | Premier croissant
+2025-03-06 |  6.800 | 🌒 | Premier croissant
+2025-03-07 |  7.811 | 🌓 | Premier quartier
+2025-03-08 |  8.745 | 🌔 | Lune gibbeuse croissante
+2025-03-09 |  9.756 | 🌔 | Lune gibbeuse croissante
+2025-03-10 | 10.689 | 🌔 | Lune gibbeuse croissante
+2025-03-11 | 11.622 | 🌔 | Lune gibbeuse croissante
+2025-03-12 | 12.478 | 🌔 | Lune gibbeuse croissante
+2025-03-13 | 13.411 | 🌔 | Lune gibbeuse croissante
+2025-03-14 | 14.267 | 🌕 | Pleine lune
+2025-03-15 | 15.122 | 🌖 | Lune gibbeuse décroissante
+2025-03-16 | 15.978 | 🌖 | Lune gibbeuse décroissante
+2025-03-17 | 16.833 | 🌖 | Lune gibbeuse décroissante
+2025-03-18 | 17.611 | 🌖 | Lune gibbeuse décroissante
+2025-03-19 | 18.467 | 🌖 | Lune gibbeuse décroissante
+2025-03-20 | 19.322 | 🌖 | Lune gibbeuse décroissante
+2025-03-21 | 20.178 | 🌖 | Lune gibbeuse décroissante
+2025-03-22 | 21.033 | 🌗 | Dernier quartier
+2025-03-23 | 21.967 | 🌘 | Dernier croissant
+2025-03-24 | 22.900 | 🌘 | Dernier croissant
+2025-03-25 | 23.833 | 🌘 | Dernier croissant
+2025-03-26 | 24.845 | 🌘 | Dernier croissant
+2025-03-27 | 25.856 | 🌘 | Dernier croissant
+2025-03-28 | 26.945 | 🌘 | Dernier croissant
+2025-03-29 |  0.033 | 🌑 | Nouvelle lune
+2025-03-30 |  1.122 | 🌒 | Premier croissant
+2025-03-31 |  2.211 | 🌒 | Premier croissant
+2025-04-01 |  3.300 | 🌒 | Premier croissant
+2025-04-02 |  4.389 | 🌒 | Premier croissant
+2025-04-03 |  5.400 | 🌒 | Premier croissant
+2025-04-04 |  6.411 | 🌒 | Premier croissant
+2025-04-05 |  7.422 | 🌓 | Premier quartier
+2025-04-06 |  8.356 | 🌔 | Lune gibbeuse croissante
+2025-04-07 |  9.289 | 🌔 | Lune gibbeuse croissante
+2025-04-08 | 10.145 | 🌔 | Lune gibbeuse croissante
+2025-04-09 | 11.078 | 🌔 | Lune gibbeuse croissante
+2025-04-10 | 11.933 | 🌔 | Lune gibbeuse croissante
+2025-04-11 | 12.789 | 🌔 | Lune gibbeuse croissante
+2025-04-12 | 13.645 | 🌔 | Lune gibbeuse croissante
+2025-04-13 | 14.500 | 🌕 | Pleine lune
+2025-04-14 | 15.356 | 🌖 | Lune gibbeuse décroissante
+2025-04-15 | 16.133 | 🌖 | Lune gibbeuse décroissante
+2025-04-16 | 16.989 | 🌖 | Lune gibbeuse décroissante
+2025-04-17 | 17.845 | 🌖 | Lune gibbeuse décroissante
+2025-04-18 | 18.700 | 🌖 | Lune gibbeuse décroissante
+2025-04-19 | 19.556 | 🌖 | Lune gibbeuse décroissante
+2025-04-20 | 20.489 | 🌖 | Lune gibbeuse décroissante
+2025-04-21 | 21.422 | 🌗 | Dernier quartier
+2025-04-22 | 22.356 | 🌘 | Dernier croissant
+2025-04-23 | 23.367 | 🌘 | Dernier croissant
+2025-04-24 | 24.378 | 🌘 | Dernier croissant
+2025-04-25 | 25.467 | 🌘 | Dernier croissant
+2025-04-26 | 26.556 | 🌘 | Dernier croissant
+2025-04-27 | 27.645 | 🌘 | Dernier croissant
+2025-04-28 |  0.733 | 🌑 | Nouvelle lune
+2025-04-29 |  1.822 | 🌒 | Premier croissant
+2025-04-30 |  2.911 | 🌒 | Premier croissant
+2025-05-01 |  4.000 | 🌒 | Premier croissant
+2025-05-02 |  5.011 | 🌒 | Premier croissant
+2025-05-03 |  6.022 | 🌒 | Premier croissant
+2025-05-04 |  6.956 | 🌒 | Premier croissant
+2025-05-05 |  7.889 | 🌓 | Premier quartier

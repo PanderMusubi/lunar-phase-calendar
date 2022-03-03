@@ -1,7 +1,7 @@
 # Lunar Phase Calendar
 
 Roling ICS calendars with
-[lunar phases](https://en.wikipedia.org/wiki/Lunar_phase) for two years in
+[lunar phases](https://en.wikipedia.org/wiki/Lunar_phase) for three years in
 advance.
 
 Besides calendars with all the lunars phases, there are also calendars provided
@@ -11,14 +11,19 @@ generated for different languages and in the formats:
 * MarkDown in MD files, e.g. `nl/new-moon.md`
 * iCalendar in ICS files, e.g. `de/full-moon.ics`
 
-The calendars are generated on a certain day for two years in advance and is
+The calendars are generated on a certain day for three years in advance and is
 published in this repository. At the time of generation, a margin is used of one
 month at the beginning and of two months at the end.
 
+As lunar phases cannot be written in recurring calendar events, all the
+individual lunar phases need to be included in the calendar. Generating
+calendars for the next ten of fifty years would results in large ICS files.
+Hence, this approach was chosen.
+
 The calendars will be regenerated regularly. Browse around in order to find the
 lunar phase calendar you are looking for. In case a calendar is lagging behind
-too much, you want to contribute a translation or report a bug or feature,
-please create an issue.
+too much, more time in advance is needed, you want to contribute a translation
+or report a bug or feature, please create an issue.
 
 ## Screenshots
 

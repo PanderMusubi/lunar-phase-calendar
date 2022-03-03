@@ -112,3 +112,52 @@ Dag        | Fase   | Simbool | Naam
 2024-04-16 |  7.733 | 🌓 | Eerste kwartier
 2024-04-24 | 14.500 | 🌕 | Volmaan
 2024-05-01 | 21.033 | 🌗 | Laaste kwartier
+2024-05-08 |  0.345 | 🌑 | Donkermaan
+2024-05-15 |  7.111 | 🌓 | Eerste kwartier
+2024-05-24 | 14.889 | 🌕 | Volmaan
+2024-05-31 | 21.811 | 🌗 | Laaste kwartier
+2024-06-07 |  0.967 | 🌑 | Donkermaan
+2024-06-14 |  7.345 | 🌓 | Eerste kwartier
+2024-06-22 | 14.500 | 🌕 | Volmaan
+2024-06-29 | 21.578 | 🌗 | Laaste kwartier
+2024-07-06 |  0.500 | 🌑 | Donkermaan
+2024-07-14 |  7.500 | 🌓 | Eerste kwartier
+2024-07-21 | 14.033 | 🌕 | Volmaan
+2024-07-28 | 21.345 | 🌗 | Laaste kwartier
+2024-08-04 |  0.111 | 🌑 | Donkermaan
+2024-08-13 |  7.811 | 🌓 | Eerste kwartier
+2024-08-20 | 14.733 | 🌕 | Volmaan
+2024-08-26 | 21.111 | 🌗 | Laaste kwartier
+2024-09-03 |  0.422 | 🌑 | Donkermaan
+2024-09-11 |  7.267 | 🌓 | Eerste kwartier
+2024-09-18 | 14.345 | 🌕 | Volmaan
+2024-09-25 | 21.733 | 🌗 | Laaste kwartier
+2024-10-03 |  0.656 | 🌑 | Donkermaan
+2024-10-11 |  7.733 | 🌓 | Eerste kwartier
+2024-10-24 | 21.189 | 🌗 | Laaste kwartier
+2024-11-01 |  0.033 | 🌑 | Donkermaan
+2024-11-09 |  7.267 | 🌓 | Eerste kwartier
+2024-11-16 | 14.578 | 🌕 | Volmaan
+2024-11-23 | 21.422 | 🌗 | Laaste kwartier
+2024-12-01 |  0.267 | 🌑 | Donkermaan
+2024-12-09 |  7.889 | 🌓 | Eerste kwartier
+2024-12-15 | 14.111 | 🌕 | Volmaan
+2024-12-23 | 21.578 | 🌗 | Laaste kwartier
+2024-12-31 |  0.578 | 🌑 | Donkermaan
+2025-01-07 |  7.500 | 🌓 | Eerste kwartier
+2025-01-14 | 14.578 | 🌕 | Volmaan
+2025-01-22 | 21.656 | 🌗 | Laaste kwartier
+2025-01-30 |  0.967 | 🌑 | Donkermaan
+2025-02-05 |  7.189 | 🌓 | Eerste kwartier
+2025-02-13 | 14.889 | 🌕 | Volmaan
+2025-02-21 | 21.733 | 🌗 | Laaste kwartier
+2025-02-28 |  0.500 | 🌑 | Donkermaan
+2025-03-07 |  7.811 | 🌓 | Eerste kwartier
+2025-03-14 | 14.267 | 🌕 | Volmaan
+2025-03-22 | 21.033 | 🌗 | Laaste kwartier
+2025-03-29 |  0.033 | 🌑 | Donkermaan
+2025-04-05 |  7.422 | 🌓 | Eerste kwartier
+2025-04-13 | 14.500 | 🌕 | Volmaan
+2025-04-21 | 21.422 | 🌗 | Laaste kwartier
+2025-04-28 |  0.733 | 🌑 | Donkermaan
+2025-05-05 |  7.889 | 🌓 | Eerste kwartier

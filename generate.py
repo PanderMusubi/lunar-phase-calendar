@@ -167,7 +167,7 @@ def write_files(lang='en'):
 
     today = date.today()
     start = today - timedelta(days=31 + 1)
-    end = today + timedelta(days=(2 * 366) + (2 * 31))
+    end = today + timedelta(days=(3 * 366) + (2 * 31))
     for i in range((end - start).days):
         day = start + timedelta(days=i)
         phase, code = day_to_moon_phase_and_accurate_code(day)
