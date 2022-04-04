@@ -8,7 +8,6 @@ from os import makedirs, chdir, getpid, getcwd
 from socket import getfqdn
 from astral import moon
 
-
 __location__ = realpath(join(getcwd(), dirname(__file__)))
 moon_phase_names = load(open(join(__location__, 'moon-phase-names.json'), encoding='utf8'))  # pylint:disable=consider-using-with
 moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '🌘')
@@ -18,7 +17,6 @@ header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pyli
 
 # explicitely capitalize with title() all words
 titles = ('en', 'pt')
-
 
 def moon_phase_code_to_name(code, lang='en'):
     '''Converts moon phase code to name.'''
@@ -225,9 +223,14 @@ def write_files(lang='en'):
         ics_new.write(line)
         ics_full.write(line)
 
-for language in sorted(header.keys()):
-    if not isdir(language):
-        makedirs(language)
-    chdir(language)
-    write_files(language)
-    chdir('..')
+def generate():
+    '''Generate files.'''
+    for language in sorted(header.keys()):
+        if not isdir(language):
+            makedirs(language)
+        chdir(language)
+        write_files(language)
+        chdir('..')
+
+if __name__ == '__main__':
+    generate()
