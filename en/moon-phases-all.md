@@ -2,26 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-03-03 |  0.733 | 🌑 | New moon
-2022-03-04 |  1.745 | 🌒 | Waxing crescent
-2022-03-05 |  2.678 | 🌒 | Waxing crescent
-2022-03-06 |  3.689 | 🌒 | Waxing crescent
-2022-03-07 |  4.545 | 🌒 | Waxing crescent
-2022-03-08 |  5.400 | 🌒 | Waxing crescent
-2022-03-09 |  6.256 | 🌒 | Waxing crescent
-2022-03-10 |  7.111 | 🌓 | First quarter
-2022-03-11 |  7.967 | 🌔 | Waxing gibbous
-2022-03-12 |  8.822 | 🌔 | Waxing gibbous
-2022-03-13 |  9.678 | 🌔 | Waxing gibbous
-2022-03-14 | 10.533 | 🌔 | Waxing gibbous
-2022-03-15 | 11.389 | 🌔 | Waxing gibbous
-2022-03-16 | 12.322 | 🌔 | Waxing gibbous
-2022-03-17 | 13.256 | 🌔 | Waxing gibbous
-2022-03-18 | 14.189 | 🌕 | Full moon
-2022-03-19 | 15.200 | 🌖 | Waning gibbous
-2022-03-20 | 16.211 | 🌖 | Waning gibbous
-2022-03-21 | 17.222 | 🌖 | Waning gibbous
-2022-03-22 | 18.233 | 🌖 | Waning gibbous
 2022-03-23 | 19.245 | 🌖 | Waning gibbous
 2022-03-24 | 20.256 | 🌖 | Waning gibbous
 2022-03-25 | 21.267 | 🌗 | Last quarter
@@ -1194,3 +1174,23 @@ Day        | Phase  | Symbol | Name
 2025-06-04 |  8.278 | 🌔 | Waxing gibbous
 2025-06-05 |  9.133 | 🌔 | Waxing gibbous
 2025-06-06 |  9.989 | 🌔 | Waxing gibbous
+2025-06-07 | 10.767 | 🌔 | Waxing gibbous
+2025-06-08 | 11.622 | 🌔 | Waxing gibbous
+2025-06-09 | 12.478 | 🌔 | Waxing gibbous
+2025-06-10 | 13.333 | 🌔 | Waxing gibbous
+2025-06-11 | 14.189 | 🌕 | Full moon
+2025-06-12 | 15.122 | 🌖 | Waning gibbous
+2025-06-13 | 15.978 | 🌖 | Waning gibbous
+2025-06-14 | 16.911 | 🌖 | Waning gibbous
+2025-06-15 | 17.845 | 🌖 | Waning gibbous
+2025-06-16 | 18.778 | 🌖 | Waning gibbous
+2025-06-17 | 19.711 | 🌖 | Waning gibbous
+2025-06-18 | 20.722 | 🌖 | Waning gibbous
+2025-06-19 | 21.733 | 🌗 | Last quarter
+2025-06-20 | 22.745 | 🌘 | Waning crescent
+2025-06-21 | 23.756 | 🌘 | Waning crescent
+2025-06-22 | 24.845 | 🌘 | Waning crescent
+2025-06-23 | 25.856 | 🌘 | Waning crescent
+2025-06-24 | 26.945 | 🌘 | Waning crescent
+2025-06-25 |  0.033 | 🌑 | New moon
+2025-06-26 |  1.045 | 🌒 | Waxing crescent

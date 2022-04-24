@@ -2,26 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-03-03 |  0.733 | 🌑 | Donkermaan
-2022-03-04 |  1.745 | 🌒 | Groeiende sekelmaan
-2022-03-05 |  2.678 | 🌒 | Groeiende sekelmaan
-2022-03-06 |  3.689 | 🌒 | Groeiende sekelmaan
-2022-03-07 |  4.545 | 🌒 | Groeiende sekelmaan
-2022-03-08 |  5.400 | 🌒 | Groeiende sekelmaan
-2022-03-09 |  6.256 | 🌒 | Groeiende sekelmaan
-2022-03-10 |  7.111 | 🌓 | Eerste kwartier
-2022-03-11 |  7.967 | 🌔 | Groeiende bolmaan
-2022-03-12 |  8.822 | 🌔 | Groeiende bolmaan
-2022-03-13 |  9.678 | 🌔 | Groeiende bolmaan
-2022-03-14 | 10.533 | 🌔 | Groeiende bolmaan
-2022-03-15 | 11.389 | 🌔 | Groeiende bolmaan
-2022-03-16 | 12.322 | 🌔 | Groeiende bolmaan
-2022-03-17 | 13.256 | 🌔 | Groeiende bolmaan
-2022-03-18 | 14.189 | 🌕 | Volmaan
-2022-03-19 | 15.200 | 🌖 | Afnemende bolmaan
-2022-03-20 | 16.211 | 🌖 | Afnemende bolmaan
-2022-03-21 | 17.222 | 🌖 | Afnemende bolmaan
-2022-03-22 | 18.233 | 🌖 | Afnemende bolmaan
 2022-03-23 | 19.245 | 🌖 | Afnemende bolmaan
 2022-03-24 | 20.256 | 🌖 | Afnemende bolmaan
 2022-03-25 | 21.267 | 🌗 | Laaste kwartier
@@ -1194,3 +1174,23 @@ Dag        | Fase   | Simbool | Naam
 2025-06-04 |  8.278 | 🌔 | Groeiende bolmaan
 2025-06-05 |  9.133 | 🌔 | Groeiende bolmaan
 2025-06-06 |  9.989 | 🌔 | Groeiende bolmaan
+2025-06-07 | 10.767 | 🌔 | Groeiende bolmaan
+2025-06-08 | 11.622 | 🌔 | Groeiende bolmaan
+2025-06-09 | 12.478 | 🌔 | Groeiende bolmaan
+2025-06-10 | 13.333 | 🌔 | Groeiende bolmaan
+2025-06-11 | 14.189 | 🌕 | Volmaan
+2025-06-12 | 15.122 | 🌖 | Afnemende bolmaan
+2025-06-13 | 15.978 | 🌖 | Afnemende bolmaan
+2025-06-14 | 16.911 | 🌖 | Afnemende bolmaan
+2025-06-15 | 17.845 | 🌖 | Afnemende bolmaan
+2025-06-16 | 18.778 | 🌖 | Afnemende bolmaan
+2025-06-17 | 19.711 | 🌖 | Afnemende bolmaan
+2025-06-18 | 20.722 | 🌖 | Afnemende bolmaan
+2025-06-19 | 21.733 | 🌗 | Laaste kwartier
+2025-06-20 | 22.745 | 🌘 | Afnemende sekelmaan
+2025-06-21 | 23.756 | 🌘 | Afnemende sekelmaan
+2025-06-22 | 24.845 | 🌘 | Afnemende sekelmaan
+2025-06-23 | 25.856 | 🌘 | Afnemende sekelmaan
+2025-06-24 | 26.945 | 🌘 | Afnemende sekelmaan
+2025-06-25 |  0.033 | 🌑 | Donkermaan
+2025-06-26 |  1.045 | 🌒 | Groeiende sekelmaan

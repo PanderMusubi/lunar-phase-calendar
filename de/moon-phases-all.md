@@ -2,26 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-03-03 |  0.733 | 🌑 | Neumond
-2022-03-04 |  1.745 | 🌒 | Zunehmender Sichelmond
-2022-03-05 |  2.678 | 🌒 | Zunehmender Sichelmond
-2022-03-06 |  3.689 | 🌒 | Zunehmender Sichelmond
-2022-03-07 |  4.545 | 🌒 | Zunehmender Sichelmond
-2022-03-08 |  5.400 | 🌒 | Zunehmender Sichelmond
-2022-03-09 |  6.256 | 🌒 | Zunehmender Sichelmond
-2022-03-10 |  7.111 | 🌓 | Erstes Viertel
-2022-03-11 |  7.967 | 🌔 | Zunehmender Mond
-2022-03-12 |  8.822 | 🌔 | Zunehmender Mond
-2022-03-13 |  9.678 | 🌔 | Zunehmender Mond
-2022-03-14 | 10.533 | 🌔 | Zunehmender Mond
-2022-03-15 | 11.389 | 🌔 | Zunehmender Mond
-2022-03-16 | 12.322 | 🌔 | Zunehmender Mond
-2022-03-17 | 13.256 | 🌔 | Zunehmender Mond
-2022-03-18 | 14.189 | 🌕 | Vollmond
-2022-03-19 | 15.200 | 🌖 | Abnehmender Mond
-2022-03-20 | 16.211 | 🌖 | Abnehmender Mond
-2022-03-21 | 17.222 | 🌖 | Abnehmender Mond
-2022-03-22 | 18.233 | 🌖 | Abnehmender Mond
 2022-03-23 | 19.245 | 🌖 | Abnehmender Mond
 2022-03-24 | 20.256 | 🌖 | Abnehmender Mond
 2022-03-25 | 21.267 | 🌗 | Letztes Viertel
@@ -1194,3 +1174,23 @@ Tag        | Phase  | Symbole | Name
 2025-06-04 |  8.278 | 🌔 | Zunehmender Mond
 2025-06-05 |  9.133 | 🌔 | Zunehmender Mond
 2025-06-06 |  9.989 | 🌔 | Zunehmender Mond
+2025-06-07 | 10.767 | 🌔 | Zunehmender Mond
+2025-06-08 | 11.622 | 🌔 | Zunehmender Mond
+2025-06-09 | 12.478 | 🌔 | Zunehmender Mond
+2025-06-10 | 13.333 | 🌔 | Zunehmender Mond
+2025-06-11 | 14.189 | 🌕 | Vollmond
+2025-06-12 | 15.122 | 🌖 | Abnehmender Mond
+2025-06-13 | 15.978 | 🌖 | Abnehmender Mond
+2025-06-14 | 16.911 | 🌖 | Abnehmender Mond
+2025-06-15 | 17.845 | 🌖 | Abnehmender Mond
+2025-06-16 | 18.778 | 🌖 | Abnehmender Mond
+2025-06-17 | 19.711 | 🌖 | Abnehmender Mond
+2025-06-18 | 20.722 | 🌖 | Abnehmender Mond
+2025-06-19 | 21.733 | 🌗 | Letztes Viertel
+2025-06-20 | 22.745 | 🌘 | Abnehmender Sichelmond
+2025-06-21 | 23.756 | 🌘 | Abnehmender Sichelmond
+2025-06-22 | 24.845 | 🌘 | Abnehmender Sichelmond
+2025-06-23 | 25.856 | 🌘 | Abnehmender Sichelmond
+2025-06-24 | 26.945 | 🌘 | Abnehmender Sichelmond
+2025-06-25 |  0.033 | 🌑 | Neumond
+2025-06-26 |  1.045 | 🌒 | Zunehmender Sichelmond

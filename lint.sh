@@ -6,4 +6,4 @@ checkbashisms *.sh
 # sudo pip3 install -U pylint pyflakes mypy
 pylint *.py
 pyflakes *.py
-mypy *.py
+mypy --ignore-missing-imports *.py

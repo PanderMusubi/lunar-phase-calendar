@@ -2,26 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-03-03 |  0.733 | 🌑 | Lua nova
-2022-03-04 |  1.745 | 🌒 | Lua crescente
-2022-03-05 |  2.678 | 🌒 | Lua crescente
-2022-03-06 |  3.689 | 🌒 | Lua crescente
-2022-03-07 |  4.545 | 🌒 | Lua crescente
-2022-03-08 |  5.400 | 🌒 | Lua crescente
-2022-03-09 |  6.256 | 🌒 | Lua crescente
-2022-03-10 |  7.111 | 🌓 | Quarto crescente
-2022-03-11 |  7.967 | 🌔 | Lua crescente gibosa
-2022-03-12 |  8.822 | 🌔 | Lua crescente gibosa
-2022-03-13 |  9.678 | 🌔 | Lua crescente gibosa
-2022-03-14 | 10.533 | 🌔 | Lua crescente gibosa
-2022-03-15 | 11.389 | 🌔 | Lua crescente gibosa
-2022-03-16 | 12.322 | 🌔 | Lua crescente gibosa
-2022-03-17 | 13.256 | 🌔 | Lua crescente gibosa
-2022-03-18 | 14.189 | 🌕 | Lua cheia
-2022-03-19 | 15.200 | 🌖 | Lua minguante gibosa
-2022-03-20 | 16.211 | 🌖 | Lua minguante gibosa
-2022-03-21 | 17.222 | 🌖 | Lua minguante gibosa
-2022-03-22 | 18.233 | 🌖 | Lua minguante gibosa
 2022-03-23 | 19.245 | 🌖 | Lua minguante gibosa
 2022-03-24 | 20.256 | 🌖 | Lua minguante gibosa
 2022-03-25 | 21.267 | 🌗 | Quarto minguante
@@ -1194,3 +1174,23 @@ Dia        | Fase   | Símbolo | Nome
 2025-06-04 |  8.278 | 🌔 | Lua crescente gibosa
 2025-06-05 |  9.133 | 🌔 | Lua crescente gibosa
 2025-06-06 |  9.989 | 🌔 | Lua crescente gibosa
+2025-06-07 | 10.767 | 🌔 | Lua crescente gibosa
+2025-06-08 | 11.622 | 🌔 | Lua crescente gibosa
+2025-06-09 | 12.478 | 🌔 | Lua crescente gibosa
+2025-06-10 | 13.333 | 🌔 | Lua crescente gibosa
+2025-06-11 | 14.189 | 🌕 | Lua cheia
+2025-06-12 | 15.122 | 🌖 | Lua minguante gibosa
+2025-06-13 | 15.978 | 🌖 | Lua minguante gibosa
+2025-06-14 | 16.911 | 🌖 | Lua minguante gibosa
+2025-06-15 | 17.845 | 🌖 | Lua minguante gibosa
+2025-06-16 | 18.778 | 🌖 | Lua minguante gibosa
+2025-06-17 | 19.711 | 🌖 | Lua minguante gibosa
+2025-06-18 | 20.722 | 🌖 | Lua minguante gibosa
+2025-06-19 | 21.733 | 🌗 | Quarto minguante
+2025-06-20 | 22.745 | 🌘 | Lua minguante
+2025-06-21 | 23.756 | 🌘 | Lua minguante
+2025-06-22 | 24.845 | 🌘 | Lua minguante
+2025-06-23 | 25.856 | 🌘 | Lua minguante
+2025-06-24 | 26.945 | 🌘 | Lua minguante
+2025-06-25 |  0.033 | 🌑 | Lua nova
+2025-06-26 |  1.045 | 🌒 | Lua crescente
