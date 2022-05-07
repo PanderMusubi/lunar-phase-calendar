@@ -2,19 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-03-23 | 19.245 | 🌖 | Waning gibbous
-2022-03-24 | 20.256 | 🌖 | Waning gibbous
-2022-03-25 | 21.267 | 🌗 | Last quarter
-2022-03-26 | 22.278 | 🌘 | Waning crescent
-2022-03-27 | 23.289 | 🌘 | Waning crescent
-2022-03-28 | 24.300 | 🌘 | Waning crescent
-2022-03-29 | 25.311 | 🌘 | Waning crescent
-2022-03-30 | 26.322 | 🌘 | Waning crescent
-2022-03-31 | 27.256 | 🌘 | Waning crescent
-2022-04-01 |  0.267 | 🌑 | New moon
-2022-04-02 |  1.200 | 🌒 | Waxing crescent
-2022-04-03 |  2.133 | 🌒 | Waxing crescent
-2022-04-04 |  2.989 | 🌒 | Waxing crescent
 2022-04-05 |  3.845 | 🌒 | Waxing crescent
 2022-04-06 |  4.700 | 🌒 | Waxing crescent
 2022-04-07 |  5.556 | 🌒 | Waxing crescent
@@ -1194,3 +1181,16 @@ Day        | Phase  | Symbol | Name
 2025-06-24 | 26.945 | 🌘 | Waning crescent
 2025-06-25 |  0.033 | 🌑 | New moon
 2025-06-26 |  1.045 | 🌒 | Waxing crescent
+2025-06-27 |  2.133 | 🌒 | Waxing crescent
+2025-06-28 |  3.145 | 🌒 | Waxing crescent
+2025-06-29 |  4.078 | 🌒 | Waxing crescent
+2025-06-30 |  5.011 | 🌒 | Waxing crescent
+2025-07-01 |  5.945 | 🌒 | Waxing crescent
+2025-07-02 |  6.800 | 🌒 | Waxing crescent
+2025-07-03 |  7.656 | 🌓 | First quarter
+2025-07-04 |  8.511 | 🌔 | Waxing gibbous
+2025-07-05 |  9.367 | 🌔 | Waxing gibbous
+2025-07-06 | 10.222 | 🌔 | Waxing gibbous
+2025-07-07 | 11.078 | 🌔 | Waxing gibbous
+2025-07-08 | 11.933 | 🌔 | Waxing gibbous
+2025-07-09 | 12.789 | 🌔 | Waxing gibbous

@@ -2,19 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2022-03-23 | 19.245 | 🌖 | Gibbosa calante
-2022-03-24 | 20.256 | 🌖 | Gibbosa calante
-2022-03-25 | 21.267 | 🌗 | Ultimo quarto
-2022-03-26 | 22.278 | 🌘 | Luna calante
-2022-03-27 | 23.289 | 🌘 | Luna calante
-2022-03-28 | 24.300 | 🌘 | Luna calante
-2022-03-29 | 25.311 | 🌘 | Luna calante
-2022-03-30 | 26.322 | 🌘 | Luna calante
-2022-03-31 | 27.256 | 🌘 | Luna calante
-2022-04-01 |  0.267 | 🌑 | Luna nuova
-2022-04-02 |  1.200 | 🌒 | Luna crescente
-2022-04-03 |  2.133 | 🌒 | Luna crescente
-2022-04-04 |  2.989 | 🌒 | Luna crescente
 2022-04-05 |  3.845 | 🌒 | Luna crescente
 2022-04-06 |  4.700 | 🌒 | Luna crescente
 2022-04-07 |  5.556 | 🌒 | Luna crescente
@@ -1194,3 +1181,16 @@ Giorno     | Fase   | Simbolo | Nome
 2025-06-24 | 26.945 | 🌘 | Luna calante
 2025-06-25 |  0.033 | 🌑 | Luna nuova
 2025-06-26 |  1.045 | 🌒 | Luna crescente
+2025-06-27 |  2.133 | 🌒 | Luna crescente
+2025-06-28 |  3.145 | 🌒 | Luna crescente
+2025-06-29 |  4.078 | 🌒 | Luna crescente
+2025-06-30 |  5.011 | 🌒 | Luna crescente
+2025-07-01 |  5.945 | 🌒 | Luna crescente
+2025-07-02 |  6.800 | 🌒 | Luna crescente
+2025-07-03 |  7.656 | 🌓 | Primo quarto
+2025-07-04 |  8.511 | 🌔 | Gibbosa crescente
+2025-07-05 |  9.367 | 🌔 | Gibbosa crescente
+2025-07-06 | 10.222 | 🌔 | Gibbosa crescente
+2025-07-07 | 11.078 | 🌔 | Gibbosa crescente
+2025-07-08 | 11.933 | 🌔 | Gibbosa crescente
+2025-07-09 | 12.789 | 🌔 | Gibbosa crescente
