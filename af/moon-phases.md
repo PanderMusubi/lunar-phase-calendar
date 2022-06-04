@@ -2,10 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-04-09 |  7.267 | 🌓 | Eerste kwartier
-2022-04-17 | 14.733 | 🌕 | Volmaan
-2022-04-24 | 21.967 | 🌗 | Laaste kwartier
-2022-05-01 |  0.656 | 🌑 | Donkermaan
 2022-05-09 |  7.422 | 🌓 | Eerste kwartier
 2022-05-16 | 14.345 | 🌕 | Volmaan
 2022-05-23 | 21.733 | 🌗 | Laaste kwartier
@@ -160,3 +156,7 @@ Dag        | Fase   | Simbool | Naam
 2025-06-19 | 21.733 | 🌗 | Laaste kwartier
 2025-06-25 |  0.033 | 🌑 | Donkermaan
 2025-07-03 |  7.656 | 🌓 | Eerste kwartier
+2025-07-11 | 14.656 | 🌕 | Volmaan
+2025-07-18 | 21.500 | 🌗 | Laaste kwartier
+2025-07-25 |  0.656 | 🌑 | Donkermaan
+2025-08-01 |  7.111 | 🌓 | Eerste kwartier
