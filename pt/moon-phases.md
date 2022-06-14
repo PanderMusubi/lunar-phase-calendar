@@ -2,7 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-05-09 |  7.422 | 🌓 | Quarto crescente
 2022-05-16 | 14.345 | 🌕 | Lua cheia
 2022-05-23 | 21.733 | 🌗 | Quarto minguante
 2022-05-30 |  0.111 | 🌑 | Lua nova
@@ -160,3 +159,5 @@ Dia        | Fase   | Símbolo | Nome
 2025-07-18 | 21.500 | 🌗 | Quarto minguante
 2025-07-25 |  0.656 | 🌑 | Lua nova
 2025-08-01 |  7.111 | 🌓 | Quarto crescente
+2025-08-09 | 14.189 | 🌕 | Lua cheia
+2025-08-16 | 21.267 | 🌗 | Quarto minguante

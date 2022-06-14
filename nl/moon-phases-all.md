@@ -2,16 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2022-05-03 |  2.367 | 🌒 | Wassende, sikkelvormige maan
-2022-05-04 |  3.222 | 🌒 | Wassende, sikkelvormige maan
-2022-05-05 |  4.078 | 🌒 | Wassende, sikkelvormige maan
-2022-05-06 |  4.933 | 🌒 | Wassende, sikkelvormige maan
-2022-05-07 |  5.789 | 🌒 | Wassende, sikkelvormige maan
-2022-05-08 |  6.567 | 🌒 | Wassende, sikkelvormige maan
-2022-05-09 |  7.422 | 🌓 | Eerste kwartier
-2022-05-10 |  8.356 | 🌔 | Wassende,vooruitspringende maan
-2022-05-11 |  9.289 | 🌔 | Wassende,vooruitspringende maan
-2022-05-12 | 10.222 | 🌔 | Wassende,vooruitspringende maan
 2022-05-13 | 11.233 | 🌔 | Wassende,vooruitspringende maan
 2022-05-14 | 12.245 | 🌔 | Wassende,vooruitspringende maan
 2022-05-15 | 13.256 | 🌔 | Wassende,vooruitspringende maan
@@ -1194,3 +1184,13 @@ Dag        | Fase   | Symbool | Naam
 2025-08-04 |  9.600 | 🌔 | Wassende,vooruitspringende maan
 2025-08-05 | 10.456 | 🌔 | Wassende,vooruitspringende maan
 2025-08-06 | 11.389 | 🌔 | Wassende,vooruitspringende maan
+2025-08-07 | 12.245 | 🌔 | Wassende,vooruitspringende maan
+2025-08-08 | 13.178 | 🌔 | Wassende,vooruitspringende maan
+2025-08-09 | 14.189 | 🌕 | Volle maan
+2025-08-10 | 15.200 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-11 | 16.133 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-12 | 17.222 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-13 | 18.233 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-14 | 19.245 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-15 | 20.256 | 🌖 | Krimpende, vooruitspringende maan
+2025-08-16 | 21.267 | 🌗 | Laatste kwartier
