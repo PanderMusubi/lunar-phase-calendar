@@ -2,36 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-05-13 | 11.233 | 🌔 | Zunehmender Mond
-2022-05-14 | 12.245 | 🌔 | Zunehmender Mond
-2022-05-15 | 13.256 | 🌔 | Zunehmender Mond
-2022-05-16 | 14.345 | 🌕 | Vollmond
-2022-05-17 | 15.433 | 🌖 | Abnehmender Mond
-2022-05-18 | 16.522 | 🌖 | Abnehmender Mond
-2022-05-19 | 17.533 | 🌖 | Abnehmender Mond
-2022-05-20 | 18.622 | 🌖 | Abnehmender Mond
-2022-05-21 | 19.711 | 🌖 | Abnehmender Mond
-2022-05-22 | 20.722 | 🌖 | Abnehmender Mond
-2022-05-23 | 21.733 | 🌗 | Letztes Viertel
-2022-05-24 | 22.667 | 🌘 | Abnehmender Sichelmond
-2022-05-25 | 23.600 | 🌘 | Abnehmender Sichelmond
-2022-05-26 | 24.533 | 🌘 | Abnehmender Sichelmond
-2022-05-27 | 25.467 | 🌘 | Abnehmender Sichelmond
-2022-05-28 | 26.322 | 🌘 | Abnehmender Sichelmond
-2022-05-29 | 27.256 | 🌘 | Abnehmender Sichelmond
-2022-05-30 |  0.111 | 🌑 | Neumond
-2022-05-31 |  0.967 | 🌒 | Zunehmender Sichelmond
-2022-06-01 |  1.822 | 🌒 | Zunehmender Sichelmond
-2022-06-02 |  2.678 | 🌒 | Zunehmender Sichelmond
-2022-06-03 |  3.456 | 🌒 | Zunehmender Sichelmond
-2022-06-04 |  4.311 | 🌒 | Zunehmender Sichelmond
-2022-06-05 |  5.167 | 🌒 | Zunehmender Sichelmond
-2022-06-06 |  6.022 | 🌒 | Zunehmender Sichelmond
-2022-06-07 |  6.878 | 🌒 | Zunehmender Sichelmond
-2022-06-08 |  7.811 | 🌓 | Erstes Viertel
-2022-06-09 |  8.745 | 🌔 | Zunehmender Mond
-2022-06-10 |  9.756 | 🌔 | Zunehmender Mond
-2022-06-11 | 10.767 | 🌔 | Zunehmender Mond
 2022-06-12 | 11.778 | 🌔 | Zunehmender Mond
 2022-06-13 | 12.867 | 🌔 | Zunehmender Mond
 2022-06-14 | 13.956 | 🌔 | Zunehmender Mond
@@ -1194,3 +1164,33 @@ Tag        | Phase  | Symbole | Name
 2025-08-14 | 19.245 | 🌖 | Abnehmender Mond
 2025-08-15 | 20.256 | 🌖 | Abnehmender Mond
 2025-08-16 | 21.267 | 🌗 | Letztes Viertel
+2025-08-17 | 22.278 | 🌘 | Abnehmender Sichelmond
+2025-08-18 | 23.289 | 🌘 | Abnehmender Sichelmond
+2025-08-19 | 24.300 | 🌘 | Abnehmender Sichelmond
+2025-08-20 | 25.311 | 🌘 | Abnehmender Sichelmond
+2025-08-21 | 26.322 | 🌘 | Abnehmender Sichelmond
+2025-08-22 | 27.256 | 🌘 | Abnehmender Sichelmond
+2025-08-23 |  0.267 | 🌑 | Neumond
+2025-08-24 |  1.200 | 🌒 | Zunehmender Sichelmond
+2025-08-25 |  2.133 | 🌒 | Zunehmender Sichelmond
+2025-08-26 |  2.989 | 🌒 | Zunehmender Sichelmond
+2025-08-27 |  3.922 | 🌒 | Zunehmender Sichelmond
+2025-08-28 |  4.778 | 🌒 | Zunehmender Sichelmond
+2025-08-29 |  5.556 | 🌒 | Zunehmender Sichelmond
+2025-08-30 |  6.411 | 🌒 | Zunehmender Sichelmond
+2025-08-31 |  7.267 | 🌓 | Erstes Viertel
+2025-09-01 |  8.122 | 🌔 | Zunehmender Mond
+2025-09-02 |  8.978 | 🌔 | Zunehmender Mond
+2025-09-03 |  9.833 | 🌔 | Zunehmender Mond
+2025-09-04 | 10.767 | 🌔 | Zunehmender Mond
+2025-09-05 | 11.700 | 🌔 | Zunehmender Mond
+2025-09-06 | 12.711 | 🌔 | Zunehmender Mond
+2025-09-07 | 13.722 | 🌔 | Zunehmender Mond
+2025-09-08 | 14.733 | 🌕 | Vollmond
+2025-09-09 | 15.822 | 🌖 | Abnehmender Mond
+2025-09-10 | 16.833 | 🌖 | Abnehmender Mond
+2025-09-11 | 17.922 | 🌖 | Abnehmender Mond
+2025-09-12 | 19.011 | 🌖 | Abnehmender Mond
+2025-09-13 | 20.022 | 🌖 | Abnehmender Mond
+2025-09-14 | 21.033 | 🌗 | Letztes Viertel
+2025-09-15 | 22.045 | 🌘 | Abnehmender Sichelmond

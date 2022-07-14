@@ -2,36 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-05-13 | 11.233 | 🌔 | Lua crescente gibosa
-2022-05-14 | 12.245 | 🌔 | Lua crescente gibosa
-2022-05-15 | 13.256 | 🌔 | Lua crescente gibosa
-2022-05-16 | 14.345 | 🌕 | Lua cheia
-2022-05-17 | 15.433 | 🌖 | Lua minguante gibosa
-2022-05-18 | 16.522 | 🌖 | Lua minguante gibosa
-2022-05-19 | 17.533 | 🌖 | Lua minguante gibosa
-2022-05-20 | 18.622 | 🌖 | Lua minguante gibosa
-2022-05-21 | 19.711 | 🌖 | Lua minguante gibosa
-2022-05-22 | 20.722 | 🌖 | Lua minguante gibosa
-2022-05-23 | 21.733 | 🌗 | Quarto minguante
-2022-05-24 | 22.667 | 🌘 | Lua minguante
-2022-05-25 | 23.600 | 🌘 | Lua minguante
-2022-05-26 | 24.533 | 🌘 | Lua minguante
-2022-05-27 | 25.467 | 🌘 | Lua minguante
-2022-05-28 | 26.322 | 🌘 | Lua minguante
-2022-05-29 | 27.256 | 🌘 | Lua minguante
-2022-05-30 |  0.111 | 🌑 | Lua nova
-2022-05-31 |  0.967 | 🌒 | Lua crescente
-2022-06-01 |  1.822 | 🌒 | Lua crescente
-2022-06-02 |  2.678 | 🌒 | Lua crescente
-2022-06-03 |  3.456 | 🌒 | Lua crescente
-2022-06-04 |  4.311 | 🌒 | Lua crescente
-2022-06-05 |  5.167 | 🌒 | Lua crescente
-2022-06-06 |  6.022 | 🌒 | Lua crescente
-2022-06-07 |  6.878 | 🌒 | Lua crescente
-2022-06-08 |  7.811 | 🌓 | Quarto crescente
-2022-06-09 |  8.745 | 🌔 | Lua crescente gibosa
-2022-06-10 |  9.756 | 🌔 | Lua crescente gibosa
-2022-06-11 | 10.767 | 🌔 | Lua crescente gibosa
 2022-06-12 | 11.778 | 🌔 | Lua crescente gibosa
 2022-06-13 | 12.867 | 🌔 | Lua crescente gibosa
 2022-06-14 | 13.956 | 🌔 | Lua crescente gibosa
@@ -1194,3 +1164,33 @@ Dia        | Fase   | Símbolo | Nome
 2025-08-14 | 19.245 | 🌖 | Lua minguante gibosa
 2025-08-15 | 20.256 | 🌖 | Lua minguante gibosa
 2025-08-16 | 21.267 | 🌗 | Quarto minguante
+2025-08-17 | 22.278 | 🌘 | Lua minguante
+2025-08-18 | 23.289 | 🌘 | Lua minguante
+2025-08-19 | 24.300 | 🌘 | Lua minguante
+2025-08-20 | 25.311 | 🌘 | Lua minguante
+2025-08-21 | 26.322 | 🌘 | Lua minguante
+2025-08-22 | 27.256 | 🌘 | Lua minguante
+2025-08-23 |  0.267 | 🌑 | Lua nova
+2025-08-24 |  1.200 | 🌒 | Lua crescente
+2025-08-25 |  2.133 | 🌒 | Lua crescente
+2025-08-26 |  2.989 | 🌒 | Lua crescente
+2025-08-27 |  3.922 | 🌒 | Lua crescente
+2025-08-28 |  4.778 | 🌒 | Lua crescente
+2025-08-29 |  5.556 | 🌒 | Lua crescente
+2025-08-30 |  6.411 | 🌒 | Lua crescente
+2025-08-31 |  7.267 | 🌓 | Quarto crescente
+2025-09-01 |  8.122 | 🌔 | Lua crescente gibosa
+2025-09-02 |  8.978 | 🌔 | Lua crescente gibosa
+2025-09-03 |  9.833 | 🌔 | Lua crescente gibosa
+2025-09-04 | 10.767 | 🌔 | Lua crescente gibosa
+2025-09-05 | 11.700 | 🌔 | Lua crescente gibosa
+2025-09-06 | 12.711 | 🌔 | Lua crescente gibosa
+2025-09-07 | 13.722 | 🌔 | Lua crescente gibosa
+2025-09-08 | 14.733 | 🌕 | Lua cheia
+2025-09-09 | 15.822 | 🌖 | Lua minguante gibosa
+2025-09-10 | 16.833 | 🌖 | Lua minguante gibosa
+2025-09-11 | 17.922 | 🌖 | Lua minguante gibosa
+2025-09-12 | 19.011 | 🌖 | Lua minguante gibosa
+2025-09-13 | 20.022 | 🌖 | Lua minguante gibosa
+2025-09-14 | 21.033 | 🌗 | Quarto minguante
+2025-09-15 | 22.045 | 🌘 | Lua minguante

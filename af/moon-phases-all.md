@@ -2,36 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-05-13 | 11.233 | 🌔 | Groeiende bolmaan
-2022-05-14 | 12.245 | 🌔 | Groeiende bolmaan
-2022-05-15 | 13.256 | 🌔 | Groeiende bolmaan
-2022-05-16 | 14.345 | 🌕 | Volmaan
-2022-05-17 | 15.433 | 🌖 | Afnemende bolmaan
-2022-05-18 | 16.522 | 🌖 | Afnemende bolmaan
-2022-05-19 | 17.533 | 🌖 | Afnemende bolmaan
-2022-05-20 | 18.622 | 🌖 | Afnemende bolmaan
-2022-05-21 | 19.711 | 🌖 | Afnemende bolmaan
-2022-05-22 | 20.722 | 🌖 | Afnemende bolmaan
-2022-05-23 | 21.733 | 🌗 | Laaste kwartier
-2022-05-24 | 22.667 | 🌘 | Afnemende sekelmaan
-2022-05-25 | 23.600 | 🌘 | Afnemende sekelmaan
-2022-05-26 | 24.533 | 🌘 | Afnemende sekelmaan
-2022-05-27 | 25.467 | 🌘 | Afnemende sekelmaan
-2022-05-28 | 26.322 | 🌘 | Afnemende sekelmaan
-2022-05-29 | 27.256 | 🌘 | Afnemende sekelmaan
-2022-05-30 |  0.111 | 🌑 | Donkermaan
-2022-05-31 |  0.967 | 🌒 | Groeiende sekelmaan
-2022-06-01 |  1.822 | 🌒 | Groeiende sekelmaan
-2022-06-02 |  2.678 | 🌒 | Groeiende sekelmaan
-2022-06-03 |  3.456 | 🌒 | Groeiende sekelmaan
-2022-06-04 |  4.311 | 🌒 | Groeiende sekelmaan
-2022-06-05 |  5.167 | 🌒 | Groeiende sekelmaan
-2022-06-06 |  6.022 | 🌒 | Groeiende sekelmaan
-2022-06-07 |  6.878 | 🌒 | Groeiende sekelmaan
-2022-06-08 |  7.811 | 🌓 | Eerste kwartier
-2022-06-09 |  8.745 | 🌔 | Groeiende bolmaan
-2022-06-10 |  9.756 | 🌔 | Groeiende bolmaan
-2022-06-11 | 10.767 | 🌔 | Groeiende bolmaan
 2022-06-12 | 11.778 | 🌔 | Groeiende bolmaan
 2022-06-13 | 12.867 | 🌔 | Groeiende bolmaan
 2022-06-14 | 13.956 | 🌔 | Groeiende bolmaan
@@ -1194,3 +1164,33 @@ Dag        | Fase   | Simbool | Naam
 2025-08-14 | 19.245 | 🌖 | Afnemende bolmaan
 2025-08-15 | 20.256 | 🌖 | Afnemende bolmaan
 2025-08-16 | 21.267 | 🌗 | Laaste kwartier
+2025-08-17 | 22.278 | 🌘 | Afnemende sekelmaan
+2025-08-18 | 23.289 | 🌘 | Afnemende sekelmaan
+2025-08-19 | 24.300 | 🌘 | Afnemende sekelmaan
+2025-08-20 | 25.311 | 🌘 | Afnemende sekelmaan
+2025-08-21 | 26.322 | 🌘 | Afnemende sekelmaan
+2025-08-22 | 27.256 | 🌘 | Afnemende sekelmaan
+2025-08-23 |  0.267 | 🌑 | Donkermaan
+2025-08-24 |  1.200 | 🌒 | Groeiende sekelmaan
+2025-08-25 |  2.133 | 🌒 | Groeiende sekelmaan
+2025-08-26 |  2.989 | 🌒 | Groeiende sekelmaan
+2025-08-27 |  3.922 | 🌒 | Groeiende sekelmaan
+2025-08-28 |  4.778 | 🌒 | Groeiende sekelmaan
+2025-08-29 |  5.556 | 🌒 | Groeiende sekelmaan
+2025-08-30 |  6.411 | 🌒 | Groeiende sekelmaan
+2025-08-31 |  7.267 | 🌓 | Eerste kwartier
+2025-09-01 |  8.122 | 🌔 | Groeiende bolmaan
+2025-09-02 |  8.978 | 🌔 | Groeiende bolmaan
+2025-09-03 |  9.833 | 🌔 | Groeiende bolmaan
+2025-09-04 | 10.767 | 🌔 | Groeiende bolmaan
+2025-09-05 | 11.700 | 🌔 | Groeiende bolmaan
+2025-09-06 | 12.711 | 🌔 | Groeiende bolmaan
+2025-09-07 | 13.722 | 🌔 | Groeiende bolmaan
+2025-09-08 | 14.733 | 🌕 | Volmaan
+2025-09-09 | 15.822 | 🌖 | Afnemende bolmaan
+2025-09-10 | 16.833 | 🌖 | Afnemende bolmaan
+2025-09-11 | 17.922 | 🌖 | Afnemende bolmaan
+2025-09-12 | 19.011 | 🌖 | Afnemende bolmaan
+2025-09-13 | 20.022 | 🌖 | Afnemende bolmaan
+2025-09-14 | 21.033 | 🌗 | Laaste kwartier
+2025-09-15 | 22.045 | 🌘 | Afnemende sekelmaan

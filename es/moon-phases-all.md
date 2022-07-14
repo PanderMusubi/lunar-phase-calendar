@@ -2,36 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2022-05-13 | 11.233 | 🌔 | Luna creciente gibosa
-2022-05-14 | 12.245 | 🌔 | Luna creciente gibosa
-2022-05-15 | 13.256 | 🌔 | Luna creciente gibosa
-2022-05-16 | 14.345 | 🌕 | Luna llena
-2022-05-17 | 15.433 | 🌖 | Luna menguante gibosa
-2022-05-18 | 16.522 | 🌖 | Luna menguante gibosa
-2022-05-19 | 17.533 | 🌖 | Luna menguante gibosa
-2022-05-20 | 18.622 | 🌖 | Luna menguante gibosa
-2022-05-21 | 19.711 | 🌖 | Luna menguante gibosa
-2022-05-22 | 20.722 | 🌖 | Luna menguante gibosa
-2022-05-23 | 21.733 | 🌗 | Cuarto menguante
-2022-05-24 | 22.667 | 🌘 | Luna menguante
-2022-05-25 | 23.600 | 🌘 | Luna menguante
-2022-05-26 | 24.533 | 🌘 | Luna menguante
-2022-05-27 | 25.467 | 🌘 | Luna menguante
-2022-05-28 | 26.322 | 🌘 | Luna menguante
-2022-05-29 | 27.256 | 🌘 | Luna menguante
-2022-05-30 |  0.111 | 🌑 | Luna nueva
-2022-05-31 |  0.967 | 🌒 | Luna creciente
-2022-06-01 |  1.822 | 🌒 | Luna creciente
-2022-06-02 |  2.678 | 🌒 | Luna creciente
-2022-06-03 |  3.456 | 🌒 | Luna creciente
-2022-06-04 |  4.311 | 🌒 | Luna creciente
-2022-06-05 |  5.167 | 🌒 | Luna creciente
-2022-06-06 |  6.022 | 🌒 | Luna creciente
-2022-06-07 |  6.878 | 🌒 | Luna creciente
-2022-06-08 |  7.811 | 🌓 | Cuarto creciente
-2022-06-09 |  8.745 | 🌔 | Luna creciente gibosa
-2022-06-10 |  9.756 | 🌔 | Luna creciente gibosa
-2022-06-11 | 10.767 | 🌔 | Luna creciente gibosa
 2022-06-12 | 11.778 | 🌔 | Luna creciente gibosa
 2022-06-13 | 12.867 | 🌔 | Luna creciente gibosa
 2022-06-14 | 13.956 | 🌔 | Luna creciente gibosa
@@ -1194,3 +1164,33 @@ Día        | Fase   | Símbolo | Nombre
 2025-08-14 | 19.245 | 🌖 | Luna menguante gibosa
 2025-08-15 | 20.256 | 🌖 | Luna menguante gibosa
 2025-08-16 | 21.267 | 🌗 | Cuarto menguante
+2025-08-17 | 22.278 | 🌘 | Luna menguante
+2025-08-18 | 23.289 | 🌘 | Luna menguante
+2025-08-19 | 24.300 | 🌘 | Luna menguante
+2025-08-20 | 25.311 | 🌘 | Luna menguante
+2025-08-21 | 26.322 | 🌘 | Luna menguante
+2025-08-22 | 27.256 | 🌘 | Luna menguante
+2025-08-23 |  0.267 | 🌑 | Luna nueva
+2025-08-24 |  1.200 | 🌒 | Luna creciente
+2025-08-25 |  2.133 | 🌒 | Luna creciente
+2025-08-26 |  2.989 | 🌒 | Luna creciente
+2025-08-27 |  3.922 | 🌒 | Luna creciente
+2025-08-28 |  4.778 | 🌒 | Luna creciente
+2025-08-29 |  5.556 | 🌒 | Luna creciente
+2025-08-30 |  6.411 | 🌒 | Luna creciente
+2025-08-31 |  7.267 | 🌓 | Cuarto creciente
+2025-09-01 |  8.122 | 🌔 | Luna creciente gibosa
+2025-09-02 |  8.978 | 🌔 | Luna creciente gibosa
+2025-09-03 |  9.833 | 🌔 | Luna creciente gibosa
+2025-09-04 | 10.767 | 🌔 | Luna creciente gibosa
+2025-09-05 | 11.700 | 🌔 | Luna creciente gibosa
+2025-09-06 | 12.711 | 🌔 | Luna creciente gibosa
+2025-09-07 | 13.722 | 🌔 | Luna creciente gibosa
+2025-09-08 | 14.733 | 🌕 | Luna llena
+2025-09-09 | 15.822 | 🌖 | Luna menguante gibosa
+2025-09-10 | 16.833 | 🌖 | Luna menguante gibosa
+2025-09-11 | 17.922 | 🌖 | Luna menguante gibosa
+2025-09-12 | 19.011 | 🌖 | Luna menguante gibosa
+2025-09-13 | 20.022 | 🌖 | Luna menguante gibosa
+2025-09-14 | 21.033 | 🌗 | Cuarto menguante
+2025-09-15 | 22.045 | 🌘 | Luna menguante
