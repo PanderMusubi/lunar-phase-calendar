@@ -2,9 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2022-06-21 | 21.345 | 🌗 | Dernier quartier
-2022-06-29 |  0.422 | 🌑 | Nouvelle lune
-2022-07-07 |  7.422 | 🌓 | Premier quartier
 2022-07-14 | 14.733 | 🌕 | Pleine lune
 2022-07-21 | 21.889 | 🌗 | Dernier quartier
 2022-07-29 |  0.733 | 🌑 | Nouvelle lune
@@ -161,3 +158,7 @@ Jour       | Phase  | Symbole | Nom
 2025-08-31 |  7.267 | 🌓 | Premier quartier
 2025-09-08 | 14.733 | 🌕 | Pleine lune
 2025-09-14 | 21.033 | 🌗 | Dernier quartier
+2025-09-22 |  0.656 | 🌑 | Nouvelle lune
+2025-09-30 |  7.500 | 🌓 | Premier quartier
+2025-10-07 | 14.345 | 🌕 | Pleine lune
+2025-10-14 | 21.733 | 🌗 | Dernier quartier

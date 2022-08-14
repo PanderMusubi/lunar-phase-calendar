@@ -2,9 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2022-06-21 | 21.345 | 🌗 | Laatste kwartier
-2022-06-29 |  0.422 | 🌑 | Nieuwe maan
-2022-07-07 |  7.422 | 🌓 | Eerste kwartier
 2022-07-14 | 14.733 | 🌕 | Volle maan
 2022-07-21 | 21.889 | 🌗 | Laatste kwartier
 2022-07-29 |  0.733 | 🌑 | Nieuwe maan
@@ -161,3 +158,7 @@ Dag        | Fase   | Symbool | Naam
 2025-08-31 |  7.267 | 🌓 | Eerste kwartier
 2025-09-08 | 14.733 | 🌕 | Volle maan
 2025-09-14 | 21.033 | 🌗 | Laatste kwartier
+2025-09-22 |  0.656 | 🌑 | Nieuwe maan
+2025-09-30 |  7.500 | 🌓 | Eerste kwartier
+2025-10-07 | 14.345 | 🌕 | Volle maan
+2025-10-14 | 21.733 | 🌗 | Laatste kwartier
