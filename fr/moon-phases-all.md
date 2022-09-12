@@ -2,35 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2022-07-13 | 13.645 | 🌔 | Lune gibbeuse croissante
-2022-07-14 | 14.733 | 🌕 | Pleine lune
-2022-07-15 | 15.822 | 🌖 | Lune gibbeuse décroissante
-2022-07-16 | 16.911 | 🌖 | Lune gibbeuse décroissante
-2022-07-17 | 18.000 | 🌖 | Lune gibbeuse décroissante
-2022-07-18 | 19.011 | 🌖 | Lune gibbeuse décroissante
-2022-07-19 | 20.022 | 🌖 | Lune gibbeuse décroissante
-2022-07-20 | 20.956 | 🌖 | Lune gibbeuse décroissante
-2022-07-21 | 21.889 | 🌗 | Dernier quartier
-2022-07-22 | 22.745 | 🌘 | Dernier croissant
-2022-07-23 | 23.678 | 🌘 | Dernier croissant
-2022-07-24 | 24.533 | 🌘 | Dernier croissant
-2022-07-25 | 25.311 | 🌘 | Dernier croissant
-2022-07-26 | 26.167 | 🌘 | Dernier croissant
-2022-07-27 | 27.022 | 🌘 | Dernier croissant
-2022-07-28 | 27.878 | 🌘 | Dernier croissant
-2022-07-29 |  0.733 | 🌑 | Nouvelle lune
-2022-07-30 |  1.589 | 🌒 | Premier croissant
-2022-07-31 |  2.445 | 🌒 | Premier croissant
-2022-08-01 |  3.378 | 🌒 | Premier croissant
-2022-08-02 |  4.233 | 🌒 | Premier croissant
-2022-08-03 |  5.167 | 🌒 | Premier croissant
-2022-08-04 |  6.100 | 🌒 | Premier croissant
-2022-08-05 |  7.033 | 🌓 | Premier quartier
-2022-08-06 |  8.045 | 🌔 | Lune gibbeuse croissante
-2022-08-07 |  9.056 | 🌔 | Lune gibbeuse croissante
-2022-08-08 | 10.145 | 🌔 | Lune gibbeuse croissante
-2022-08-09 | 11.156 | 🌔 | Lune gibbeuse croissante
-2022-08-10 | 12.245 | 🌔 | Lune gibbeuse croissante
 2022-08-11 | 13.333 | 🌔 | Lune gibbeuse croissante
 2022-08-12 | 14.422 | 🌕 | Pleine lune
 2022-08-13 | 15.511 | 🌖 | Lune gibbeuse décroissante
@@ -1194,3 +1165,32 @@ Jour       | Phase  | Symbole | Nom
 2025-10-14 | 21.733 | 🌗 | Dernier quartier
 2025-10-15 | 22.667 | 🌘 | Dernier croissant
 2025-10-16 | 23.600 | 🌘 | Dernier croissant
+2025-10-17 | 24.533 | 🌘 | Dernier croissant
+2025-10-18 | 25.467 | 🌘 | Dernier croissant
+2025-10-19 | 26.322 | 🌘 | Dernier croissant
+2025-10-20 | 27.256 | 🌘 | Dernier croissant
+2025-10-21 |  0.111 | 🌑 | Nouvelle lune
+2025-10-22 |  0.967 | 🌒 | Premier croissant
+2025-10-23 |  1.745 | 🌒 | Premier croissant
+2025-10-24 |  2.600 | 🌒 | Premier croissant
+2025-10-25 |  3.456 | 🌒 | Premier croissant
+2025-10-26 |  4.311 | 🌒 | Premier croissant
+2025-10-27 |  5.167 | 🌒 | Premier croissant
+2025-10-28 |  6.022 | 🌒 | Premier croissant
+2025-10-29 |  6.878 | 🌒 | Premier croissant
+2025-10-30 |  7.811 | 🌓 | Premier quartier
+2025-10-31 |  8.745 | 🌔 | Lune gibbeuse croissante
+2025-11-01 |  9.678 | 🌔 | Lune gibbeuse croissante
+2025-11-02 | 10.689 | 🌔 | Lune gibbeuse croissante
+2025-11-03 | 11.700 | 🌔 | Lune gibbeuse croissante
+2025-11-04 | 12.789 | 🌔 | Lune gibbeuse croissante
+2025-11-05 | 13.878 | 🌔 | Lune gibbeuse croissante
+2025-11-06 | 14.967 | 🌕 | Pleine lune
+2025-11-07 | 16.056 | 🌖 | Lune gibbeuse décroissante
+2025-11-08 | 17.145 | 🌖 | Lune gibbeuse décroissante
+2025-11-09 | 18.233 | 🌖 | Lune gibbeuse décroissante
+2025-11-10 | 19.245 | 🌖 | Lune gibbeuse décroissante
+2025-11-11 | 20.256 | 🌖 | Lune gibbeuse décroissante
+2025-11-12 | 21.267 | 🌗 | Dernier quartier
+2025-11-13 | 22.200 | 🌘 | Dernier croissant
+2025-11-14 | 23.133 | 🌘 | Dernier croissant
