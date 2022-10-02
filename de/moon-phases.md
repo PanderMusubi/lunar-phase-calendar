@@ -2,9 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-08-12 | 14.422 | 🌕 | Vollmond
-2022-08-19 | 21.345 | 🌗 | Letztes Viertel
-2022-08-27 |  0.189 | 🌑 | Neumond
 2022-09-04 |  7.811 | 🌓 | Erstes Viertel
 2022-09-10 | 14.033 | 🌕 | Vollmond
 2022-09-18 | 21.578 | 🌗 | Letztes Viertel
@@ -162,3 +159,5 @@ Tag        | Phase  | Symbole | Name
 2025-10-30 |  7.811 | 🌓 | Erstes Viertel
 2025-11-06 | 14.967 | 🌕 | Vollmond
 2025-11-12 | 21.267 | 🌗 | Letztes Viertel
+2025-11-20 |  0.267 | 🌑 | Neumond
+2025-11-28 |  7.267 | 🌓 | Erstes Viertel

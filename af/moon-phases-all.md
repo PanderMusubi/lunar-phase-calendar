@@ -2,26 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-08-11 | 13.333 | 🌔 | Groeiende bolmaan
-2022-08-12 | 14.422 | 🌕 | Volmaan
-2022-08-13 | 15.511 | 🌖 | Afnemende bolmaan
-2022-08-14 | 16.522 | 🌖 | Afnemende bolmaan
-2022-08-15 | 17.533 | 🌖 | Afnemende bolmaan
-2022-08-16 | 18.545 | 🌖 | Afnemende bolmaan
-2022-08-17 | 19.556 | 🌖 | Afnemende bolmaan
-2022-08-18 | 20.489 | 🌖 | Afnemende bolmaan
-2022-08-19 | 21.345 | 🌗 | Laaste kwartier
-2022-08-20 | 22.200 | 🌘 | Afnemende sekelmaan
-2022-08-21 | 23.056 | 🌘 | Afnemende sekelmaan
-2022-08-22 | 23.911 | 🌘 | Afnemende sekelmaan
-2022-08-23 | 24.767 | 🌘 | Afnemende sekelmaan
-2022-08-24 | 25.622 | 🌘 | Afnemende sekelmaan
-2022-08-25 | 26.478 | 🌘 | Afnemende sekelmaan
-2022-08-26 | 27.333 | 🌘 | Afnemende sekelmaan
-2022-08-27 |  0.189 | 🌑 | Donkermaan
-2022-08-28 |  1.045 | 🌒 | Groeiende sekelmaan
-2022-08-29 |  1.978 | 🌒 | Groeiende sekelmaan
-2022-08-30 |  2.911 | 🌒 | Groeiende sekelmaan
 2022-08-31 |  3.845 | 🌒 | Groeiende sekelmaan
 2022-09-01 |  4.778 | 🌒 | Groeiende sekelmaan
 2022-09-02 |  5.789 | 🌒 | Groeiende sekelmaan
@@ -1194,3 +1174,23 @@ Dag        | Fase   | Simbool | Naam
 2025-11-12 | 21.267 | 🌗 | Laaste kwartier
 2025-11-13 | 22.200 | 🌘 | Afnemende sekelmaan
 2025-11-14 | 23.133 | 🌘 | Afnemende sekelmaan
+2025-11-15 | 23.989 | 🌘 | Afnemende sekelmaan
+2025-11-16 | 24.922 | 🌘 | Afnemende sekelmaan
+2025-11-17 | 25.778 | 🌘 | Afnemende sekelmaan
+2025-11-18 | 26.556 | 🌘 | Afnemende sekelmaan
+2025-11-19 | 27.411 | 🌘 | Afnemende sekelmaan
+2025-11-20 |  0.267 | 🌑 | Donkermaan
+2025-11-21 |  1.122 | 🌒 | Groeiende sekelmaan
+2025-11-22 |  1.978 | 🌒 | Groeiende sekelmaan
+2025-11-23 |  2.756 | 🌒 | Groeiende sekelmaan
+2025-11-24 |  3.611 | 🌒 | Groeiende sekelmaan
+2025-11-25 |  4.545 | 🌒 | Groeiende sekelmaan
+2025-11-26 |  5.400 | 🌒 | Groeiende sekelmaan
+2025-11-27 |  6.333 | 🌒 | Groeiende sekelmaan
+2025-11-28 |  7.267 | 🌓 | Eerste kwartier
+2025-11-29 |  8.200 | 🌔 | Groeiende bolmaan
+2025-11-30 |  9.211 | 🌔 | Groeiende bolmaan
+2025-12-01 | 10.222 | 🌔 | Groeiende bolmaan
+2025-12-02 | 11.233 | 🌔 | Groeiende bolmaan
+2025-12-03 | 12.322 | 🌔 | Groeiende bolmaan
+2025-12-04 | 13.411 | 🌔 | Groeiende bolmaan
