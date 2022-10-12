@@ -2,16 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-08-31 |  3.845 | 🌒 | Waxing crescent
-2022-09-01 |  4.778 | 🌒 | Waxing crescent
-2022-09-02 |  5.789 | 🌒 | Waxing crescent
-2022-09-03 |  6.800 | 🌒 | Waxing crescent
-2022-09-04 |  7.811 | 🌓 | First quarter
-2022-09-05 |  8.822 | 🌔 | Waxing gibbous
-2022-09-06 |  9.833 | 🌔 | Waxing gibbous
-2022-09-07 | 10.845 | 🌔 | Waxing gibbous
-2022-09-08 | 11.933 | 🌔 | Waxing gibbous
-2022-09-09 | 13.022 | 🌔 | Waxing gibbous
 2022-09-10 | 14.033 | 🌕 | Full moon
 2022-09-11 | 15.045 | 🌖 | Waning gibbous
 2022-09-12 | 16.056 | 🌖 | Waning gibbous
@@ -1194,3 +1184,13 @@ Day        | Phase  | Symbol | Name
 2025-12-02 | 11.233 | 🌔 | Waxing gibbous
 2025-12-03 | 12.322 | 🌔 | Waxing gibbous
 2025-12-04 | 13.411 | 🌔 | Waxing gibbous
+2025-12-05 | 14.500 | 🌕 | Full moon
+2025-12-06 | 15.589 | 🌖 | Waning gibbous
+2025-12-07 | 16.678 | 🌖 | Waning gibbous
+2025-12-08 | 17.767 | 🌖 | Waning gibbous
+2025-12-09 | 18.778 | 🌖 | Waning gibbous
+2025-12-10 | 19.789 | 🌖 | Waning gibbous
+2025-12-11 | 20.722 | 🌖 | Waning gibbous
+2025-12-12 | 21.656 | 🌗 | Last quarter
+2025-12-13 | 22.511 | 🌘 | Waning crescent
+2025-12-14 | 23.367 | 🌘 | Waning crescent

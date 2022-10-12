@@ -2,16 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-08-31 |  3.845 | 🌒 | Zunehmender Sichelmond
-2022-09-01 |  4.778 | 🌒 | Zunehmender Sichelmond
-2022-09-02 |  5.789 | 🌒 | Zunehmender Sichelmond
-2022-09-03 |  6.800 | 🌒 | Zunehmender Sichelmond
-2022-09-04 |  7.811 | 🌓 | Erstes Viertel
-2022-09-05 |  8.822 | 🌔 | Zunehmender Mond
-2022-09-06 |  9.833 | 🌔 | Zunehmender Mond
-2022-09-07 | 10.845 | 🌔 | Zunehmender Mond
-2022-09-08 | 11.933 | 🌔 | Zunehmender Mond
-2022-09-09 | 13.022 | 🌔 | Zunehmender Mond
 2022-09-10 | 14.033 | 🌕 | Vollmond
 2022-09-11 | 15.045 | 🌖 | Abnehmender Mond
 2022-09-12 | 16.056 | 🌖 | Abnehmender Mond
@@ -1194,3 +1184,13 @@ Tag        | Phase  | Symbole | Name
 2025-12-02 | 11.233 | 🌔 | Zunehmender Mond
 2025-12-03 | 12.322 | 🌔 | Zunehmender Mond
 2025-12-04 | 13.411 | 🌔 | Zunehmender Mond
+2025-12-05 | 14.500 | 🌕 | Vollmond
+2025-12-06 | 15.589 | 🌖 | Abnehmender Mond
+2025-12-07 | 16.678 | 🌖 | Abnehmender Mond
+2025-12-08 | 17.767 | 🌖 | Abnehmender Mond
+2025-12-09 | 18.778 | 🌖 | Abnehmender Mond
+2025-12-10 | 19.789 | 🌖 | Abnehmender Mond
+2025-12-11 | 20.722 | 🌖 | Abnehmender Mond
+2025-12-12 | 21.656 | 🌗 | Letztes Viertel
+2025-12-13 | 22.511 | 🌘 | Abnehmender Sichelmond
+2025-12-14 | 23.367 | 🌘 | Abnehmender Sichelmond

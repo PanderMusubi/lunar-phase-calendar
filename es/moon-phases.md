@@ -2,7 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2022-09-04 |  7.811 | 🌓 | Cuarto creciente
 2022-09-10 | 14.033 | 🌕 | Luna llena
 2022-09-18 | 21.578 | 🌗 | Cuarto menguante
 2022-09-26 |  0.578 | 🌑 | Luna nueva
@@ -161,3 +160,5 @@ Día        | Fase   | Símbolo | Nombre
 2025-11-12 | 21.267 | 🌗 | Cuarto menguante
 2025-11-20 |  0.267 | 🌑 | Luna nueva
 2025-11-28 |  7.267 | 🌓 | Cuarto creciente
+2025-12-05 | 14.500 | 🌕 | Luna llena
+2025-12-12 | 21.656 | 🌗 | Cuarto menguante
