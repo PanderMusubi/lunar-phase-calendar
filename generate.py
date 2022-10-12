@@ -6,7 +6,7 @@ from json import load
 from os.path import isdir, realpath, join, dirname
 from os import makedirs, chdir, getpid, getcwd
 from socket import getfqdn
-from astral import moon
+from astral.moon import phase
 
 __location__ = realpath(join(getcwd(), dirname(__file__)))
 moon_phase_names = load(open(join(__location__, 'moon-phase-names.json'), encoding='utf8'))  # pylint:disable=consider-using-with
@@ -53,13 +53,13 @@ def moon_phase_to_inacurate_code(phase):
 
 def day_to_moon_phase_and_accurate_code(day):
     '''Converts day to moon phase and accurate code.'''
-    phase_today = moon.phase(day)
+    phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
     if code_today % 2 != 0:
         return phase_today, code_today
 
-    phase_yesterday = moon.phase(day - timedelta(days=1))
+    phase_yesterday = phase(day - timedelta(days=1))
     code_yesterday = moon_phase_to_inacurate_code(phase_yesterday)
 
     if code_today == code_yesterday:
