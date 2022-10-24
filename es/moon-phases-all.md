@@ -2,18 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2022-09-10 | 14.033 | 🌕 | Luna llena
-2022-09-11 | 15.045 | 🌖 | Luna menguante gibosa
-2022-09-12 | 16.056 | 🌖 | Luna menguante gibosa
-2022-09-13 | 17.067 | 🌖 | Luna menguante gibosa
-2022-09-14 | 18.078 | 🌖 | Luna menguante gibosa
-2022-09-15 | 19.011 | 🌖 | Luna menguante gibosa
-2022-09-16 | 19.867 | 🌖 | Luna menguante gibosa
-2022-09-17 | 20.722 | 🌖 | Luna menguante gibosa
-2022-09-18 | 21.578 | 🌗 | Cuarto menguante
-2022-09-19 | 22.433 | 🌘 | Luna menguante
-2022-09-20 | 23.289 | 🌘 | Luna menguante
-2022-09-21 | 24.145 | 🌘 | Luna menguante
 2022-09-22 | 25.000 | 🌘 | Luna menguante
 2022-09-23 | 25.856 | 🌘 | Luna menguante
 2022-09-24 | 26.711 | 🌘 | Luna menguante
@@ -1194,3 +1182,15 @@ Día        | Fase   | Símbolo | Nombre
 2025-12-12 | 21.656 | 🌗 | Cuarto menguante
 2025-12-13 | 22.511 | 🌘 | Luna menguante
 2025-12-14 | 23.367 | 🌘 | Luna menguante
+2025-12-15 | 24.222 | 🌘 | Luna menguante
+2025-12-16 | 25.078 | 🌘 | Luna menguante
+2025-12-17 | 25.933 | 🌘 | Luna menguante
+2025-12-18 | 26.711 | 🌘 | Luna menguante
+2025-12-19 | 27.567 | 🌘 | Luna menguante
+2025-12-20 |  0.422 | 🌑 | Luna nueva
+2025-12-21 |  1.278 | 🌒 | Luna creciente
+2025-12-22 |  2.133 | 🌒 | Luna creciente
+2025-12-23 |  3.067 | 🌒 | Luna creciente
+2025-12-24 |  3.922 | 🌒 | Luna creciente
+2025-12-25 |  4.856 | 🌒 | Luna creciente
+2025-12-26 |  5.789 | 🌒 | Luna creciente
