@@ -2,16 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2022-09-22 | 25.000 | 🌘 | Dernier croissant
-2022-09-23 | 25.856 | 🌘 | Dernier croissant
-2022-09-24 | 26.711 | 🌘 | Dernier croissant
-2022-09-25 | 27.645 | 🌘 | Dernier croissant
-2022-09-26 |  0.578 | 🌑 | Nouvelle lune
-2022-09-27 |  1.511 | 🌒 | Premier croissant
-2022-09-28 |  2.522 | 🌒 | Premier croissant
-2022-09-29 |  3.456 | 🌒 | Premier croissant
-2022-09-30 |  4.467 | 🌒 | Premier croissant
-2022-10-01 |  5.478 | 🌒 | Premier croissant
 2022-10-02 |  6.489 | 🌒 | Premier croissant
 2022-10-03 |  7.500 | 🌓 | Premier quartier
 2022-10-04 |  8.511 | 🌔 | Lune gibbeuse croissante
@@ -1194,3 +1184,13 @@ Jour       | Phase  | Symbole | Nom
 2025-12-24 |  3.922 | 🌒 | Premier croissant
 2025-12-25 |  4.856 | 🌒 | Premier croissant
 2025-12-26 |  5.789 | 🌒 | Premier croissant
+2025-12-27 |  6.722 | 🌒 | Premier croissant
+2025-12-28 |  7.733 | 🌓 | Premier quartier
+2025-12-29 |  8.745 | 🌔 | Lune gibbeuse croissante
+2025-12-30 |  9.756 | 🌔 | Lune gibbeuse croissante
+2025-12-31 | 10.845 | 🌔 | Lune gibbeuse croissante
+2026-01-01 | 11.856 | 🌔 | Lune gibbeuse croissante
+2026-01-02 | 12.945 | 🌔 | Lune gibbeuse croissante
+2026-01-03 | 14.033 | 🌕 | Pleine lune
+2026-01-04 | 15.122 | 🌖 | Lune gibbeuse décroissante
+2026-01-05 | 16.133 | 🌖 | Lune gibbeuse décroissante

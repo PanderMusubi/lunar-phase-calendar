@@ -2,16 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2022-09-22 | 25.000 | 🌘 | Luna menguante
-2022-09-23 | 25.856 | 🌘 | Luna menguante
-2022-09-24 | 26.711 | 🌘 | Luna menguante
-2022-09-25 | 27.645 | 🌘 | Luna menguante
-2022-09-26 |  0.578 | 🌑 | Luna nueva
-2022-09-27 |  1.511 | 🌒 | Luna creciente
-2022-09-28 |  2.522 | 🌒 | Luna creciente
-2022-09-29 |  3.456 | 🌒 | Luna creciente
-2022-09-30 |  4.467 | 🌒 | Luna creciente
-2022-10-01 |  5.478 | 🌒 | Luna creciente
 2022-10-02 |  6.489 | 🌒 | Luna creciente
 2022-10-03 |  7.500 | 🌓 | Cuarto creciente
 2022-10-04 |  8.511 | 🌔 | Luna creciente gibosa
@@ -1194,3 +1184,13 @@ Día        | Fase   | Símbolo | Nombre
 2025-12-24 |  3.922 | 🌒 | Luna creciente
 2025-12-25 |  4.856 | 🌒 | Luna creciente
 2025-12-26 |  5.789 | 🌒 | Luna creciente
+2025-12-27 |  6.722 | 🌒 | Luna creciente
+2025-12-28 |  7.733 | 🌓 | Cuarto creciente
+2025-12-29 |  8.745 | 🌔 | Luna creciente gibosa
+2025-12-30 |  9.756 | 🌔 | Luna creciente gibosa
+2025-12-31 | 10.845 | 🌔 | Luna creciente gibosa
+2026-01-01 | 11.856 | 🌔 | Luna creciente gibosa
+2026-01-02 | 12.945 | 🌔 | Luna creciente gibosa
+2026-01-03 | 14.033 | 🌕 | Luna llena
+2026-01-04 | 15.122 | 🌖 | Luna menguante gibosa
+2026-01-05 | 16.133 | 🌖 | Luna menguante gibosa
