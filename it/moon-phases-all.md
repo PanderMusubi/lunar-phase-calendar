@@ -2,18 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2022-10-02 |  6.489 | 🌒 | Luna crescente
-2022-10-03 |  7.500 | 🌓 | Primo quarto
-2022-10-04 |  8.511 | 🌔 | Gibbosa crescente
-2022-10-05 |  9.522 | 🌔 | Gibbosa crescente
-2022-10-06 | 10.611 | 🌔 | Gibbosa crescente
-2022-10-07 | 11.622 | 🌔 | Gibbosa crescente
-2022-10-08 | 12.633 | 🌔 | Gibbosa crescente
-2022-10-09 | 13.645 | 🌔 | Gibbosa crescente
-2022-10-10 | 14.578 | 🌕 | Luna piena
-2022-10-11 | 15.589 | 🌖 | Gibbosa calante
-2022-10-12 | 16.522 | 🌖 | Gibbosa calante
-2022-10-13 | 17.456 | 🌖 | Gibbosa calante
 2022-10-14 | 18.311 | 🌖 | Gibbosa calante
 2022-10-15 | 19.245 | 🌖 | Gibbosa calante
 2022-10-16 | 20.100 | 🌖 | Gibbosa calante
@@ -1194,3 +1182,15 @@ Giorno     | Fase   | Simbolo | Nome
 2026-01-03 | 14.033 | 🌕 | Luna piena
 2026-01-04 | 15.122 | 🌖 | Gibbosa calante
 2026-01-05 | 16.133 | 🌖 | Gibbosa calante
+2026-01-06 | 17.145 | 🌖 | Gibbosa calante
+2026-01-07 | 18.156 | 🌖 | Gibbosa calante
+2026-01-08 | 19.167 | 🌖 | Gibbosa calante
+2026-01-09 | 20.022 | 🌖 | Gibbosa calante
+2026-01-10 | 20.956 | 🌖 | Gibbosa calante
+2026-01-11 | 21.811 | 🌗 | Ultimo quarto
+2026-01-12 | 22.667 | 🌘 | Luna calante
+2026-01-13 | 23.522 | 🌘 | Luna calante
+2026-01-14 | 24.300 | 🌘 | Luna calante
+2026-01-15 | 25.156 | 🌘 | Luna calante
+2026-01-16 | 26.011 | 🌘 | Luna calante
+2026-01-17 | 26.867 | 🌘 | Luna calante

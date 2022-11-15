@@ -2,18 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-10-02 |  6.489 | 🌒 | Lua crescente
-2022-10-03 |  7.500 | 🌓 | Quarto crescente
-2022-10-04 |  8.511 | 🌔 | Lua crescente gibosa
-2022-10-05 |  9.522 | 🌔 | Lua crescente gibosa
-2022-10-06 | 10.611 | 🌔 | Lua crescente gibosa
-2022-10-07 | 11.622 | 🌔 | Lua crescente gibosa
-2022-10-08 | 12.633 | 🌔 | Lua crescente gibosa
-2022-10-09 | 13.645 | 🌔 | Lua crescente gibosa
-2022-10-10 | 14.578 | 🌕 | Lua cheia
-2022-10-11 | 15.589 | 🌖 | Lua minguante gibosa
-2022-10-12 | 16.522 | 🌖 | Lua minguante gibosa
-2022-10-13 | 17.456 | 🌖 | Lua minguante gibosa
 2022-10-14 | 18.311 | 🌖 | Lua minguante gibosa
 2022-10-15 | 19.245 | 🌖 | Lua minguante gibosa
 2022-10-16 | 20.100 | 🌖 | Lua minguante gibosa
@@ -1194,3 +1182,15 @@ Dia        | Fase   | Símbolo | Nome
 2026-01-03 | 14.033 | 🌕 | Lua cheia
 2026-01-04 | 15.122 | 🌖 | Lua minguante gibosa
 2026-01-05 | 16.133 | 🌖 | Lua minguante gibosa
+2026-01-06 | 17.145 | 🌖 | Lua minguante gibosa
+2026-01-07 | 18.156 | 🌖 | Lua minguante gibosa
+2026-01-08 | 19.167 | 🌖 | Lua minguante gibosa
+2026-01-09 | 20.022 | 🌖 | Lua minguante gibosa
+2026-01-10 | 20.956 | 🌖 | Lua minguante gibosa
+2026-01-11 | 21.811 | 🌗 | Quarto minguante
+2026-01-12 | 22.667 | 🌘 | Lua minguante
+2026-01-13 | 23.522 | 🌘 | Lua minguante
+2026-01-14 | 24.300 | 🌘 | Lua minguante
+2026-01-15 | 25.156 | 🌘 | Lua minguante
+2026-01-16 | 26.011 | 🌘 | Lua minguante
+2026-01-17 | 26.867 | 🌘 | Lua minguante
