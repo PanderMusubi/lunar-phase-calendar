@@ -2,19 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-10-14 | 18.311 | 🌖 | Afnemende bolmaan
-2022-10-15 | 19.245 | 🌖 | Afnemende bolmaan
-2022-10-16 | 20.100 | 🌖 | Afnemende bolmaan
-2022-10-17 | 20.878 | 🌖 | Afnemende bolmaan
-2022-10-18 | 21.733 | 🌗 | Laaste kwartier
-2022-10-19 | 22.589 | 🌘 | Afnemende sekelmaan
-2022-10-20 | 23.445 | 🌘 | Afnemende sekelmaan
-2022-10-21 | 24.300 | 🌘 | Afnemende sekelmaan
-2022-10-22 | 25.156 | 🌘 | Afnemende sekelmaan
-2022-10-23 | 26.089 | 🌘 | Afnemende sekelmaan
-2022-10-24 | 27.100 | 🌘 | Afnemende sekelmaan
-2022-10-25 |  0.033 | 🌑 | Donkermaan
-2022-10-26 |  1.045 | 🌒 | Groeiende sekelmaan
 2022-10-27 |  2.056 | 🌒 | Groeiende sekelmaan
 2022-10-28 |  3.067 | 🌒 | Groeiende sekelmaan
 2022-10-29 |  4.156 | 🌒 | Groeiende sekelmaan
@@ -1194,3 +1181,16 @@ Dag        | Fase   | Simbool | Naam
 2026-01-15 | 25.156 | 🌘 | Afnemende sekelmaan
 2026-01-16 | 26.011 | 🌘 | Afnemende sekelmaan
 2026-01-17 | 26.867 | 🌘 | Afnemende sekelmaan
+2026-01-18 | 27.722 | 🌘 | Afnemende sekelmaan
+2026-01-19 |  0.656 | 🌑 | Donkermaan
+2026-01-20 |  1.511 | 🌒 | Groeiende sekelmaan
+2026-01-21 |  2.445 | 🌒 | Groeiende sekelmaan
+2026-01-22 |  3.378 | 🌒 | Groeiende sekelmaan
+2026-01-23 |  4.389 | 🌒 | Groeiende sekelmaan
+2026-01-24 |  5.322 | 🌒 | Groeiende sekelmaan
+2026-01-25 |  6.333 | 🌒 | Groeiende sekelmaan
+2026-01-26 |  7.345 | 🌓 | Eerste kwartier
+2026-01-27 |  8.356 | 🌔 | Groeiende bolmaan
+2026-01-28 |  9.367 | 🌔 | Groeiende bolmaan
+2026-01-29 | 10.378 | 🌔 | Groeiende bolmaan
+2026-01-30 | 11.467 | 🌔 | Groeiende bolmaan

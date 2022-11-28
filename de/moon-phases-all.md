@@ -2,19 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-10-14 | 18.311 | 🌖 | Abnehmender Mond
-2022-10-15 | 19.245 | 🌖 | Abnehmender Mond
-2022-10-16 | 20.100 | 🌖 | Abnehmender Mond
-2022-10-17 | 20.878 | 🌖 | Abnehmender Mond
-2022-10-18 | 21.733 | 🌗 | Letztes Viertel
-2022-10-19 | 22.589 | 🌘 | Abnehmender Sichelmond
-2022-10-20 | 23.445 | 🌘 | Abnehmender Sichelmond
-2022-10-21 | 24.300 | 🌘 | Abnehmender Sichelmond
-2022-10-22 | 25.156 | 🌘 | Abnehmender Sichelmond
-2022-10-23 | 26.089 | 🌘 | Abnehmender Sichelmond
-2022-10-24 | 27.100 | 🌘 | Abnehmender Sichelmond
-2022-10-25 |  0.033 | 🌑 | Neumond
-2022-10-26 |  1.045 | 🌒 | Zunehmender Sichelmond
 2022-10-27 |  2.056 | 🌒 | Zunehmender Sichelmond
 2022-10-28 |  3.067 | 🌒 | Zunehmender Sichelmond
 2022-10-29 |  4.156 | 🌒 | Zunehmender Sichelmond
@@ -1194,3 +1181,16 @@ Tag        | Phase  | Symbole | Name
 2026-01-15 | 25.156 | 🌘 | Abnehmender Sichelmond
 2026-01-16 | 26.011 | 🌘 | Abnehmender Sichelmond
 2026-01-17 | 26.867 | 🌘 | Abnehmender Sichelmond
+2026-01-18 | 27.722 | 🌘 | Abnehmender Sichelmond
+2026-01-19 |  0.656 | 🌑 | Neumond
+2026-01-20 |  1.511 | 🌒 | Zunehmender Sichelmond
+2026-01-21 |  2.445 | 🌒 | Zunehmender Sichelmond
+2026-01-22 |  3.378 | 🌒 | Zunehmender Sichelmond
+2026-01-23 |  4.389 | 🌒 | Zunehmender Sichelmond
+2026-01-24 |  5.322 | 🌒 | Zunehmender Sichelmond
+2026-01-25 |  6.333 | 🌒 | Zunehmender Sichelmond
+2026-01-26 |  7.345 | 🌓 | Erstes Viertel
+2026-01-27 |  8.356 | 🌔 | Zunehmender Mond
+2026-01-28 |  9.367 | 🌔 | Zunehmender Mond
+2026-01-29 | 10.378 | 🌔 | Zunehmender Mond
+2026-01-30 | 11.467 | 🌔 | Zunehmender Mond
