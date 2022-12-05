@@ -2,13 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2022-10-27 |  2.056 | 🌒 | Premier croissant
-2022-10-28 |  3.067 | 🌒 | Premier croissant
-2022-10-29 |  4.156 | 🌒 | Premier croissant
-2022-10-30 |  5.167 | 🌒 | Premier croissant
-2022-10-31 |  6.178 | 🌒 | Premier croissant
-2022-11-01 |  7.189 | 🌓 | Premier quartier
-2022-11-02 |  8.200 | 🌔 | Lune gibbeuse croissante
 2022-11-03 |  9.211 | 🌔 | Lune gibbeuse croissante
 2022-11-04 | 10.222 | 🌔 | Lune gibbeuse croissante
 2022-11-05 | 11.233 | 🌔 | Lune gibbeuse croissante
@@ -1194,3 +1187,10 @@ Jour       | Phase  | Symbole | Nom
 2026-01-28 |  9.367 | 🌔 | Lune gibbeuse croissante
 2026-01-29 | 10.378 | 🌔 | Lune gibbeuse croissante
 2026-01-30 | 11.467 | 🌔 | Lune gibbeuse croissante
+2026-01-31 | 12.478 | 🌔 | Lune gibbeuse croissante
+2026-02-01 | 13.567 | 🌔 | Lune gibbeuse croissante
+2026-02-02 | 14.578 | 🌕 | Pleine lune
+2026-02-03 | 15.589 | 🌖 | Lune gibbeuse décroissante
+2026-02-04 | 16.600 | 🌖 | Lune gibbeuse décroissante
+2026-02-05 | 17.533 | 🌖 | Lune gibbeuse décroissante
+2026-02-06 | 18.467 | 🌖 | Lune gibbeuse décroissante

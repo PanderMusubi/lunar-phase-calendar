@@ -2,13 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-10-27 |  2.056 | 🌒 | Lua crescente
-2022-10-28 |  3.067 | 🌒 | Lua crescente
-2022-10-29 |  4.156 | 🌒 | Lua crescente
-2022-10-30 |  5.167 | 🌒 | Lua crescente
-2022-10-31 |  6.178 | 🌒 | Lua crescente
-2022-11-01 |  7.189 | 🌓 | Quarto crescente
-2022-11-02 |  8.200 | 🌔 | Lua crescente gibosa
 2022-11-03 |  9.211 | 🌔 | Lua crescente gibosa
 2022-11-04 | 10.222 | 🌔 | Lua crescente gibosa
 2022-11-05 | 11.233 | 🌔 | Lua crescente gibosa
@@ -1194,3 +1187,10 @@ Dia        | Fase   | Símbolo | Nome
 2026-01-28 |  9.367 | 🌔 | Lua crescente gibosa
 2026-01-29 | 10.378 | 🌔 | Lua crescente gibosa
 2026-01-30 | 11.467 | 🌔 | Lua crescente gibosa
+2026-01-31 | 12.478 | 🌔 | Lua crescente gibosa
+2026-02-01 | 13.567 | 🌔 | Lua crescente gibosa
+2026-02-02 | 14.578 | 🌕 | Lua cheia
+2026-02-03 | 15.589 | 🌖 | Lua minguante gibosa
+2026-02-04 | 16.600 | 🌖 | Lua minguante gibosa
+2026-02-05 | 17.533 | 🌖 | Lua minguante gibosa
+2026-02-06 | 18.467 | 🌖 | Lua minguante gibosa

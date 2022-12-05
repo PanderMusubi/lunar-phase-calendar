@@ -2,13 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-10-27 |  2.056 | 🌒 | Waxing crescent
-2022-10-28 |  3.067 | 🌒 | Waxing crescent
-2022-10-29 |  4.156 | 🌒 | Waxing crescent
-2022-10-30 |  5.167 | 🌒 | Waxing crescent
-2022-10-31 |  6.178 | 🌒 | Waxing crescent
-2022-11-01 |  7.189 | 🌓 | First quarter
-2022-11-02 |  8.200 | 🌔 | Waxing gibbous
 2022-11-03 |  9.211 | 🌔 | Waxing gibbous
 2022-11-04 | 10.222 | 🌔 | Waxing gibbous
 2022-11-05 | 11.233 | 🌔 | Waxing gibbous
@@ -1194,3 +1187,10 @@ Day        | Phase  | Symbol | Name
 2026-01-28 |  9.367 | 🌔 | Waxing gibbous
 2026-01-29 | 10.378 | 🌔 | Waxing gibbous
 2026-01-30 | 11.467 | 🌔 | Waxing gibbous
+2026-01-31 | 12.478 | 🌔 | Waxing gibbous
+2026-02-01 | 13.567 | 🌔 | Waxing gibbous
+2026-02-02 | 14.578 | 🌕 | Full moon
+2026-02-03 | 15.589 | 🌖 | Waning gibbous
+2026-02-04 | 16.600 | 🌖 | Waning gibbous
+2026-02-05 | 17.533 | 🌖 | Waning gibbous
+2026-02-06 | 18.467 | 🌖 | Waning gibbous
