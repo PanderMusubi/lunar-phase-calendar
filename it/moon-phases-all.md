@@ -2,13 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2022-11-03 |  9.211 | 🌔 | Gibbosa crescente
-2022-11-04 | 10.222 | 🌔 | Gibbosa crescente
-2022-11-05 | 11.233 | 🌔 | Gibbosa crescente
-2022-11-06 | 12.167 | 🌔 | Gibbosa crescente
-2022-11-07 | 13.100 | 🌔 | Gibbosa crescente
-2022-11-08 | 14.111 | 🌕 | Luna piena
-2022-11-09 | 14.967 | 🌖 | Gibbosa calante
 2022-11-10 | 15.900 | 🌖 | Gibbosa calante
 2022-11-11 | 16.756 | 🌖 | Gibbosa calante
 2022-11-12 | 17.611 | 🌖 | Gibbosa calante
@@ -1194,3 +1187,10 @@ Giorno     | Fase   | Simbolo | Nome
 2026-02-04 | 16.600 | 🌖 | Gibbosa calante
 2026-02-05 | 17.533 | 🌖 | Gibbosa calante
 2026-02-06 | 18.467 | 🌖 | Gibbosa calante
+2026-02-07 | 19.322 | 🌖 | Gibbosa calante
+2026-02-08 | 20.256 | 🌖 | Gibbosa calante
+2026-02-09 | 21.033 | 🌗 | Ultimo quarto
+2026-02-10 | 21.889 | 🌘 | Luna calante
+2026-02-11 | 22.745 | 🌘 | Luna calante
+2026-02-12 | 23.600 | 🌘 | Luna calante
+2026-02-13 | 24.456 | 🌘 | Luna calante

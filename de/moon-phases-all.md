@@ -2,13 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-11-03 |  9.211 | 🌔 | Zunehmender Mond
-2022-11-04 | 10.222 | 🌔 | Zunehmender Mond
-2022-11-05 | 11.233 | 🌔 | Zunehmender Mond
-2022-11-06 | 12.167 | 🌔 | Zunehmender Mond
-2022-11-07 | 13.100 | 🌔 | Zunehmender Mond
-2022-11-08 | 14.111 | 🌕 | Vollmond
-2022-11-09 | 14.967 | 🌖 | Abnehmender Mond
 2022-11-10 | 15.900 | 🌖 | Abnehmender Mond
 2022-11-11 | 16.756 | 🌖 | Abnehmender Mond
 2022-11-12 | 17.611 | 🌖 | Abnehmender Mond
@@ -1194,3 +1187,10 @@ Tag        | Phase  | Symbole | Name
 2026-02-04 | 16.600 | 🌖 | Abnehmender Mond
 2026-02-05 | 17.533 | 🌖 | Abnehmender Mond
 2026-02-06 | 18.467 | 🌖 | Abnehmender Mond
+2026-02-07 | 19.322 | 🌖 | Abnehmender Mond
+2026-02-08 | 20.256 | 🌖 | Abnehmender Mond
+2026-02-09 | 21.033 | 🌗 | Letztes Viertel
+2026-02-10 | 21.889 | 🌘 | Abnehmender Sichelmond
+2026-02-11 | 22.745 | 🌘 | Abnehmender Sichelmond
+2026-02-12 | 23.600 | 🌘 | Abnehmender Sichelmond
+2026-02-13 | 24.456 | 🌘 | Abnehmender Sichelmond
