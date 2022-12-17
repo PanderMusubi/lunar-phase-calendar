@@ -2,11 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2022-11-10 | 15.900 | 🌖 | Luna menguante gibosa
-2022-11-11 | 16.756 | 🌖 | Luna menguante gibosa
-2022-11-12 | 17.611 | 🌖 | Luna menguante gibosa
-2022-11-13 | 18.467 | 🌖 | Luna menguante gibosa
-2022-11-14 | 19.322 | 🌖 | Luna menguante gibosa
 2022-11-15 | 20.178 | 🌖 | Luna menguante gibosa
 2022-11-16 | 21.033 | 🌗 | Cuarto menguante
 2022-11-17 | 21.889 | 🌘 | Luna menguante
@@ -1194,3 +1189,8 @@ Día        | Fase   | Símbolo | Nombre
 2026-02-11 | 22.745 | 🌘 | Luna menguante
 2026-02-12 | 23.600 | 🌘 | Luna menguante
 2026-02-13 | 24.456 | 🌘 | Luna menguante
+2026-02-14 | 25.311 | 🌘 | Luna menguante
+2026-02-15 | 26.167 | 🌘 | Luna menguante
+2026-02-16 | 27.100 | 🌘 | Luna menguante
+2026-02-17 |  0.033 | 🌑 | Luna nueva
+2026-02-18 |  0.967 | 🌒 | Luna creciente

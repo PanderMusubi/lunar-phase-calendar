@@ -161,3 +161,4 @@ Jour       | Phase  | Symbole | Nom
 2026-01-26 |  7.345 | 🌓 | Premier quartier
 2026-02-02 | 14.578 | 🌕 | Pleine lune
 2026-02-09 | 21.033 | 🌗 | Dernier quartier
+2026-02-17 |  0.033 | 🌑 | Nouvelle lune

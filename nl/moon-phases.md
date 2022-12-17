@@ -161,3 +161,4 @@ Dag        | Fase   | Symbool | Naam
 2026-01-26 |  7.345 | 🌓 | Eerste kwartier
 2026-02-02 | 14.578 | 🌕 | Volle maan
 2026-02-09 | 21.033 | 🌗 | Laatste kwartier
+2026-02-17 |  0.033 | 🌑 | Nieuwe maan

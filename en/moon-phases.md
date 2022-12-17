@@ -161,3 +161,4 @@ Day        | Phase  | Symbol | Name
 2026-01-26 |  7.345 | 🌓 | First quarter
 2026-02-02 | 14.578 | 🌕 | Full moon
 2026-02-09 | 21.033 | 🌗 | Last quarter
+2026-02-17 |  0.033 | 🌑 | New moon

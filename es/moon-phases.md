@@ -161,3 +161,4 @@ Día        | Fase   | Símbolo | Nombre
 2026-01-26 |  7.345 | 🌓 | Cuarto creciente
 2026-02-02 | 14.578 | 🌕 | Luna llena
 2026-02-09 | 21.033 | 🌗 | Cuarto menguante
+2026-02-17 |  0.033 | 🌑 | Luna nueva

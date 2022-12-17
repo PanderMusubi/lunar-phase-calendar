@@ -161,3 +161,4 @@ Giorno     | Fase   | Simbolo | Nome
 2026-01-26 |  7.345 | 🌓 | Primo quarto
 2026-02-02 | 14.578 | 🌕 | Luna piena
 2026-02-09 | 21.033 | 🌗 | Ultimo quarto
+2026-02-17 |  0.033 | 🌑 | Luna nuova

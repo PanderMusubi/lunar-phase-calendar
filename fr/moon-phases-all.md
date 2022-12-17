@@ -2,11 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2022-11-10 | 15.900 | 🌖 | Lune gibbeuse décroissante
-2022-11-11 | 16.756 | 🌖 | Lune gibbeuse décroissante
-2022-11-12 | 17.611 | 🌖 | Lune gibbeuse décroissante
-2022-11-13 | 18.467 | 🌖 | Lune gibbeuse décroissante
-2022-11-14 | 19.322 | 🌖 | Lune gibbeuse décroissante
 2022-11-15 | 20.178 | 🌖 | Lune gibbeuse décroissante
 2022-11-16 | 21.033 | 🌗 | Dernier quartier
 2022-11-17 | 21.889 | 🌘 | Dernier croissant
@@ -1194,3 +1189,8 @@ Jour       | Phase  | Symbole | Nom
 2026-02-11 | 22.745 | 🌘 | Dernier croissant
 2026-02-12 | 23.600 | 🌘 | Dernier croissant
 2026-02-13 | 24.456 | 🌘 | Dernier croissant
+2026-02-14 | 25.311 | 🌘 | Dernier croissant
+2026-02-15 | 26.167 | 🌘 | Dernier croissant
+2026-02-16 | 27.100 | 🌘 | Dernier croissant
+2026-02-17 |  0.033 | 🌑 | Nouvelle lune
+2026-02-18 |  0.967 | 🌒 | Premier croissant

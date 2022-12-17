@@ -161,3 +161,4 @@ Tag        | Phase  | Symbole | Name
 2026-01-26 |  7.345 | 🌓 | Erstes Viertel
 2026-02-02 | 14.578 | 🌕 | Vollmond
 2026-02-09 | 21.033 | 🌗 | Letztes Viertel
+2026-02-17 |  0.033 | 🌑 | Neumond

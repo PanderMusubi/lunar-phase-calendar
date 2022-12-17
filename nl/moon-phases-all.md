@@ -2,11 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2022-11-10 | 15.900 | 🌖 | Krimpende, vooruitspringende maan
-2022-11-11 | 16.756 | 🌖 | Krimpende, vooruitspringende maan
-2022-11-12 | 17.611 | 🌖 | Krimpende, vooruitspringende maan
-2022-11-13 | 18.467 | 🌖 | Krimpende, vooruitspringende maan
-2022-11-14 | 19.322 | 🌖 | Krimpende, vooruitspringende maan
 2022-11-15 | 20.178 | 🌖 | Krimpende, vooruitspringende maan
 2022-11-16 | 21.033 | 🌗 | Laatste kwartier
 2022-11-17 | 21.889 | 🌘 | Krimpende, sikkelvormige maan
@@ -1194,3 +1189,8 @@ Dag        | Fase   | Symbool | Naam
 2026-02-11 | 22.745 | 🌘 | Krimpende, sikkelvormige maan
 2026-02-12 | 23.600 | 🌘 | Krimpende, sikkelvormige maan
 2026-02-13 | 24.456 | 🌘 | Krimpende, sikkelvormige maan
+2026-02-14 | 25.311 | 🌘 | Krimpende, sikkelvormige maan
+2026-02-15 | 26.167 | 🌘 | Krimpende, sikkelvormige maan
+2026-02-16 | 27.100 | 🌘 | Krimpende, sikkelvormige maan
+2026-02-17 |  0.033 | 🌑 | Nieuwe maan
+2026-02-18 |  0.967 | 🌒 | Wassende, sikkelvormige maan
