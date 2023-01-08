@@ -2,28 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-11-15 | 20.178 | 🌖 | Lua minguante gibosa
-2022-11-16 | 21.033 | 🌗 | Quarto minguante
-2022-11-17 | 21.889 | 🌘 | Lua minguante
-2022-11-18 | 22.745 | 🌘 | Lua minguante
-2022-11-19 | 23.600 | 🌘 | Lua minguante
-2022-11-20 | 24.533 | 🌘 | Lua minguante
-2022-11-21 | 25.467 | 🌘 | Lua minguante
-2022-11-22 | 26.478 | 🌘 | Lua minguante
-2022-11-23 | 27.489 | 🌘 | Lua minguante
-2022-11-24 |  0.578 | 🌑 | Lua nova
-2022-11-25 |  1.589 | 🌒 | Lua crescente
-2022-11-26 |  2.678 | 🌒 | Lua crescente
-2022-11-27 |  3.767 | 🌒 | Lua crescente
-2022-11-28 |  4.778 | 🌒 | Lua crescente
-2022-11-29 |  5.867 | 🌒 | Lua crescente
-2022-11-30 |  6.878 | 🌒 | Lua crescente
-2022-12-01 |  7.889 | 🌓 | Quarto crescente
-2022-12-02 |  8.822 | 🌔 | Lua crescente gibosa
-2022-12-03 |  9.833 | 🌔 | Lua crescente gibosa
-2022-12-04 | 10.767 | 🌔 | Lua crescente gibosa
-2022-12-05 | 11.700 | 🌔 | Lua crescente gibosa
-2022-12-06 | 12.556 | 🌔 | Lua crescente gibosa
 2022-12-07 | 13.489 | 🌔 | Lua crescente gibosa
 2022-12-08 | 14.345 | 🌕 | Lua cheia
 2022-12-09 | 15.200 | 🌖 | Lua minguante gibosa
@@ -1194,3 +1172,25 @@ Dia        | Fase   | Símbolo | Nome
 2026-02-16 | 27.100 | 🌘 | Lua minguante
 2026-02-17 |  0.033 | 🌑 | Lua nova
 2026-02-18 |  0.967 | 🌒 | Lua crescente
+2026-02-19 |  1.978 | 🌒 | Lua crescente
+2026-02-20 |  2.911 | 🌒 | Lua crescente
+2026-02-21 |  3.922 | 🌒 | Lua crescente
+2026-02-22 |  4.933 | 🌒 | Lua crescente
+2026-02-23 |  5.945 | 🌒 | Lua crescente
+2026-02-24 |  6.956 | 🌒 | Lua crescente
+2026-02-25 |  7.967 | 🌓 | Quarto crescente
+2026-02-26 |  8.978 | 🌔 | Lua crescente gibosa
+2026-02-27 |  9.989 | 🌔 | Lua crescente gibosa
+2026-02-28 | 11.078 | 🌔 | Lua crescente gibosa
+2026-03-01 | 12.011 | 🌔 | Lua crescente gibosa
+2026-03-02 | 13.022 | 🌔 | Lua crescente gibosa
+2026-03-03 | 14.033 | 🌕 | Lua cheia
+2026-03-04 | 14.967 | 🌖 | Lua minguante gibosa
+2026-03-05 | 15.978 | 🌖 | Lua minguante gibosa
+2026-03-06 | 16.833 | 🌖 | Lua minguante gibosa
+2026-03-07 | 17.767 | 🌖 | Lua minguante gibosa
+2026-03-08 | 18.622 | 🌖 | Lua minguante gibosa
+2026-03-09 | 19.478 | 🌖 | Lua minguante gibosa
+2026-03-10 | 20.333 | 🌖 | Lua minguante gibosa
+2026-03-11 | 21.111 | 🌗 | Quarto minguante
+2026-03-12 | 21.967 | 🌘 | Lua minguante

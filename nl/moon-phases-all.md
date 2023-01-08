@@ -2,28 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2022-11-15 | 20.178 | 🌖 | Krimpende, vooruitspringende maan
-2022-11-16 | 21.033 | 🌗 | Laatste kwartier
-2022-11-17 | 21.889 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-18 | 22.745 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-19 | 23.600 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-20 | 24.533 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-21 | 25.467 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-22 | 26.478 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-23 | 27.489 | 🌘 | Krimpende, sikkelvormige maan
-2022-11-24 |  0.578 | 🌑 | Nieuwe maan
-2022-11-25 |  1.589 | 🌒 | Wassende, sikkelvormige maan
-2022-11-26 |  2.678 | 🌒 | Wassende, sikkelvormige maan
-2022-11-27 |  3.767 | 🌒 | Wassende, sikkelvormige maan
-2022-11-28 |  4.778 | 🌒 | Wassende, sikkelvormige maan
-2022-11-29 |  5.867 | 🌒 | Wassende, sikkelvormige maan
-2022-11-30 |  6.878 | 🌒 | Wassende, sikkelvormige maan
-2022-12-01 |  7.889 | 🌓 | Eerste kwartier
-2022-12-02 |  8.822 | 🌔 | Wassende,vooruitspringende maan
-2022-12-03 |  9.833 | 🌔 | Wassende,vooruitspringende maan
-2022-12-04 | 10.767 | 🌔 | Wassende,vooruitspringende maan
-2022-12-05 | 11.700 | 🌔 | Wassende,vooruitspringende maan
-2022-12-06 | 12.556 | 🌔 | Wassende,vooruitspringende maan
 2022-12-07 | 13.489 | 🌔 | Wassende,vooruitspringende maan
 2022-12-08 | 14.345 | 🌕 | Volle maan
 2022-12-09 | 15.200 | 🌖 | Krimpende, vooruitspringende maan
@@ -1194,3 +1172,25 @@ Dag        | Fase   | Symbool | Naam
 2026-02-16 | 27.100 | 🌘 | Krimpende, sikkelvormige maan
 2026-02-17 |  0.033 | 🌑 | Nieuwe maan
 2026-02-18 |  0.967 | 🌒 | Wassende, sikkelvormige maan
+2026-02-19 |  1.978 | 🌒 | Wassende, sikkelvormige maan
+2026-02-20 |  2.911 | 🌒 | Wassende, sikkelvormige maan
+2026-02-21 |  3.922 | 🌒 | Wassende, sikkelvormige maan
+2026-02-22 |  4.933 | 🌒 | Wassende, sikkelvormige maan
+2026-02-23 |  5.945 | 🌒 | Wassende, sikkelvormige maan
+2026-02-24 |  6.956 | 🌒 | Wassende, sikkelvormige maan
+2026-02-25 |  7.967 | 🌓 | Eerste kwartier
+2026-02-26 |  8.978 | 🌔 | Wassende,vooruitspringende maan
+2026-02-27 |  9.989 | 🌔 | Wassende,vooruitspringende maan
+2026-02-28 | 11.078 | 🌔 | Wassende,vooruitspringende maan
+2026-03-01 | 12.011 | 🌔 | Wassende,vooruitspringende maan
+2026-03-02 | 13.022 | 🌔 | Wassende,vooruitspringende maan
+2026-03-03 | 14.033 | 🌕 | Volle maan
+2026-03-04 | 14.967 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-05 | 15.978 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-06 | 16.833 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-07 | 17.767 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-08 | 18.622 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-09 | 19.478 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-10 | 20.333 | 🌖 | Krimpende, vooruitspringende maan
+2026-03-11 | 21.111 | 🌗 | Laatste kwartier
+2026-03-12 | 21.967 | 🌘 | Krimpende, sikkelvormige maan

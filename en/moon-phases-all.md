@@ -2,28 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-11-15 | 20.178 | 🌖 | Waning gibbous
-2022-11-16 | 21.033 | 🌗 | Last quarter
-2022-11-17 | 21.889 | 🌘 | Waning crescent
-2022-11-18 | 22.745 | 🌘 | Waning crescent
-2022-11-19 | 23.600 | 🌘 | Waning crescent
-2022-11-20 | 24.533 | 🌘 | Waning crescent
-2022-11-21 | 25.467 | 🌘 | Waning crescent
-2022-11-22 | 26.478 | 🌘 | Waning crescent
-2022-11-23 | 27.489 | 🌘 | Waning crescent
-2022-11-24 |  0.578 | 🌑 | New moon
-2022-11-25 |  1.589 | 🌒 | Waxing crescent
-2022-11-26 |  2.678 | 🌒 | Waxing crescent
-2022-11-27 |  3.767 | 🌒 | Waxing crescent
-2022-11-28 |  4.778 | 🌒 | Waxing crescent
-2022-11-29 |  5.867 | 🌒 | Waxing crescent
-2022-11-30 |  6.878 | 🌒 | Waxing crescent
-2022-12-01 |  7.889 | 🌓 | First quarter
-2022-12-02 |  8.822 | 🌔 | Waxing gibbous
-2022-12-03 |  9.833 | 🌔 | Waxing gibbous
-2022-12-04 | 10.767 | 🌔 | Waxing gibbous
-2022-12-05 | 11.700 | 🌔 | Waxing gibbous
-2022-12-06 | 12.556 | 🌔 | Waxing gibbous
 2022-12-07 | 13.489 | 🌔 | Waxing gibbous
 2022-12-08 | 14.345 | 🌕 | Full moon
 2022-12-09 | 15.200 | 🌖 | Waning gibbous
@@ -1194,3 +1172,25 @@ Day        | Phase  | Symbol | Name
 2026-02-16 | 27.100 | 🌘 | Waning crescent
 2026-02-17 |  0.033 | 🌑 | New moon
 2026-02-18 |  0.967 | 🌒 | Waxing crescent
+2026-02-19 |  1.978 | 🌒 | Waxing crescent
+2026-02-20 |  2.911 | 🌒 | Waxing crescent
+2026-02-21 |  3.922 | 🌒 | Waxing crescent
+2026-02-22 |  4.933 | 🌒 | Waxing crescent
+2026-02-23 |  5.945 | 🌒 | Waxing crescent
+2026-02-24 |  6.956 | 🌒 | Waxing crescent
+2026-02-25 |  7.967 | 🌓 | First quarter
+2026-02-26 |  8.978 | 🌔 | Waxing gibbous
+2026-02-27 |  9.989 | 🌔 | Waxing gibbous
+2026-02-28 | 11.078 | 🌔 | Waxing gibbous
+2026-03-01 | 12.011 | 🌔 | Waxing gibbous
+2026-03-02 | 13.022 | 🌔 | Waxing gibbous
+2026-03-03 | 14.033 | 🌕 | Full moon
+2026-03-04 | 14.967 | 🌖 | Waning gibbous
+2026-03-05 | 15.978 | 🌖 | Waning gibbous
+2026-03-06 | 16.833 | 🌖 | Waning gibbous
+2026-03-07 | 17.767 | 🌖 | Waning gibbous
+2026-03-08 | 18.622 | 🌖 | Waning gibbous
+2026-03-09 | 19.478 | 🌖 | Waning gibbous
+2026-03-10 | 20.333 | 🌖 | Waning gibbous
+2026-03-11 | 21.111 | 🌗 | Last quarter
+2026-03-12 | 21.967 | 🌘 | Waning crescent

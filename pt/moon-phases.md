@@ -2,9 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2022-11-16 | 21.033 | 🌗 | Quarto minguante
-2022-11-24 |  0.578 | 🌑 | Lua nova
-2022-12-01 |  7.889 | 🌓 | Quarto crescente
 2022-12-08 | 14.345 | 🌕 | Lua cheia
 2022-12-16 | 21.111 | 🌗 | Quarto minguante
 2022-12-23 |  0.033 | 🌑 | Lua nova
@@ -162,3 +159,6 @@ Dia        | Fase   | Símbolo | Nome
 2026-02-02 | 14.578 | 🌕 | Lua cheia
 2026-02-09 | 21.033 | 🌗 | Quarto minguante
 2026-02-17 |  0.033 | 🌑 | Lua nova
+2026-02-25 |  7.967 | 🌓 | Quarto crescente
+2026-03-03 | 14.033 | 🌕 | Lua cheia
+2026-03-11 | 21.111 | 🌗 | Quarto minguante
