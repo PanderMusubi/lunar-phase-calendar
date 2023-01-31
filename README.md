@@ -81,7 +81,7 @@ crescent
 
 Generate a new calender by installing the required package with
 
-    sudo pip3 install -U astral
+    pip install -U astral
 
 and run
 
