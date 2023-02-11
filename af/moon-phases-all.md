@@ -2,17 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2022-12-30 |  7.422 | 🌓 | Eerste kwartier
-2022-12-31 |  8.356 | 🌔 | Groeiende bolmaan
-2023-01-01 |  9.289 | 🌔 | Groeiende bolmaan
-2023-01-02 | 10.222 | 🌔 | Groeiende bolmaan
-2023-01-03 | 11.078 | 🌔 | Groeiende bolmaan
-2023-01-04 | 11.933 | 🌔 | Groeiende bolmaan
-2023-01-05 | 12.789 | 🌔 | Groeiende bolmaan
-2023-01-06 | 13.645 | 🌔 | Groeiende bolmaan
-2023-01-07 | 14.500 | 🌕 | Volmaan
-2023-01-08 | 15.356 | 🌖 | Afnemende bolmaan
-2023-01-09 | 16.211 | 🌖 | Afnemende bolmaan
 2023-01-10 | 16.989 | 🌖 | Afnemende bolmaan
 2023-01-11 | 17.845 | 🌖 | Afnemende bolmaan
 2023-01-12 | 18.700 | 🌖 | Afnemende bolmaan
@@ -1194,3 +1183,14 @@ Dag        | Fase   | Simbool | Naam
 2026-04-02 | 14.422 | 🌕 | Volmaan
 2026-04-03 | 15.278 | 🌖 | Afnemende bolmaan
 2026-04-04 | 16.211 | 🌖 | Afnemende bolmaan
+2026-04-05 | 17.067 | 🌖 | Afnemende bolmaan
+2026-04-06 | 17.922 | 🌖 | Afnemende bolmaan
+2026-04-07 | 18.700 | 🌖 | Afnemende bolmaan
+2026-04-08 | 19.556 | 🌖 | Afnemende bolmaan
+2026-04-09 | 20.411 | 🌖 | Afnemende bolmaan
+2026-04-10 | 21.267 | 🌗 | Laaste kwartier
+2026-04-11 | 22.122 | 🌘 | Afnemende sekelmaan
+2026-04-12 | 22.978 | 🌘 | Afnemende sekelmaan
+2026-04-13 | 23.911 | 🌘 | Afnemende sekelmaan
+2026-04-14 | 24.922 | 🌘 | Afnemende sekelmaan
+2026-04-15 | 25.933 | 🌘 | Afnemende sekelmaan

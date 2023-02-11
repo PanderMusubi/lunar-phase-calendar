@@ -2,8 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2022-12-30 |  7.422 | 🌓 | Erstes Viertel
-2023-01-07 | 14.500 | 🌕 | Vollmond
 2023-01-15 | 21.345 | 🌗 | Letztes Viertel
 2023-01-22 |  0.578 | 🌑 | Neumond
 2023-01-29 |  7.811 | 🌓 | Erstes Viertel
@@ -158,3 +156,4 @@ Tag        | Phase  | Symbole | Name
 2026-03-19 |  0.422 | 🌑 | Neumond
 2026-03-26 |  7.656 | 🌓 | Erstes Viertel
 2026-04-02 | 14.422 | 🌕 | Vollmond
+2026-04-10 | 21.267 | 🌗 | Letztes Viertel

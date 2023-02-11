@@ -2,8 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2022-12-30 |  7.422 | 🌓 | First quarter
-2023-01-07 | 14.500 | 🌕 | Full moon
 2023-01-15 | 21.345 | 🌗 | Last quarter
 2023-01-22 |  0.578 | 🌑 | New moon
 2023-01-29 |  7.811 | 🌓 | First quarter
@@ -158,3 +156,4 @@ Day        | Phase  | Symbol | Name
 2026-03-19 |  0.422 | 🌑 | New moon
 2026-03-26 |  7.656 | 🌓 | First quarter
 2026-04-02 | 14.422 | 🌕 | Full moon
+2026-04-10 | 21.267 | 🌗 | Last quarter
