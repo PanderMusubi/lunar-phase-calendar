@@ -2,32 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2023-01-10 | 16.989 | 🌖 | Afnemende bolmaan
-2023-01-11 | 17.845 | 🌖 | Afnemende bolmaan
-2023-01-12 | 18.700 | 🌖 | Afnemende bolmaan
-2023-01-13 | 19.556 | 🌖 | Afnemende bolmaan
-2023-01-14 | 20.489 | 🌖 | Afnemende bolmaan
-2023-01-15 | 21.345 | 🌗 | Laaste kwartier
-2023-01-16 | 22.356 | 🌘 | Afnemende sekelmaan
-2023-01-17 | 23.289 | 🌘 | Afnemende sekelmaan
-2023-01-18 | 24.300 | 🌘 | Afnemende sekelmaan
-2023-01-19 | 25.389 | 🌘 | Afnemende sekelmaan
-2023-01-20 | 26.400 | 🌘 | Afnemende sekelmaan
-2023-01-21 | 27.489 | 🌘 | Afnemende sekelmaan
-2023-01-22 |  0.578 | 🌑 | Donkermaan
-2023-01-23 |  1.745 | 🌒 | Groeiende sekelmaan
-2023-01-24 |  2.756 | 🌒 | Groeiende sekelmaan
-2023-01-25 |  3.845 | 🌒 | Groeiende sekelmaan
-2023-01-26 |  4.856 | 🌒 | Groeiende sekelmaan
-2023-01-27 |  5.867 | 🌒 | Groeiende sekelmaan
-2023-01-28 |  6.878 | 🌒 | Groeiende sekelmaan
-2023-01-29 |  7.811 | 🌓 | Eerste kwartier
-2023-01-30 |  8.667 | 🌔 | Groeiende bolmaan
-2023-01-31 |  9.600 | 🌔 | Groeiende bolmaan
-2023-02-01 | 10.456 | 🌔 | Groeiende bolmaan
-2023-02-02 | 11.311 | 🌔 | Groeiende bolmaan
-2023-02-03 | 12.167 | 🌔 | Groeiende bolmaan
-2023-02-04 | 12.945 | 🌔 | Groeiende bolmaan
 2023-02-05 | 13.800 | 🌔 | Groeiende bolmaan
 2023-02-06 | 14.656 | 🌕 | Volmaan
 2023-02-07 | 15.511 | 🌖 | Afnemende bolmaan
@@ -1194,3 +1168,29 @@ Dag        | Fase   | Simbool | Naam
 2026-04-13 | 23.911 | 🌘 | Afnemende sekelmaan
 2026-04-14 | 24.922 | 🌘 | Afnemende sekelmaan
 2026-04-15 | 25.933 | 🌘 | Afnemende sekelmaan
+2026-04-16 | 26.945 | 🌘 | Afnemende sekelmaan
+2026-04-17 | 27.956 | 🌘 | Afnemende sekelmaan
+2026-04-18 |  1.045 | 🌒 | Groeiende sekelmaan
+2026-04-19 |  2.133 | 🌒 | Groeiende sekelmaan
+2026-04-20 |  3.145 | 🌒 | Groeiende sekelmaan
+2026-04-21 |  4.233 | 🌒 | Groeiende sekelmaan
+2026-04-22 |  5.322 | 🌒 | Groeiende sekelmaan
+2026-04-23 |  6.333 | 🌒 | Groeiende sekelmaan
+2026-04-24 |  7.345 | 🌓 | Eerste kwartier
+2026-04-25 |  8.278 | 🌔 | Groeiende bolmaan
+2026-04-26 |  9.289 | 🌔 | Groeiende bolmaan
+2026-04-27 | 10.222 | 🌔 | Groeiende bolmaan
+2026-04-28 | 11.156 | 🌔 | Groeiende bolmaan
+2026-04-29 | 12.089 | 🌔 | Groeiende bolmaan
+2026-04-30 | 12.945 | 🌔 | Groeiende bolmaan
+2026-05-01 | 13.878 | 🌔 | Groeiende bolmaan
+2026-05-02 | 14.733 | 🌕 | Volmaan
+2026-05-03 | 15.589 | 🌖 | Afnemende bolmaan
+2026-05-04 | 16.445 | 🌖 | Afnemende bolmaan
+2026-05-05 | 17.222 | 🌖 | Afnemende bolmaan
+2026-05-06 | 18.078 | 🌖 | Afnemende bolmaan
+2026-05-07 | 18.933 | 🌖 | Afnemende bolmaan
+2026-05-08 | 19.789 | 🌖 | Afnemende bolmaan
+2026-05-09 | 20.645 | 🌖 | Afnemende bolmaan
+2026-05-10 | 21.500 | 🌗 | Laaste kwartier
+2026-05-11 | 22.433 | 🌘 | Afnemende sekelmaan

@@ -2,9 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2023-01-15 | 21.345 | 🌗 | Cuarto menguante
-2023-01-22 |  0.578 | 🌑 | Luna nueva
-2023-01-29 |  7.811 | 🌓 | Cuarto creciente
 2023-02-06 | 14.656 | 🌕 | Luna llena
 2023-02-14 | 21.811 | 🌗 | Cuarto menguante
 2023-02-20 |  0.111 | 🌑 | Luna nueva
@@ -157,3 +154,6 @@ Día        | Fase   | Símbolo | Nombre
 2026-03-26 |  7.656 | 🌓 | Cuarto creciente
 2026-04-02 | 14.422 | 🌕 | Luna llena
 2026-04-10 | 21.267 | 🌗 | Cuarto menguante
+2026-04-24 |  7.345 | 🌓 | Cuarto creciente
+2026-05-02 | 14.733 | 🌕 | Luna llena
+2026-05-10 | 21.500 | 🌗 | Cuarto menguante
