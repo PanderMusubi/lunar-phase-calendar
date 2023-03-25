@@ -4,7 +4,8 @@ Roling ICS calendars with
 [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase) for three years in
 advance.
 
-> <em>Ignorance is the night of the mind, but a night without moon and star.</em> — Confucius (551 – 479 BC) Chinese philosopher and reformer
+> <em>Ignorance is the night of the mind, but a night without moon and star.</em>
+— Confucius (551 – 479 BC) Chinese philosopher and reformer
 
 Besides calendars with all the lunars phases, there are also calendars provided
 with only the dates when there is a new or full moon. The calendars are
