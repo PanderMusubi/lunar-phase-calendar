@@ -2,18 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2023-03-18 | 24.456 | 🌘 | Krimpende, sikkelvormige maan
-2023-03-19 | 25.545 | 🌘 | Krimpende, sikkelvormige maan
-2023-03-20 | 26.633 | 🌘 | Krimpende, sikkelvormige maan
-2023-03-21 | 27.645 | 🌘 | Krimpende, sikkelvormige maan
-2023-03-22 |  0.733 | 🌑 | Nieuwe maan
-2023-03-23 |  1.745 | 🌒 | Wassende, sikkelvormige maan
-2023-03-24 |  2.756 | 🌒 | Wassende, sikkelvormige maan
-2023-03-25 |  3.767 | 🌒 | Wassende, sikkelvormige maan
-2023-03-26 |  4.700 | 🌒 | Wassende, sikkelvormige maan
-2023-03-27 |  5.633 | 🌒 | Wassende, sikkelvormige maan
-2023-03-28 |  6.567 | 🌒 | Wassende, sikkelvormige maan
-2023-03-29 |  7.422 | 🌓 | Eerste kwartier
 2023-03-30 |  8.278 | 🌔 | Wassende,vooruitspringende maan
 2023-03-31 |  9.056 | 🌔 | Wassende,vooruitspringende maan
 2023-04-01 |  9.911 | 🌔 | Wassende,vooruitspringende maan
@@ -1194,3 +1182,15 @@ Dag        | Fase   | Symbool | Naam
 2026-06-19 |  4.622 | 🌒 | Wassende, sikkelvormige maan
 2026-06-20 |  5.633 | 🌒 | Wassende, sikkelvormige maan
 2026-06-21 |  6.645 | 🌒 | Wassende, sikkelvormige maan
+2026-06-22 |  7.578 | 🌓 | Eerste kwartier
+2026-06-23 |  8.511 | 🌔 | Wassende,vooruitspringende maan
+2026-06-24 |  9.367 | 🌔 | Wassende,vooruitspringende maan
+2026-06-25 | 10.222 | 🌔 | Wassende,vooruitspringende maan
+2026-06-26 | 11.078 | 🌔 | Wassende,vooruitspringende maan
+2026-06-27 | 11.933 | 🌔 | Wassende,vooruitspringende maan
+2026-06-28 | 12.789 | 🌔 | Wassende,vooruitspringende maan
+2026-06-29 | 13.567 | 🌔 | Wassende,vooruitspringende maan
+2026-06-30 | 14.422 | 🌕 | Volle maan
+2026-07-01 | 15.278 | 🌖 | Krimpende, vooruitspringende maan
+2026-07-02 | 16.133 | 🌖 | Krimpende, vooruitspringende maan
+2026-07-03 | 17.067 | 🌖 | Krimpende, vooruitspringende maan
