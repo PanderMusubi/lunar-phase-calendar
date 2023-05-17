@@ -2,22 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2023-03-30 |  8.278 | 🌔 | Luna creciente gibosa
-2023-03-31 |  9.056 | 🌔 | Luna creciente gibosa
-2023-04-01 |  9.911 | 🌔 | Luna creciente gibosa
-2023-04-02 | 10.767 | 🌔 | Luna creciente gibosa
-2023-04-03 | 11.622 | 🌔 | Luna creciente gibosa
-2023-04-04 | 12.478 | 🌔 | Luna creciente gibosa
-2023-04-05 | 13.333 | 🌔 | Luna creciente gibosa
-2023-04-06 | 14.267 | 🌕 | Luna llena
-2023-04-07 | 15.200 | 🌖 | Luna menguante gibosa
-2023-04-08 | 16.133 | 🌖 | Luna menguante gibosa
-2023-04-09 | 17.145 | 🌖 | Luna menguante gibosa
-2023-04-10 | 18.078 | 🌖 | Luna menguante gibosa
-2023-04-11 | 19.089 | 🌖 | Luna menguante gibosa
-2023-04-12 | 20.100 | 🌖 | Luna menguante gibosa
-2023-04-13 | 21.111 | 🌗 | Cuarto menguante
-2023-04-14 | 22.122 | 🌘 | Luna menguante
 2023-04-15 | 23.133 | 🌘 | Luna menguante
 2023-04-16 | 24.145 | 🌘 | Luna menguante
 2023-04-17 | 25.156 | 🌘 | Luna menguante
@@ -1194,3 +1178,19 @@ Día        | Fase   | Símbolo | Nombre
 2026-07-01 | 15.278 | 🌖 | Luna menguante gibosa
 2026-07-02 | 16.133 | 🌖 | Luna menguante gibosa
 2026-07-03 | 17.067 | 🌖 | Luna menguante gibosa
+2026-07-04 | 17.922 | 🌖 | Luna menguante gibosa
+2026-07-05 | 18.856 | 🌖 | Luna menguante gibosa
+2026-07-06 | 19.711 | 🌖 | Luna menguante gibosa
+2026-07-07 | 20.722 | 🌖 | Luna menguante gibosa
+2026-07-08 | 21.656 | 🌗 | Cuarto menguante
+2026-07-09 | 22.667 | 🌘 | Luna menguante
+2026-07-10 | 23.678 | 🌘 | Luna menguante
+2026-07-11 | 24.767 | 🌘 | Luna menguante
+2026-07-12 | 25.778 | 🌘 | Luna menguante
+2026-07-13 | 26.867 | 🌘 | Luna menguante
+2026-07-14 | 27.956 | 🌘 | Luna menguante
+2026-07-15 |  1.045 | 🌒 | Luna creciente
+2026-07-16 |  2.133 | 🌒 | Luna creciente
+2026-07-17 |  3.222 | 🌒 | Luna creciente
+2026-07-18 |  4.233 | 🌒 | Luna creciente
+2026-07-19 |  5.245 | 🌒 | Luna creciente

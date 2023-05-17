@@ -2,22 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2023-03-30 |  8.278 | 🌔 | Lua crescente gibosa
-2023-03-31 |  9.056 | 🌔 | Lua crescente gibosa
-2023-04-01 |  9.911 | 🌔 | Lua crescente gibosa
-2023-04-02 | 10.767 | 🌔 | Lua crescente gibosa
-2023-04-03 | 11.622 | 🌔 | Lua crescente gibosa
-2023-04-04 | 12.478 | 🌔 | Lua crescente gibosa
-2023-04-05 | 13.333 | 🌔 | Lua crescente gibosa
-2023-04-06 | 14.267 | 🌕 | Lua cheia
-2023-04-07 | 15.200 | 🌖 | Lua minguante gibosa
-2023-04-08 | 16.133 | 🌖 | Lua minguante gibosa
-2023-04-09 | 17.145 | 🌖 | Lua minguante gibosa
-2023-04-10 | 18.078 | 🌖 | Lua minguante gibosa
-2023-04-11 | 19.089 | 🌖 | Lua minguante gibosa
-2023-04-12 | 20.100 | 🌖 | Lua minguante gibosa
-2023-04-13 | 21.111 | 🌗 | Quarto minguante
-2023-04-14 | 22.122 | 🌘 | Lua minguante
 2023-04-15 | 23.133 | 🌘 | Lua minguante
 2023-04-16 | 24.145 | 🌘 | Lua minguante
 2023-04-17 | 25.156 | 🌘 | Lua minguante
@@ -1194,3 +1178,19 @@ Dia        | Fase   | Símbolo | Nome
 2026-07-01 | 15.278 | 🌖 | Lua minguante gibosa
 2026-07-02 | 16.133 | 🌖 | Lua minguante gibosa
 2026-07-03 | 17.067 | 🌖 | Lua minguante gibosa
+2026-07-04 | 17.922 | 🌖 | Lua minguante gibosa
+2026-07-05 | 18.856 | 🌖 | Lua minguante gibosa
+2026-07-06 | 19.711 | 🌖 | Lua minguante gibosa
+2026-07-07 | 20.722 | 🌖 | Lua minguante gibosa
+2026-07-08 | 21.656 | 🌗 | Quarto minguante
+2026-07-09 | 22.667 | 🌘 | Lua minguante
+2026-07-10 | 23.678 | 🌘 | Lua minguante
+2026-07-11 | 24.767 | 🌘 | Lua minguante
+2026-07-12 | 25.778 | 🌘 | Lua minguante
+2026-07-13 | 26.867 | 🌘 | Lua minguante
+2026-07-14 | 27.956 | 🌘 | Lua minguante
+2026-07-15 |  1.045 | 🌒 | Lua crescente
+2026-07-16 |  2.133 | 🌒 | Lua crescente
+2026-07-17 |  3.222 | 🌒 | Lua crescente
+2026-07-18 |  4.233 | 🌒 | Lua crescente
+2026-07-19 |  5.245 | 🌒 | Lua crescente

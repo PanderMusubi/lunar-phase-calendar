@@ -2,22 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2023-03-30 |  8.278 | 🌔 | Waxing gibbous
-2023-03-31 |  9.056 | 🌔 | Waxing gibbous
-2023-04-01 |  9.911 | 🌔 | Waxing gibbous
-2023-04-02 | 10.767 | 🌔 | Waxing gibbous
-2023-04-03 | 11.622 | 🌔 | Waxing gibbous
-2023-04-04 | 12.478 | 🌔 | Waxing gibbous
-2023-04-05 | 13.333 | 🌔 | Waxing gibbous
-2023-04-06 | 14.267 | 🌕 | Full moon
-2023-04-07 | 15.200 | 🌖 | Waning gibbous
-2023-04-08 | 16.133 | 🌖 | Waning gibbous
-2023-04-09 | 17.145 | 🌖 | Waning gibbous
-2023-04-10 | 18.078 | 🌖 | Waning gibbous
-2023-04-11 | 19.089 | 🌖 | Waning gibbous
-2023-04-12 | 20.100 | 🌖 | Waning gibbous
-2023-04-13 | 21.111 | 🌗 | Last quarter
-2023-04-14 | 22.122 | 🌘 | Waning crescent
 2023-04-15 | 23.133 | 🌘 | Waning crescent
 2023-04-16 | 24.145 | 🌘 | Waning crescent
 2023-04-17 | 25.156 | 🌘 | Waning crescent
@@ -1194,3 +1178,19 @@ Day        | Phase  | Symbol | Name
 2026-07-01 | 15.278 | 🌖 | Waning gibbous
 2026-07-02 | 16.133 | 🌖 | Waning gibbous
 2026-07-03 | 17.067 | 🌖 | Waning gibbous
+2026-07-04 | 17.922 | 🌖 | Waning gibbous
+2026-07-05 | 18.856 | 🌖 | Waning gibbous
+2026-07-06 | 19.711 | 🌖 | Waning gibbous
+2026-07-07 | 20.722 | 🌖 | Waning gibbous
+2026-07-08 | 21.656 | 🌗 | Last quarter
+2026-07-09 | 22.667 | 🌘 | Waning crescent
+2026-07-10 | 23.678 | 🌘 | Waning crescent
+2026-07-11 | 24.767 | 🌘 | Waning crescent
+2026-07-12 | 25.778 | 🌘 | Waning crescent
+2026-07-13 | 26.867 | 🌘 | Waning crescent
+2026-07-14 | 27.956 | 🌘 | Waning crescent
+2026-07-15 |  1.045 | 🌒 | Waxing crescent
+2026-07-16 |  2.133 | 🌒 | Waxing crescent
+2026-07-17 |  3.222 | 🌒 | Waxing crescent
+2026-07-18 |  4.233 | 🌒 | Waxing crescent
+2026-07-19 |  5.245 | 🌒 | Waxing crescent

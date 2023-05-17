@@ -2,8 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2023-04-06 | 14.267 | 🌕 | Volmaan
-2023-04-13 | 21.111 | 🌗 | Laaste kwartier
 2023-04-20 |  0.267 | 🌑 | Donkermaan
 2023-04-28 |  7.578 | 🌓 | Eerste kwartier
 2023-05-06 | 14.733 | 🌕 | Volmaan
@@ -156,3 +154,4 @@ Dag        | Fase   | Simbool | Naam
 2026-06-15 |  0.345 | 🌑 | Donkermaan
 2026-06-22 |  7.578 | 🌓 | Eerste kwartier
 2026-06-30 | 14.422 | 🌕 | Volmaan
+2026-07-08 | 21.656 | 🌗 | Laaste kwartier
