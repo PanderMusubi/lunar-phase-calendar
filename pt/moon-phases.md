@@ -2,14 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2023-04-20 |  0.267 | 🌑 | Lua nova
-2023-04-28 |  7.578 | 🌓 | Quarto crescente
-2023-05-06 | 14.733 | 🌕 | Lua cheia
-2023-05-13 | 21.811 | 🌗 | Quarto minguante
-2023-05-20 |  0.811 | 🌑 | Lua nova
-2023-05-28 |  7.733 | 🌓 | Quarto crescente
-2023-06-04 | 14.345 | 🌕 | Lua cheia
-2023-06-11 | 21.656 | 🌗 | Quarto minguante
 2023-06-18 |  0.267 | 🌑 | Lua nova
 2023-06-26 |  7.111 | 🌓 | Quarto crescente
 2023-07-10 | 21.345 | 🌗 | Quarto minguante
@@ -155,3 +147,12 @@ Dia        | Fase   | Símbolo | Nome
 2026-06-22 |  7.578 | 🌓 | Quarto crescente
 2026-06-30 | 14.422 | 🌕 | Lua cheia
 2026-07-08 | 21.656 | 🌗 | Quarto minguante
+2026-07-21 |  7.111 | 🌓 | Quarto crescente
+2026-07-30 | 14.811 | 🌕 | Lua cheia
+2026-08-06 | 21.345 | 🌗 | Quarto minguante
+2026-08-13 |  0.733 | 🌑 | Lua nova
+2026-08-20 |  7.422 | 🌓 | Quarto crescente
+2026-08-28 | 14.267 | 🌕 | Lua cheia
+2026-09-04 | 21.111 | 🌗 | Quarto minguante
+2026-09-11 |  0.345 | 🌑 | Lua nova
+2026-09-19 |  7.578 | 🌓 | Quarto crescente

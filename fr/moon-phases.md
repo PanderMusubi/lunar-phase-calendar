@@ -2,14 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2023-04-20 |  0.267 | 🌑 | Nouvelle lune
-2023-04-28 |  7.578 | 🌓 | Premier quartier
-2023-05-06 | 14.733 | 🌕 | Pleine lune
-2023-05-13 | 21.811 | 🌗 | Dernier quartier
-2023-05-20 |  0.811 | 🌑 | Nouvelle lune
-2023-05-28 |  7.733 | 🌓 | Premier quartier
-2023-06-04 | 14.345 | 🌕 | Pleine lune
-2023-06-11 | 21.656 | 🌗 | Dernier quartier
 2023-06-18 |  0.267 | 🌑 | Nouvelle lune
 2023-06-26 |  7.111 | 🌓 | Premier quartier
 2023-07-10 | 21.345 | 🌗 | Dernier quartier
@@ -155,3 +147,12 @@ Jour       | Phase  | Symbole | Nom
 2026-06-22 |  7.578 | 🌓 | Premier quartier
 2026-06-30 | 14.422 | 🌕 | Pleine lune
 2026-07-08 | 21.656 | 🌗 | Dernier quartier
+2026-07-21 |  7.111 | 🌓 | Premier quartier
+2026-07-30 | 14.811 | 🌕 | Pleine lune
+2026-08-06 | 21.345 | 🌗 | Dernier quartier
+2026-08-13 |  0.733 | 🌑 | Nouvelle lune
+2026-08-20 |  7.422 | 🌓 | Premier quartier
+2026-08-28 | 14.267 | 🌕 | Pleine lune
+2026-09-04 | 21.111 | 🌗 | Dernier quartier
+2026-09-11 |  0.345 | 🌑 | Nouvelle lune
+2026-09-19 |  7.578 | 🌓 | Premier quartier
