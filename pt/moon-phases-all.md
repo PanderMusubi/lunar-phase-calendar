@@ -2,13 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2023-06-16 | 26.478 | 🌘 | Lua minguante
-2023-06-17 | 27.411 | 🌘 | Lua minguante
-2023-06-18 |  0.267 | 🌑 | Lua nova
-2023-06-19 |  1.200 | 🌒 | Lua crescente
-2023-06-20 |  2.056 | 🌒 | Lua crescente
-2023-06-21 |  2.911 | 🌒 | Lua crescente
-2023-06-22 |  3.767 | 🌒 | Lua crescente
 2023-06-23 |  4.622 | 🌒 | Lua crescente
 2023-06-24 |  5.478 | 🌒 | Lua crescente
 2023-06-25 |  6.256 | 🌒 | Lua crescente
@@ -1194,3 +1187,10 @@ Dia        | Fase   | Símbolo | Nome
 2026-09-17 |  5.867 | 🌒 | Lua crescente
 2026-09-18 |  6.722 | 🌒 | Lua crescente
 2026-09-19 |  7.578 | 🌓 | Quarto crescente
+2026-09-20 |  8.433 | 🌔 | Lua crescente gibosa
+2026-09-21 |  9.289 | 🌔 | Lua crescente gibosa
+2026-09-22 | 10.145 | 🌔 | Lua crescente gibosa
+2026-09-23 | 11.000 | 🌔 | Lua crescente gibosa
+2026-09-24 | 11.933 | 🌔 | Lua crescente gibosa
+2026-09-25 | 12.867 | 🌔 | Lua crescente gibosa
+2026-09-26 | 13.800 | 🌔 | Lua crescente gibosa

@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Nieuwe maan
 2023-06-26 |  7.111 | 🌓 | Eerste kwartier
 2023-07-10 | 21.345 | 🌗 | Laatste kwartier
 2023-07-18 |  0.656 | 🌑 | Nieuwe maan

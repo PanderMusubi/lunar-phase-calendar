@@ -2,7 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Neumond
 2023-06-26 |  7.111 | 🌓 | Erstes Viertel
 2023-07-10 | 21.345 | 🌗 | Letztes Viertel
 2023-07-18 |  0.656 | 🌑 | Neumond

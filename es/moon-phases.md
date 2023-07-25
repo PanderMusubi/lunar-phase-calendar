@@ -2,7 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Luna nueva
 2023-06-26 |  7.111 | 🌓 | Cuarto creciente
 2023-07-10 | 21.345 | 🌗 | Cuarto menguante
 2023-07-18 |  0.656 | 🌑 | Luna nueva

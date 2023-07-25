@@ -2,7 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Luna nuova
 2023-06-26 |  7.111 | 🌓 | Primo quarto
 2023-07-10 | 21.345 | 🌗 | Ultimo quarto
 2023-07-18 |  0.656 | 🌑 | Luna nuova

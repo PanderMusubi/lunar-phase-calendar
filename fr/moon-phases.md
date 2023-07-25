@@ -2,7 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Nouvelle lune
 2023-06-26 |  7.111 | 🌓 | Premier quartier
 2023-07-10 | 21.345 | 🌗 | Dernier quartier
 2023-07-18 |  0.656 | 🌑 | Nouvelle lune

@@ -2,13 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2023-06-16 | 26.478 | 🌘 | Abnehmender Sichelmond
-2023-06-17 | 27.411 | 🌘 | Abnehmender Sichelmond
-2023-06-18 |  0.267 | 🌑 | Neumond
-2023-06-19 |  1.200 | 🌒 | Zunehmender Sichelmond
-2023-06-20 |  2.056 | 🌒 | Zunehmender Sichelmond
-2023-06-21 |  2.911 | 🌒 | Zunehmender Sichelmond
-2023-06-22 |  3.767 | 🌒 | Zunehmender Sichelmond
 2023-06-23 |  4.622 | 🌒 | Zunehmender Sichelmond
 2023-06-24 |  5.478 | 🌒 | Zunehmender Sichelmond
 2023-06-25 |  6.256 | 🌒 | Zunehmender Sichelmond
@@ -1194,3 +1187,10 @@ Tag        | Phase  | Symbole | Name
 2026-09-17 |  5.867 | 🌒 | Zunehmender Sichelmond
 2026-09-18 |  6.722 | 🌒 | Zunehmender Sichelmond
 2026-09-19 |  7.578 | 🌓 | Erstes Viertel
+2026-09-20 |  8.433 | 🌔 | Zunehmender Mond
+2026-09-21 |  9.289 | 🌔 | Zunehmender Mond
+2026-09-22 | 10.145 | 🌔 | Zunehmender Mond
+2026-09-23 | 11.000 | 🌔 | Zunehmender Mond
+2026-09-24 | 11.933 | 🌔 | Zunehmender Mond
+2026-09-25 | 12.867 | 🌔 | Zunehmender Mond
+2026-09-26 | 13.800 | 🌔 | Zunehmender Mond

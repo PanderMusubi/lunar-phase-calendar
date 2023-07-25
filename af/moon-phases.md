@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2023-06-18 |  0.267 | 🌑 | Donkermaan
 2023-06-26 |  7.111 | 🌓 | Eerste kwartier
 2023-07-10 | 21.345 | 🌗 | Laaste kwartier
 2023-07-18 |  0.656 | 🌑 | Donkermaan
