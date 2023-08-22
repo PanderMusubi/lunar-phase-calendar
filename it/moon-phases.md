@@ -2,9 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2023-06-26 |  7.111 | 🌓 | Primo quarto
-2023-07-10 | 21.345 | 🌗 | Ultimo quarto
-2023-07-18 |  0.656 | 🌑 | Luna nuova
 2023-07-26 |  7.500 | 🌓 | Primo quarto
 2023-08-02 | 14.733 | 🌕 | Luna piena
 2023-08-08 | 21.033 | 🌗 | Ultimo quarto
@@ -155,3 +152,7 @@ Giorno     | Fase   | Simbolo | Nome
 2026-09-04 | 21.111 | 🌗 | Ultimo quarto
 2026-09-11 |  0.345 | 🌑 | Luna nuova
 2026-09-19 |  7.578 | 🌓 | Primo quarto
+2026-09-27 | 14.733 | 🌕 | Luna piena
+2026-10-04 | 21.889 | 🌗 | Ultimo quarto
+2026-10-11 |  0.811 | 🌑 | Luna nuova
+2026-10-19 |  7.733 | 🌓 | Primo quarto

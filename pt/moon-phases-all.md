@@ -2,34 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2023-06-23 |  4.622 | 🌒 | Lua crescente
-2023-06-24 |  5.478 | 🌒 | Lua crescente
-2023-06-25 |  6.256 | 🌒 | Lua crescente
-2023-06-26 |  7.111 | 🌓 | Quarto crescente
-2023-06-27 |  8.045 | 🌔 | Lua crescente gibosa
-2023-06-28 |  8.900 | 🌔 | Lua crescente gibosa
-2023-06-29 |  9.911 | 🌔 | Lua crescente gibosa
-2023-06-30 | 10.845 | 🌔 | Lua crescente gibosa
-2023-07-01 | 11.856 | 🌔 | Lua crescente gibosa
-2023-07-02 | 12.867 | 🌔 | Lua crescente gibosa
-2023-07-03 | 13.956 | 🌔 | Lua crescente gibosa
-2023-07-04 | 15.045 | 🌖 | Lua minguante gibosa
-2023-07-05 | 16.133 | 🌖 | Lua minguante gibosa
-2023-07-06 | 17.222 | 🌖 | Lua minguante gibosa
-2023-07-07 | 18.311 | 🌖 | Lua minguante gibosa
-2023-07-08 | 19.322 | 🌖 | Lua minguante gibosa
-2023-07-09 | 20.333 | 🌖 | Lua minguante gibosa
-2023-07-10 | 21.345 | 🌗 | Quarto minguante
-2023-07-11 | 22.356 | 🌘 | Lua minguante
-2023-07-12 | 23.289 | 🌘 | Lua minguante
-2023-07-13 | 24.222 | 🌘 | Lua minguante
-2023-07-14 | 25.156 | 🌘 | Lua minguante
-2023-07-15 | 26.089 | 🌘 | Lua minguante
-2023-07-16 | 26.945 | 🌘 | Lua minguante
-2023-07-17 | 27.800 | 🌘 | Lua minguante
-2023-07-18 |  0.656 | 🌑 | Lua nova
-2023-07-19 |  1.511 | 🌒 | Lua crescente
-2023-07-20 |  2.367 | 🌒 | Lua crescente
 2023-07-21 |  3.222 | 🌒 | Lua crescente
 2023-07-22 |  4.078 | 🌒 | Lua crescente
 2023-07-23 |  4.856 | 🌒 | Lua crescente
@@ -1194,3 +1166,31 @@ Dia        | Fase   | Símbolo | Nome
 2026-09-24 | 11.933 | 🌔 | Lua crescente gibosa
 2026-09-25 | 12.867 | 🌔 | Lua crescente gibosa
 2026-09-26 | 13.800 | 🌔 | Lua crescente gibosa
+2026-09-27 | 14.733 | 🌕 | Lua cheia
+2026-09-28 | 15.745 | 🌖 | Lua minguante gibosa
+2026-09-29 | 16.756 | 🌖 | Lua minguante gibosa
+2026-09-30 | 17.767 | 🌖 | Lua minguante gibosa
+2026-10-01 | 18.856 | 🌖 | Lua minguante gibosa
+2026-10-02 | 19.867 | 🌖 | Lua minguante gibosa
+2026-10-03 | 20.878 | 🌖 | Lua minguante gibosa
+2026-10-04 | 21.889 | 🌗 | Quarto minguante
+2026-10-05 | 22.900 | 🌘 | Lua minguante
+2026-10-06 | 23.911 | 🌘 | Lua minguante
+2026-10-07 | 24.922 | 🌘 | Lua minguante
+2026-10-08 | 25.933 | 🌘 | Lua minguante
+2026-10-09 | 26.867 | 🌘 | Lua minguante
+2026-10-10 | 27.878 | 🌘 | Lua minguante
+2026-10-11 |  0.811 | 🌑 | Lua nova
+2026-10-12 |  1.745 | 🌒 | Lua crescente
+2026-10-13 |  2.600 | 🌒 | Lua crescente
+2026-10-14 |  3.533 | 🌒 | Lua crescente
+2026-10-15 |  4.389 | 🌒 | Lua crescente
+2026-10-16 |  5.245 | 🌒 | Lua crescente
+2026-10-17 |  6.022 | 🌒 | Lua crescente
+2026-10-18 |  6.878 | 🌒 | Lua crescente
+2026-10-19 |  7.733 | 🌓 | Quarto crescente
+2026-10-20 |  8.589 | 🌔 | Lua crescente gibosa
+2026-10-21 |  9.445 | 🌔 | Lua crescente gibosa
+2026-10-22 | 10.378 | 🌔 | Lua crescente gibosa
+2026-10-23 | 11.311 | 🌔 | Lua crescente gibosa
+2026-10-24 | 12.245 | 🌔 | Lua crescente gibosa
