@@ -2,49 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2023-07-21 |  3.222 | 🌒 | Zunehmender Sichelmond
-2023-07-22 |  4.078 | 🌒 | Zunehmender Sichelmond
-2023-07-23 |  4.856 | 🌒 | Zunehmender Sichelmond
-2023-07-24 |  5.711 | 🌒 | Zunehmender Sichelmond
-2023-07-25 |  6.645 | 🌒 | Zunehmender Sichelmond
-2023-07-26 |  7.500 | 🌓 | Erstes Viertel
-2023-07-27 |  8.433 | 🌔 | Zunehmender Mond
-2023-07-28 |  9.445 | 🌔 | Zunehmender Mond
-2023-07-29 | 10.456 | 🌔 | Zunehmender Mond
-2023-07-30 | 11.467 | 🌔 | Zunehmender Mond
-2023-07-31 | 12.556 | 🌔 | Zunehmender Mond
-2023-08-01 | 13.645 | 🌔 | Zunehmender Mond
-2023-08-02 | 14.733 | 🌕 | Vollmond
-2023-08-03 | 15.822 | 🌖 | Abnehmender Mond
-2023-08-04 | 16.911 | 🌖 | Abnehmender Mond
-2023-08-05 | 18.000 | 🌖 | Abnehmender Mond
-2023-08-06 | 19.011 | 🌖 | Abnehmender Mond
-2023-08-07 | 20.022 | 🌖 | Abnehmender Mond
-2023-08-08 | 21.033 | 🌗 | Letztes Viertel
-2023-08-09 | 21.967 | 🌘 | Abnehmender Sichelmond
-2023-08-10 | 22.900 | 🌘 | Abnehmender Sichelmond
-2023-08-11 | 23.833 | 🌘 | Abnehmender Sichelmond
-2023-08-12 | 24.689 | 🌘 | Abnehmender Sichelmond
-2023-08-13 | 25.545 | 🌘 | Abnehmender Sichelmond
-2023-08-14 | 26.400 | 🌘 | Abnehmender Sichelmond
-2023-08-15 | 27.256 | 🌘 | Abnehmender Sichelmond
-2023-08-16 |  0.111 | 🌑 | Neumond
-2023-08-17 |  0.967 | 🌒 | Zunehmender Sichelmond
-2023-08-18 |  1.822 | 🌒 | Zunehmender Sichelmond
-2023-08-19 |  2.678 | 🌒 | Zunehmender Sichelmond
-2023-08-20 |  3.533 | 🌒 | Zunehmender Sichelmond
-2023-08-21 |  4.389 | 🌒 | Zunehmender Sichelmond
-2023-08-22 |  5.245 | 🌒 | Zunehmender Sichelmond
-2023-08-23 |  6.178 | 🌒 | Zunehmender Sichelmond
-2023-08-24 |  7.111 | 🌓 | Erstes Viertel
-2023-08-25 |  8.045 | 🌔 | Zunehmender Mond
-2023-08-26 |  9.056 | 🌔 | Zunehmender Mond
-2023-08-27 | 10.067 | 🌔 | Zunehmender Mond
-2023-08-28 | 11.078 | 🌔 | Zunehmender Mond
-2023-08-29 | 12.167 | 🌔 | Zunehmender Mond
-2023-08-30 | 13.256 | 🌔 | Zunehmender Mond
-2023-08-31 | 14.345 | 🌕 | Vollmond
-2023-09-01 | 15.433 | 🌖 | Abnehmender Mond
 2023-09-02 | 16.522 | 🌖 | Abnehmender Mond
 2023-09-03 | 17.611 | 🌖 | Abnehmender Mond
 2023-09-04 | 18.622 | 🌖 | Abnehmender Mond
@@ -1194,3 +1151,46 @@ Tag        | Phase  | Symbole | Name
 2026-10-22 | 10.378 | 🌔 | Zunehmender Mond
 2026-10-23 | 11.311 | 🌔 | Zunehmender Mond
 2026-10-24 | 12.245 | 🌔 | Zunehmender Mond
+2026-10-25 | 13.256 | 🌔 | Zunehmender Mond
+2026-10-26 | 14.267 | 🌕 | Vollmond
+2026-10-27 | 15.356 | 🌖 | Abnehmender Mond
+2026-10-28 | 16.367 | 🌖 | Abnehmender Mond
+2026-10-29 | 17.456 | 🌖 | Abnehmender Mond
+2026-10-30 | 18.467 | 🌖 | Abnehmender Mond
+2026-10-31 | 19.556 | 🌖 | Abnehmender Mond
+2026-11-01 | 20.567 | 🌖 | Abnehmender Mond
+2026-11-02 | 21.578 | 🌗 | Letztes Viertel
+2026-11-03 | 22.589 | 🌘 | Abnehmender Sichelmond
+2026-11-04 | 23.522 | 🌘 | Abnehmender Sichelmond
+2026-11-05 | 24.533 | 🌘 | Abnehmender Sichelmond
+2026-11-06 | 25.467 | 🌘 | Abnehmender Sichelmond
+2026-11-07 | 26.400 | 🌘 | Abnehmender Sichelmond
+2026-11-08 | 27.333 | 🌘 | Abnehmender Sichelmond
+2026-11-09 |  0.189 | 🌑 | Neumond
+2026-11-10 |  1.122 | 🌒 | Zunehmender Sichelmond
+2026-11-11 |  1.978 | 🌒 | Zunehmender Sichelmond
+2026-11-12 |  2.833 | 🌒 | Zunehmender Sichelmond
+2026-11-13 |  3.689 | 🌒 | Zunehmender Sichelmond
+2026-11-14 |  4.467 | 🌒 | Zunehmender Sichelmond
+2026-11-15 |  5.322 | 🌒 | Zunehmender Sichelmond
+2026-11-16 |  6.178 | 🌒 | Zunehmender Sichelmond
+2026-11-17 |  7.033 | 🌓 | Erstes Viertel
+2026-11-18 |  7.889 | 🌔 | Zunehmender Mond
+2026-11-19 |  8.822 | 🌔 | Zunehmender Mond
+2026-11-20 |  9.756 | 🌔 | Zunehmender Mond
+2026-11-21 | 10.689 | 🌔 | Zunehmender Mond
+2026-11-22 | 11.700 | 🌔 | Zunehmender Mond
+2026-11-23 | 12.711 | 🌔 | Zunehmender Mond
+2026-11-24 | 13.800 | 🌔 | Zunehmender Mond
+2026-11-25 | 14.889 | 🌕 | Vollmond
+2026-11-26 | 15.978 | 🌖 | Abnehmender Mond
+2026-11-27 | 17.067 | 🌖 | Abnehmender Mond
+2026-11-28 | 18.078 | 🌖 | Abnehmender Mond
+2026-11-29 | 19.167 | 🌖 | Abnehmender Mond
+2026-11-30 | 20.178 | 🌖 | Abnehmender Mond
+2026-12-01 | 21.189 | 🌗 | Letztes Viertel
+2026-12-02 | 22.200 | 🌘 | Abnehmender Sichelmond
+2026-12-03 | 23.133 | 🌘 | Abnehmender Sichelmond
+2026-12-04 | 24.067 | 🌘 | Abnehmender Sichelmond
+2026-12-05 | 24.922 | 🌘 | Abnehmender Sichelmond
+2026-12-06 | 25.856 | 🌘 | Abnehmender Sichelmond
