@@ -2,8 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Krimpende, vooruitspringende maan
-2023-09-03 | 17.611 | 🌖 | Krimpende, vooruitspringende maan
 2023-09-04 | 18.622 | 🌖 | Krimpende, vooruitspringende maan
 2023-09-05 | 19.633 | 🌖 | Krimpende, vooruitspringende maan
 2023-09-06 | 20.645 | 🌖 | Krimpende, vooruitspringende maan
@@ -1194,3 +1192,5 @@ Dag        | Fase   | Symbool | Naam
 2026-12-04 | 24.067 | 🌘 | Krimpende, sikkelvormige maan
 2026-12-05 | 24.922 | 🌘 | Krimpende, sikkelvormige maan
 2026-12-06 | 25.856 | 🌘 | Krimpende, sikkelvormige maan
+2026-12-07 | 26.711 | 🌘 | Krimpende, sikkelvormige maan
+2026-12-08 | 27.567 | 🌘 | Krimpende, sikkelvormige maan

@@ -2,8 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Abnehmender Mond
-2023-09-03 | 17.611 | 🌖 | Abnehmender Mond
 2023-09-04 | 18.622 | 🌖 | Abnehmender Mond
 2023-09-05 | 19.633 | 🌖 | Abnehmender Mond
 2023-09-06 | 20.645 | 🌖 | Abnehmender Mond
@@ -1194,3 +1192,5 @@ Tag        | Phase  | Symbole | Name
 2026-12-04 | 24.067 | 🌘 | Abnehmender Sichelmond
 2026-12-05 | 24.922 | 🌘 | Abnehmender Sichelmond
 2026-12-06 | 25.856 | 🌘 | Abnehmender Sichelmond
+2026-12-07 | 26.711 | 🌘 | Abnehmender Sichelmond
+2026-12-08 | 27.567 | 🌘 | Abnehmender Sichelmond

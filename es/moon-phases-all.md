@@ -2,8 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Luna menguante gibosa
-2023-09-03 | 17.611 | 🌖 | Luna menguante gibosa
 2023-09-04 | 18.622 | 🌖 | Luna menguante gibosa
 2023-09-05 | 19.633 | 🌖 | Luna menguante gibosa
 2023-09-06 | 20.645 | 🌖 | Luna menguante gibosa
@@ -1194,3 +1192,5 @@ Día        | Fase   | Símbolo | Nombre
 2026-12-04 | 24.067 | 🌘 | Luna menguante
 2026-12-05 | 24.922 | 🌘 | Luna menguante
 2026-12-06 | 25.856 | 🌘 | Luna menguante
+2026-12-07 | 26.711 | 🌘 | Luna menguante
+2026-12-08 | 27.567 | 🌘 | Luna menguante

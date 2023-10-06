@@ -2,8 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Lune gibbeuse décroissante
-2023-09-03 | 17.611 | 🌖 | Lune gibbeuse décroissante
 2023-09-04 | 18.622 | 🌖 | Lune gibbeuse décroissante
 2023-09-05 | 19.633 | 🌖 | Lune gibbeuse décroissante
 2023-09-06 | 20.645 | 🌖 | Lune gibbeuse décroissante
@@ -1194,3 +1192,5 @@ Jour       | Phase  | Symbole | Nom
 2026-12-04 | 24.067 | 🌘 | Dernier croissant
 2026-12-05 | 24.922 | 🌘 | Dernier croissant
 2026-12-06 | 25.856 | 🌘 | Dernier croissant
+2026-12-07 | 26.711 | 🌘 | Dernier croissant
+2026-12-08 | 27.567 | 🌘 | Dernier croissant

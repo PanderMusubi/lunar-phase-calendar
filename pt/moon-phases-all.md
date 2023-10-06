@@ -2,8 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Lua minguante gibosa
-2023-09-03 | 17.611 | 🌖 | Lua minguante gibosa
 2023-09-04 | 18.622 | 🌖 | Lua minguante gibosa
 2023-09-05 | 19.633 | 🌖 | Lua minguante gibosa
 2023-09-06 | 20.645 | 🌖 | Lua minguante gibosa
@@ -1194,3 +1192,5 @@ Dia        | Fase   | Símbolo | Nome
 2026-12-04 | 24.067 | 🌘 | Lua minguante
 2026-12-05 | 24.922 | 🌘 | Lua minguante
 2026-12-06 | 25.856 | 🌘 | Lua minguante
+2026-12-07 | 26.711 | 🌘 | Lua minguante
+2026-12-08 | 27.567 | 🌘 | Lua minguante

@@ -2,8 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Afnemende bolmaan
-2023-09-03 | 17.611 | 🌖 | Afnemende bolmaan
 2023-09-04 | 18.622 | 🌖 | Afnemende bolmaan
 2023-09-05 | 19.633 | 🌖 | Afnemende bolmaan
 2023-09-06 | 20.645 | 🌖 | Afnemende bolmaan
@@ -1194,3 +1192,5 @@ Dag        | Fase   | Simbool | Naam
 2026-12-04 | 24.067 | 🌘 | Afnemende sekelmaan
 2026-12-05 | 24.922 | 🌘 | Afnemende sekelmaan
 2026-12-06 | 25.856 | 🌘 | Afnemende sekelmaan
+2026-12-07 | 26.711 | 🌘 | Afnemende sekelmaan
+2026-12-08 | 27.567 | 🌘 | Afnemende sekelmaan

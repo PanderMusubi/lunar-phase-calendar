@@ -2,8 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2023-09-02 | 16.522 | 🌖 | Waning gibbous
-2023-09-03 | 17.611 | 🌖 | Waning gibbous
 2023-09-04 | 18.622 | 🌖 | Waning gibbous
 2023-09-05 | 19.633 | 🌖 | Waning gibbous
 2023-09-06 | 20.645 | 🌖 | Waning gibbous
@@ -1194,3 +1192,5 @@ Day        | Phase  | Symbol | Name
 2026-12-04 | 24.067 | 🌘 | Waning crescent
 2026-12-05 | 24.922 | 🌘 | Waning crescent
 2026-12-06 | 25.856 | 🌘 | Waning crescent
+2026-12-07 | 26.711 | 🌘 | Waning crescent
+2026-12-08 | 27.567 | 🌘 | Waning crescent
