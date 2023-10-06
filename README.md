@@ -55,6 +55,13 @@ app store. Do **not** use software that can only import ICS files.
 
 ## Using ICS Files in Calendar Software
 
+First, choose the ICS calender file on GitHub you would like to add to your
+calendar software. Browse under Code to e.g. `en` and choose e.g.
+`full-moon.ics`. Then, click on the button called Raw and you will go to the URL
+for this calendar. For this example,
+`https://raw.githubusercontent.com/PanderMusubi/lunar-phase-calendar/master/en/full-moon.ics`
+will be the URL.
+
 After you have copied the URL of an ICS file, please paste this in your calendar
 software when adding a (read-only) online network or ICS calendar. Sometimes
 this is called to subscribe to a calendar. Usually you can choose how often
