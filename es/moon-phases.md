@@ -5,6 +5,7 @@ Día        | Fase   | Símbolo | Nombre
 2023-09-07 | 21.578 | 🌗 | Cuarto menguante
 2023-09-15 |  0.422 | 🌑 | Luna nueva
 2023-09-23 |  7.656 | 🌓 | Cuarto creciente
+2023-09-30 | 15.045 | 🌕 | Luna llena
 2023-10-07 | 21.889 | 🌗 | Cuarto menguante
 2023-10-15 |  0.656 | 🌑 | Luna nueva
 2023-10-22 |  7.345 | 🌓 | Cuarto creciente
@@ -56,6 +57,7 @@ Día        | Fase   | Símbolo | Nombre
 2024-09-25 | 21.656 | 🌗 | Cuarto menguante
 2024-10-03 |  0.656 | 🌑 | Luna nueva
 2024-10-11 |  7.656 | 🌓 | Cuarto creciente
+2024-10-18 | 15.045 | 🌕 | Luna llena
 2024-10-24 | 21.189 | 🌗 | Cuarto menguante
 2024-11-01 |  0.033 | 🌑 | Luna nueva
 2024-11-09 |  7.267 | 🌓 | Cuarto creciente
@@ -77,6 +79,7 @@ Día        | Fase   | Símbolo | Nombre
 2025-03-07 |  7.733 | 🌓 | Cuarto creciente
 2025-03-14 | 14.189 | 🌕 | Luna llena
 2025-03-22 | 21.033 | 🌗 | Cuarto menguante
+2025-03-30 |  1.045 | 🌑 | Luna nueva
 2025-04-05 |  7.345 | 🌓 | Cuarto creciente
 2025-04-13 | 14.422 | 🌕 | Luna llena
 2025-04-21 | 21.345 | 🌗 | Cuarto menguante
@@ -88,6 +91,7 @@ Día        | Fase   | Símbolo | Nombre
 2025-06-03 |  7.345 | 🌓 | Cuarto creciente
 2025-06-11 | 14.189 | 🌕 | Luna llena
 2025-06-19 | 21.656 | 🌗 | Cuarto menguante
+2025-06-26 |  1.045 | 🌑 | Luna nueva
 2025-07-03 |  7.656 | 🌓 | Cuarto creciente
 2025-07-11 | 14.578 | 🌕 | Luna llena
 2025-07-18 | 21.422 | 🌗 | Cuarto menguante
@@ -113,6 +117,7 @@ Día        | Fase   | Símbolo | Nombre
 2025-12-12 | 21.578 | 🌗 | Cuarto menguante
 2025-12-20 |  0.422 | 🌑 | Luna nueva
 2025-12-28 |  7.656 | 🌓 | Cuarto creciente
+2026-01-04 | 15.045 | 🌕 | Luna llena
 2026-01-11 | 21.811 | 🌗 | Cuarto menguante
 2026-01-19 |  0.578 | 🌑 | Luna nueva
 2026-01-26 |  7.267 | 🌓 | Cuarto creciente
@@ -126,6 +131,7 @@ Día        | Fase   | Símbolo | Nombre
 2026-03-26 |  7.656 | 🌓 | Cuarto creciente
 2026-04-02 | 14.422 | 🌕 | Luna llena
 2026-04-10 | 21.267 | 🌗 | Cuarto menguante
+2026-04-18 |  1.045 | 🌑 | Luna nueva
 2026-04-24 |  7.345 | 🌓 | Cuarto creciente
 2026-05-02 | 14.733 | 🌕 | Luna llena
 2026-05-10 | 21.500 | 🌗 | Cuarto menguante
@@ -137,6 +143,7 @@ Día        | Fase   | Símbolo | Nombre
 2026-06-22 |  7.578 | 🌓 | Cuarto creciente
 2026-06-30 | 14.422 | 🌕 | Luna llena
 2026-07-08 | 21.656 | 🌗 | Cuarto menguante
+2026-07-15 |  1.045 | 🌑 | Luna nueva
 2026-07-21 |  7.111 | 🌓 | Cuarto creciente
 2026-07-30 | 14.811 | 🌕 | Luna llena
 2026-08-06 | 21.345 | 🌗 | Cuarto menguante

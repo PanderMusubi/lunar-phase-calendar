@@ -56,14 +56,18 @@ def day_to_moon_phase_and_accurate_code(day):
     phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
-    if code_today % 2 != 0:
-        return phase_today, code_today
-
     phase_yesterday = phase(day - timedelta(days=1))
     code_yesterday = moon_phase_to_inacurate_code(phase_yesterday)
 
+    if (code_today - code_yesterday) % 8 > 1:
+        # skipped one code, hence do correction
+        return phase_today, (code_today - 1) % 8
+
+    if code_today % 2 != 0:
+        return phase_today, code_today
+
     if code_today == code_yesterday:
-        return phase_today, code_today + 1
+        return phase_today, (code_today + 1) % 8
 
     return phase_today, code_today
 

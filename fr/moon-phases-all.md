@@ -28,7 +28,7 @@ Jour       | Phase  | Symbole | Nom
 2023-09-27 | 11.856 | 🌔 | Lune gibbeuse croissante
 2023-09-28 | 12.867 | 🌔 | Lune gibbeuse croissante
 2023-09-29 | 13.956 | 🌔 | Lune gibbeuse croissante
-2023-09-30 | 15.045 | 🌖 | Lune gibbeuse décroissante
+2023-09-30 | 15.045 | 🌕 | Pleine lune
 2023-10-01 | 16.133 | 🌖 | Lune gibbeuse décroissante
 2023-10-02 | 17.145 | 🌖 | Lune gibbeuse décroissante
 2023-10-03 | 18.156 | 🌖 | Lune gibbeuse décroissante
@@ -412,7 +412,7 @@ Jour       | Phase  | Symbole | Nom
 2024-10-15 | 11.778 | 🌔 | Lune gibbeuse croissante
 2024-10-16 | 12.867 | 🌔 | Lune gibbeuse croissante
 2024-10-17 | 13.956 | 🌔 | Lune gibbeuse croissante
-2024-10-18 | 15.045 | 🌖 | Lune gibbeuse décroissante
+2024-10-18 | 15.045 | 🌕 | Pleine lune
 2024-10-19 | 16.133 | 🌖 | Lune gibbeuse décroissante
 2024-10-20 | 17.145 | 🌖 | Lune gibbeuse décroissante
 2024-10-21 | 18.233 | 🌖 | Lune gibbeuse décroissante
@@ -575,7 +575,7 @@ Jour       | Phase  | Symbole | Nom
 2025-03-27 | 25.856 | 🌘 | Dernier croissant
 2025-03-28 | 26.945 | 🌘 | Dernier croissant
 2025-03-29 | 27.956 | 🌘 | Dernier croissant
-2025-03-30 |  1.045 | 🌒 | Premier croissant
+2025-03-30 |  1.045 | 🌑 | Nouvelle lune
 2025-03-31 |  2.211 | 🌒 | Premier croissant
 2025-04-01 |  3.222 | 🌒 | Premier croissant
 2025-04-02 |  4.311 | 🌒 | Premier croissant
@@ -663,7 +663,7 @@ Jour       | Phase  | Symbole | Nom
 2025-06-23 | 25.856 | 🌘 | Dernier croissant
 2025-06-24 | 26.945 | 🌘 | Dernier croissant
 2025-06-25 | 27.956 | 🌘 | Dernier croissant
-2025-06-26 |  1.045 | 🌒 | Premier croissant
+2025-06-26 |  1.045 | 🌑 | Nouvelle lune
 2025-06-27 |  2.056 | 🌒 | Premier croissant
 2025-06-28 |  3.067 | 🌒 | Premier croissant
 2025-06-29 |  4.078 | 🌒 | Premier croissant
@@ -855,7 +855,7 @@ Jour       | Phase  | Symbole | Nom
 2026-01-01 | 11.856 | 🌔 | Lune gibbeuse croissante
 2026-01-02 | 12.945 | 🌔 | Lune gibbeuse croissante
 2026-01-03 | 13.956 | 🌔 | Lune gibbeuse croissante
-2026-01-04 | 15.045 | 🌖 | Lune gibbeuse décroissante
+2026-01-04 | 15.045 | 🌕 | Pleine lune
 2026-01-05 | 16.133 | 🌖 | Lune gibbeuse décroissante
 2026-01-06 | 17.145 | 🌖 | Lune gibbeuse décroissante
 2026-01-07 | 18.156 | 🌖 | Lune gibbeuse décroissante
@@ -959,7 +959,7 @@ Jour       | Phase  | Symbole | Nom
 2026-04-15 | 25.933 | 🌘 | Dernier croissant
 2026-04-16 | 26.945 | 🌘 | Dernier croissant
 2026-04-17 | 27.956 | 🌘 | Dernier croissant
-2026-04-18 |  1.045 | 🌒 | Premier croissant
+2026-04-18 |  1.045 | 🌑 | Nouvelle lune
 2026-04-19 |  2.133 | 🌒 | Premier croissant
 2026-04-20 |  3.145 | 🌒 | Premier croissant
 2026-04-21 |  4.233 | 🌒 | Premier croissant
@@ -1047,7 +1047,7 @@ Jour       | Phase  | Symbole | Nom
 2026-07-12 | 25.778 | 🌘 | Dernier croissant
 2026-07-13 | 26.867 | 🌘 | Dernier croissant
 2026-07-14 | 27.956 | 🌘 | Dernier croissant
-2026-07-15 |  1.045 | 🌒 | Premier croissant
+2026-07-15 |  1.045 | 🌑 | Nouvelle lune
 2026-07-16 |  2.133 | 🌒 | Premier croissant
 2026-07-17 |  3.222 | 🌒 | Premier croissant
 2026-07-18 |  4.233 | 🌒 | Premier croissant

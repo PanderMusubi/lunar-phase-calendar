@@ -28,7 +28,7 @@ Day        | Phase  | Symbol | Name
 2023-09-27 | 11.856 | 🌔 | Waxing gibbous
 2023-09-28 | 12.867 | 🌔 | Waxing gibbous
 2023-09-29 | 13.956 | 🌔 | Waxing gibbous
-2023-09-30 | 15.045 | 🌖 | Waning gibbous
+2023-09-30 | 15.045 | 🌕 | Full moon
 2023-10-01 | 16.133 | 🌖 | Waning gibbous
 2023-10-02 | 17.145 | 🌖 | Waning gibbous
 2023-10-03 | 18.156 | 🌖 | Waning gibbous
@@ -412,7 +412,7 @@ Day        | Phase  | Symbol | Name
 2024-10-15 | 11.778 | 🌔 | Waxing gibbous
 2024-10-16 | 12.867 | 🌔 | Waxing gibbous
 2024-10-17 | 13.956 | 🌔 | Waxing gibbous
-2024-10-18 | 15.045 | 🌖 | Waning gibbous
+2024-10-18 | 15.045 | 🌕 | Full moon
 2024-10-19 | 16.133 | 🌖 | Waning gibbous
 2024-10-20 | 17.145 | 🌖 | Waning gibbous
 2024-10-21 | 18.233 | 🌖 | Waning gibbous
@@ -575,7 +575,7 @@ Day        | Phase  | Symbol | Name
 2025-03-27 | 25.856 | 🌘 | Waning crescent
 2025-03-28 | 26.945 | 🌘 | Waning crescent
 2025-03-29 | 27.956 | 🌘 | Waning crescent
-2025-03-30 |  1.045 | 🌒 | Waxing crescent
+2025-03-30 |  1.045 | 🌑 | New moon
 2025-03-31 |  2.211 | 🌒 | Waxing crescent
 2025-04-01 |  3.222 | 🌒 | Waxing crescent
 2025-04-02 |  4.311 | 🌒 | Waxing crescent
@@ -663,7 +663,7 @@ Day        | Phase  | Symbol | Name
 2025-06-23 | 25.856 | 🌘 | Waning crescent
 2025-06-24 | 26.945 | 🌘 | Waning crescent
 2025-06-25 | 27.956 | 🌘 | Waning crescent
-2025-06-26 |  1.045 | 🌒 | Waxing crescent
+2025-06-26 |  1.045 | 🌑 | New moon
 2025-06-27 |  2.056 | 🌒 | Waxing crescent
 2025-06-28 |  3.067 | 🌒 | Waxing crescent
 2025-06-29 |  4.078 | 🌒 | Waxing crescent
@@ -855,7 +855,7 @@ Day        | Phase  | Symbol | Name
 2026-01-01 | 11.856 | 🌔 | Waxing gibbous
 2026-01-02 | 12.945 | 🌔 | Waxing gibbous
 2026-01-03 | 13.956 | 🌔 | Waxing gibbous
-2026-01-04 | 15.045 | 🌖 | Waning gibbous
+2026-01-04 | 15.045 | 🌕 | Full moon
 2026-01-05 | 16.133 | 🌖 | Waning gibbous
 2026-01-06 | 17.145 | 🌖 | Waning gibbous
 2026-01-07 | 18.156 | 🌖 | Waning gibbous
@@ -959,7 +959,7 @@ Day        | Phase  | Symbol | Name
 2026-04-15 | 25.933 | 🌘 | Waning crescent
 2026-04-16 | 26.945 | 🌘 | Waning crescent
 2026-04-17 | 27.956 | 🌘 | Waning crescent
-2026-04-18 |  1.045 | 🌒 | Waxing crescent
+2026-04-18 |  1.045 | 🌑 | New moon
 2026-04-19 |  2.133 | 🌒 | Waxing crescent
 2026-04-20 |  3.145 | 🌒 | Waxing crescent
 2026-04-21 |  4.233 | 🌒 | Waxing crescent
@@ -1047,7 +1047,7 @@ Day        | Phase  | Symbol | Name
 2026-07-12 | 25.778 | 🌘 | Waning crescent
 2026-07-13 | 26.867 | 🌘 | Waning crescent
 2026-07-14 | 27.956 | 🌘 | Waning crescent
-2026-07-15 |  1.045 | 🌒 | Waxing crescent
+2026-07-15 |  1.045 | 🌑 | New moon
 2026-07-16 |  2.133 | 🌒 | Waxing crescent
 2026-07-17 |  3.222 | 🌒 | Waxing crescent
 2026-07-18 |  4.233 | 🌒 | Waxing crescent
