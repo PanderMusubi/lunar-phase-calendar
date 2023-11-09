@@ -1,23 +1,23 @@
 {
-  "en": [
-    "New moon",
-    "Waxing crescent",
-    "First quarter",
-    "Waxing gibbous",
-    "Full moon",
-    "Waning gibbous",
-    "Last quarter",
-    "Waning crescent"
-  ],
-  "nl": [
-    "Nieuwe maan",
-    "Wassende, sikkelvormige maan",
+  "af": [
+    "Donkermaan",
+    "Groeiende sekelmaan",
     "Eerste kwartier",
-    "Wassende,vooruitspringende maan",
-    "Volle maan",
-    "Krimpende, vooruitspringende maan",
-    "Laatste kwartier",
-    "Krimpende, sikkelvormige maan"
+    "Groeiende bolmaan",
+    "Volmaan",
+    "Afnemende bolmaan",
+    "Laaste kwartier",
+    "Afnemende sekelmaan"
+  ],
+  "ca": [
+    "Lluna nova",
+    "Lluna nova visible",
+    "Cuart creixent",
+    "Lluna gibosa creixent",
+    "Lluna plena",
+    "Lluna gibosa minvant",
+    "Cuarto minvant",
+    "Lluna minvant"
   ],
   "de": [
     "Neumond",
@@ -29,15 +29,15 @@
     "Letztes Viertel",
     "Abnehmender Sichelmond"
   ],
-  "fr": [
-    "Nouvelle lune",
-    "Premier croissant",
-    "Premier quartier",
-    "Lune gibbeuse croissante",
-    "Pleine lune",
-    "Lune gibbeuse décroissante",
-    "Dernier quartier",
-    "Dernier croissant"
+  "en": [
+    "New moon",
+    "Waxing crescent",
+    "First quarter",
+    "Waxing gibbous",
+    "Full moon",
+    "Waning gibbous",
+    "Last quarter",
+    "Waning crescent"
   ],
   "es": [
     "Luna nueva",
@@ -49,15 +49,15 @@
     "Cuarto menguante",
     "Luna menguante"
   ],
-  "pt": [
-    "Lua nova",
-    "Lua crescente",
-    "Quarto crescente",
-    "Lua crescente gibosa",
-    "Lua cheia",
-    "Lua minguante gibosa",
-    "Quarto minguante",
-    "Lua minguante"
+  "fr": [
+    "Nouvelle lune",
+    "Premier croissant",
+    "Premier quartier",
+    "Lune gibbeuse croissante",
+    "Pleine lune",
+    "Lune gibbeuse décroissante",
+    "Dernier quartier",
+    "Dernier croissant"
   ],
   "it": [
     "Luna nuova",
@@ -69,15 +69,25 @@
     "Ultimo quarto",
     "Luna calante"
   ],
-  "af": [
-    "Donkermaan",
-    "Groeiende sekelmaan",
+  "nl": [
+    "Nieuwe maan",
+    "Wassende, sikkelvormige maan",
     "Eerste kwartier",
-    "Groeiende bolmaan",
-    "Volmaan",
-    "Afnemende bolmaan",
-    "Laaste kwartier",
-    "Afnemende sekelmaan"
+    "Wassende,vooruitspringende maan",
+    "Volle maan",
+    "Krimpende, vooruitspringende maan",
+    "Laatste kwartier",
+    "Krimpende, sikkelvormige maan"
+  ],
+  "pt": [
+    "Lua nova",
+    "Lua crescente",
+    "Quarto crescente",
+    "Lua crescente gibosa",
+    "Lua cheia",
+    "Lua minguante gibosa",
+    "Quarto minguante",
+    "Lua minguante"
   ],
   "ru": [
     "Новолуние",
