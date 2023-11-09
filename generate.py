@@ -101,8 +101,8 @@ def write_files(lang='en'):
     ics_full = open('full-moon.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
 
     # write headers
-    tsv_header = f'# {header[lang][0].ljust(10)}\t# {header[lang][1]}\t#'
-    f' {header[lang][2]}\t# {header[lang][3]}\n'
+    tsv_header = f'# {header[lang][0].ljust(10)}\t# {header[lang][1]}\t#' \
+        f' {header[lang][2]}\t# {header[lang][3]}\n'
     tsv_header_short = f'# {header[lang][0]}\t# {header[lang][1]}\n'
     tsv.write(tsv_header)
     tsv_all.write(tsv_header)
