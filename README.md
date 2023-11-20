@@ -71,10 +71,15 @@ Emoji support moon phases, hence the following Unicode characters are use in the
 
 Generate a new calendar by installing the required package with
 
-    pip install -U astral
+    pip install -Ur requirements/use.txt
 
 and run
 
     ./generate.py
+
+For developement purposes and before running `lint.sh`, do
+
+    sudo apt-get -y install devscripts
+    pip install -Ur requirements/dev.txt
 
 The lunar phase data used here is from the Python package [astral](https://astral.readthedocs.io/en/latest/index.html#moon). Its maintainer made a in the documentation of it a reference back to this project as a showcase of it usage. Many thanks for this.

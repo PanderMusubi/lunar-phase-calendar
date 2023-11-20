@@ -18,6 +18,7 @@ header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pyli
 # explicitely capitalize with title() all words
 titles = ('en', 'pt')
 
+
 def moon_phase_code_to_name(code, lang='en'):
     '''Converts moon phase code to name.'''
     return moon_phase_names[lang][code]
@@ -79,10 +80,10 @@ def write_files(lang='en'):
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
 
     # event UID
-    uid_format='UID:%(date)s-%(pid)d-%(seq)04d-%(lang)s@%(domain)s\n'
+    uid_format = 'UID:%(date)s-%(pid)d-%(seq)04d-%(lang)s@%(domain)s\n'
     uid_replace_values = {
         'date': dtstamp,
-        'pid':  getpid(),
+        'pid': getpid(),
         'domain': getfqdn()
     }
     event_seq = 1
@@ -170,22 +171,22 @@ def write_files(lang='en'):
                                                      symbol,
                                                      name))
         mkd_all.write('{} | {:6.3f} | {} | {}\n'.format(day,
-                                                       phase,
-                                                       symbol,
-                                                       name))
+                                                        phase,
+                                                        symbol,
+                                                        name))
         if code % 2 == 0:
             tsv.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,
                                                      phase,
                                                      symbol,
                                                      name))
             mkd.write('{} | {:6.3f} | {} | {}\n'.format(day,
-                                                       phase,
-                                                       symbol,
-                                                       name))
+                                                        phase,
+                                                        symbol,
+                                                        name))
             ics.write(f'{event_header.strip()}{symbol} {name}\n')
             ics.write(uid_format % (dict(
-                list(uid_replace_values.items()) +
-                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl',
+                                                         'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
@@ -198,8 +199,8 @@ def write_files(lang='en'):
             mkd_new.write('{} | {:6.3f}\n'.format(day, phase,))
             ics_new.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_new.write(uid_format % (dict(
-                list(uid_replace_values.items()) +
-                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl',
+                                                         'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
@@ -212,8 +213,8 @@ def write_files(lang='en'):
             mkd_full.write('{} | {:6.3f}\n'.format(day, phase,))
             ics_full.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_full.write(uid_format % (dict(
-                list(uid_replace_values.items()) +
-                list({ 'lang': 'nl', 'seq': event_seq }.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl',
+                                                         'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
@@ -228,6 +229,7 @@ def write_files(lang='en'):
         ics_new.write(line)
         ics_full.write(line)
 
+
 def generate():
     '''Generate files.'''
     for language in sorted(header.keys()):
@@ -236,6 +238,7 @@ def generate():
         chdir(language)
         write_files(language)
         chdir('..')
+
 
 if __name__ == '__main__':
     generate()

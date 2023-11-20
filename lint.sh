@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# sudo apt-get -y install devscripts
 checkbashisms *.sh
-
-# pip install -U pylint pyflakes mypy
+flake8 --ignore E501 *.py
 pylint *.py
 pyflakes *.py
-mypy --ignore-missing-imports *.py
+mypy  *.py

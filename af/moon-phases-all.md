@@ -2,17 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2023-10-08 | 22.745 | 🌘 | Afnemende sekelmaan
-2023-10-09 | 23.522 | 🌘 | Afnemende sekelmaan
-2023-10-10 | 24.378 | 🌘 | Afnemende sekelmaan
-2023-10-11 | 25.233 | 🌘 | Afnemende sekelmaan
-2023-10-12 | 26.089 | 🌘 | Afnemende sekelmaan
-2023-10-13 | 26.945 | 🌘 | Afnemende sekelmaan
-2023-10-14 | 27.800 | 🌘 | Afnemende sekelmaan
-2023-10-15 |  0.656 | 🌑 | Donkermaan
-2023-10-16 |  1.589 | 🌒 | Groeiende sekelmaan
-2023-10-17 |  2.522 | 🌒 | Groeiende sekelmaan
-2023-10-18 |  3.456 | 🌒 | Groeiende sekelmaan
 2023-10-19 |  4.389 | 🌒 | Groeiende sekelmaan
 2023-10-20 |  5.322 | 🌒 | Groeiende sekelmaan
 2023-10-21 |  6.333 | 🌒 | Groeiende sekelmaan
@@ -1194,3 +1183,14 @@ Dag        | Fase   | Simbool | Naam
 2027-01-09 |  1.433 | 🌒 | Groeiende sekelmaan
 2027-01-10 |  2.289 | 🌒 | Groeiende sekelmaan
 2027-01-11 |  3.145 | 🌒 | Groeiende sekelmaan
+2027-01-12 |  4.000 | 🌒 | Groeiende sekelmaan
+2027-01-13 |  4.856 | 🌒 | Groeiende sekelmaan
+2027-01-14 |  5.711 | 🌒 | Groeiende sekelmaan
+2027-01-15 |  6.645 | 🌒 | Groeiende sekelmaan
+2027-01-16 |  7.656 | 🌓 | Eerste kwartier
+2027-01-17 |  8.589 | 🌔 | Groeiende bolmaan
+2027-01-18 |  9.600 | 🌔 | Groeiende bolmaan
+2027-01-19 | 10.689 | 🌔 | Groeiende bolmaan
+2027-01-20 | 11.700 | 🌔 | Groeiende bolmaan
+2027-01-21 | 12.789 | 🌔 | Groeiende bolmaan
+2027-01-22 | 13.878 | 🌔 | Groeiende bolmaan

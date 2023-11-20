@@ -2,17 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2023-10-08 | 22.745 | 🌘 | Luna menguante
-2023-10-09 | 23.522 | 🌘 | Luna menguante
-2023-10-10 | 24.378 | 🌘 | Luna menguante
-2023-10-11 | 25.233 | 🌘 | Luna menguante
-2023-10-12 | 26.089 | 🌘 | Luna menguante
-2023-10-13 | 26.945 | 🌘 | Luna menguante
-2023-10-14 | 27.800 | 🌘 | Luna menguante
-2023-10-15 |  0.656 | 🌑 | Luna nueva
-2023-10-16 |  1.589 | 🌒 | Luna creciente
-2023-10-17 |  2.522 | 🌒 | Luna creciente
-2023-10-18 |  3.456 | 🌒 | Luna creciente
 2023-10-19 |  4.389 | 🌒 | Luna creciente
 2023-10-20 |  5.322 | 🌒 | Luna creciente
 2023-10-21 |  6.333 | 🌒 | Luna creciente
@@ -1194,3 +1183,14 @@ Día        | Fase   | Símbolo | Nombre
 2027-01-09 |  1.433 | 🌒 | Luna creciente
 2027-01-10 |  2.289 | 🌒 | Luna creciente
 2027-01-11 |  3.145 | 🌒 | Luna creciente
+2027-01-12 |  4.000 | 🌒 | Luna creciente
+2027-01-13 |  4.856 | 🌒 | Luna creciente
+2027-01-14 |  5.711 | 🌒 | Luna creciente
+2027-01-15 |  6.645 | 🌒 | Luna creciente
+2027-01-16 |  7.656 | 🌓 | Cuarto creciente
+2027-01-17 |  8.589 | 🌔 | Luna creciente gibosa
+2027-01-18 |  9.600 | 🌔 | Luna creciente gibosa
+2027-01-19 | 10.689 | 🌔 | Luna creciente gibosa
+2027-01-20 | 11.700 | 🌔 | Luna creciente gibosa
+2027-01-21 | 12.789 | 🌔 | Luna creciente gibosa
+2027-01-22 | 13.878 | 🌔 | Luna creciente gibosa

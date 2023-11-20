@@ -2,17 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2023-10-08 | 22.745 | 🌘 | Lluna minvant
-2023-10-09 | 23.522 | 🌘 | Lluna minvant
-2023-10-10 | 24.378 | 🌘 | Lluna minvant
-2023-10-11 | 25.233 | 🌘 | Lluna minvant
-2023-10-12 | 26.089 | 🌘 | Lluna minvant
-2023-10-13 | 26.945 | 🌘 | Lluna minvant
-2023-10-14 | 27.800 | 🌘 | Lluna minvant
-2023-10-15 |  0.656 | 🌑 | Lluna nova
-2023-10-16 |  1.589 | 🌒 | Lluna nova visible
-2023-10-17 |  2.522 | 🌒 | Lluna nova visible
-2023-10-18 |  3.456 | 🌒 | Lluna nova visible
 2023-10-19 |  4.389 | 🌒 | Lluna nova visible
 2023-10-20 |  5.322 | 🌒 | Lluna nova visible
 2023-10-21 |  6.333 | 🌒 | Lluna nova visible
@@ -1194,3 +1183,14 @@ Dia        | Fase   | Símbol | Nom
 2027-01-09 |  1.433 | 🌒 | Lluna nova visible
 2027-01-10 |  2.289 | 🌒 | Lluna nova visible
 2027-01-11 |  3.145 | 🌒 | Lluna nova visible
+2027-01-12 |  4.000 | 🌒 | Lluna nova visible
+2027-01-13 |  4.856 | 🌒 | Lluna nova visible
+2027-01-14 |  5.711 | 🌒 | Lluna nova visible
+2027-01-15 |  6.645 | 🌒 | Lluna nova visible
+2027-01-16 |  7.656 | 🌓 | Cuart creixent
+2027-01-17 |  8.589 | 🌔 | Lluna gibosa creixent
+2027-01-18 |  9.600 | 🌔 | Lluna gibosa creixent
+2027-01-19 | 10.689 | 🌔 | Lluna gibosa creixent
+2027-01-20 | 11.700 | 🌔 | Lluna gibosa creixent
+2027-01-21 | 12.789 | 🌔 | Lluna gibosa creixent
+2027-01-22 | 13.878 | 🌔 | Lluna gibosa creixent
