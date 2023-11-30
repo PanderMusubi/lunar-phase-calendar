@@ -2,16 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2023-10-19 |  4.389 | 🌒 | Waxing crescent
-2023-10-20 |  5.322 | 🌒 | Waxing crescent
-2023-10-21 |  6.333 | 🌒 | Waxing crescent
-2023-10-22 |  7.345 | 🌓 | First quarter
-2023-10-23 |  8.356 | 🌔 | Waxing gibbous
-2023-10-24 |  9.367 | 🌔 | Waxing gibbous
-2023-10-25 | 10.378 | 🌔 | Waxing gibbous
-2023-10-26 | 11.467 | 🌔 | Waxing gibbous
-2023-10-27 | 12.478 | 🌔 | Waxing gibbous
-2023-10-28 | 13.567 | 🌔 | Waxing gibbous
 2023-10-29 | 14.578 | 🌕 | Full moon
 2023-10-30 | 15.589 | 🌖 | Waning gibbous
 2023-10-31 | 16.600 | 🌖 | Waning gibbous
@@ -1194,3 +1184,13 @@ Day        | Phase  | Symbol | Name
 2027-01-20 | 11.700 | 🌔 | Waxing gibbous
 2027-01-21 | 12.789 | 🌔 | Waxing gibbous
 2027-01-22 | 13.878 | 🌔 | Waxing gibbous
+2027-01-23 | 14.967 | 🌕 | Full moon
+2027-01-24 | 16.056 | 🌖 | Waning gibbous
+2027-01-25 | 17.145 | 🌖 | Waning gibbous
+2027-01-26 | 18.156 | 🌖 | Waning gibbous
+2027-01-27 | 19.167 | 🌖 | Waning gibbous
+2027-01-28 | 20.100 | 🌖 | Waning gibbous
+2027-01-29 | 21.033 | 🌗 | Last quarter
+2027-01-30 | 21.967 | 🌘 | Waning crescent
+2027-01-31 | 22.822 | 🌘 | Waning crescent
+2027-02-01 | 23.678 | 🌘 | Waning crescent

@@ -2,16 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2023-10-19 |  4.389 | 🌒 | Premier croissant
-2023-10-20 |  5.322 | 🌒 | Premier croissant
-2023-10-21 |  6.333 | 🌒 | Premier croissant
-2023-10-22 |  7.345 | 🌓 | Premier quartier
-2023-10-23 |  8.356 | 🌔 | Lune gibbeuse croissante
-2023-10-24 |  9.367 | 🌔 | Lune gibbeuse croissante
-2023-10-25 | 10.378 | 🌔 | Lune gibbeuse croissante
-2023-10-26 | 11.467 | 🌔 | Lune gibbeuse croissante
-2023-10-27 | 12.478 | 🌔 | Lune gibbeuse croissante
-2023-10-28 | 13.567 | 🌔 | Lune gibbeuse croissante
 2023-10-29 | 14.578 | 🌕 | Pleine lune
 2023-10-30 | 15.589 | 🌖 | Lune gibbeuse décroissante
 2023-10-31 | 16.600 | 🌖 | Lune gibbeuse décroissante
@@ -1194,3 +1184,13 @@ Jour       | Phase  | Symbole | Nom
 2027-01-20 | 11.700 | 🌔 | Lune gibbeuse croissante
 2027-01-21 | 12.789 | 🌔 | Lune gibbeuse croissante
 2027-01-22 | 13.878 | 🌔 | Lune gibbeuse croissante
+2027-01-23 | 14.967 | 🌕 | Pleine lune
+2027-01-24 | 16.056 | 🌖 | Lune gibbeuse décroissante
+2027-01-25 | 17.145 | 🌖 | Lune gibbeuse décroissante
+2027-01-26 | 18.156 | 🌖 | Lune gibbeuse décroissante
+2027-01-27 | 19.167 | 🌖 | Lune gibbeuse décroissante
+2027-01-28 | 20.100 | 🌖 | Lune gibbeuse décroissante
+2027-01-29 | 21.033 | 🌗 | Dernier quartier
+2027-01-30 | 21.967 | 🌘 | Dernier croissant
+2027-01-31 | 22.822 | 🌘 | Dernier croissant
+2027-02-01 | 23.678 | 🌘 | Dernier croissant

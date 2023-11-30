@@ -2,7 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2023-10-22 |  7.345 | 🌓 | Premier quartier
 2023-10-29 | 14.578 | 🌕 | Pleine lune
 2023-11-05 | 21.189 | 🌗 | Dernier quartier
 2023-11-13 |  0.111 | 🌑 | Nouvelle lune
@@ -163,3 +162,5 @@ Jour       | Phase  | Symbole | Nom
 2026-12-31 | 21.656 | 🌗 | Dernier quartier
 2027-01-08 |  0.578 | 🌑 | Nouvelle lune
 2027-01-16 |  7.656 | 🌓 | Premier quartier
+2027-01-23 | 14.967 | 🌕 | Pleine lune
+2027-01-29 | 21.033 | 🌗 | Dernier quartier
