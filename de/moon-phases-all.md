@@ -2,34 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2023-10-29 | 14.578 | 🌕 | Vollmond
-2023-10-30 | 15.589 | 🌖 | Abnehmender Mond
-2023-10-31 | 16.600 | 🌖 | Abnehmender Mond
-2023-11-01 | 17.611 | 🌖 | Abnehmender Mond
-2023-11-02 | 18.545 | 🌖 | Abnehmender Mond
-2023-11-03 | 19.400 | 🌖 | Abnehmender Mond
-2023-11-04 | 20.333 | 🌖 | Abnehmender Mond
-2023-11-05 | 21.189 | 🌗 | Letztes Viertel
-2023-11-06 | 22.045 | 🌘 | Abnehmender Sichelmond
-2023-11-07 | 22.822 | 🌘 | Abnehmender Sichelmond
-2023-11-08 | 23.678 | 🌘 | Abnehmender Sichelmond
-2023-11-09 | 24.533 | 🌘 | Abnehmender Sichelmond
-2023-11-10 | 25.389 | 🌘 | Abnehmender Sichelmond
-2023-11-11 | 26.245 | 🌘 | Abnehmender Sichelmond
-2023-11-12 | 27.178 | 🌘 | Abnehmender Sichelmond
-2023-11-13 |  0.111 | 🌑 | Neumond
-2023-11-14 |  1.045 | 🌒 | Zunehmender Sichelmond
-2023-11-15 |  1.978 | 🌒 | Zunehmender Sichelmond
-2023-11-16 |  2.989 | 🌒 | Zunehmender Sichelmond
-2023-11-17 |  4.000 | 🌒 | Zunehmender Sichelmond
-2023-11-18 |  5.011 | 🌒 | Zunehmender Sichelmond
-2023-11-19 |  6.022 | 🌒 | Zunehmender Sichelmond
-2023-11-20 |  7.033 | 🌓 | Erstes Viertel
-2023-11-21 |  8.045 | 🌔 | Zunehmender Mond
-2023-11-22 |  9.056 | 🌔 | Zunehmender Mond
-2023-11-23 | 10.067 | 🌔 | Zunehmender Mond
-2023-11-24 | 11.078 | 🌔 | Zunehmender Mond
-2023-11-25 | 12.089 | 🌔 | Zunehmender Mond
 2023-11-26 | 13.100 | 🌔 | Zunehmender Mond
 2023-11-27 | 14.111 | 🌕 | Vollmond
 2023-11-28 | 15.045 | 🌖 | Abnehmender Mond
@@ -1194,3 +1166,31 @@ Tag        | Phase  | Symbole | Name
 2027-01-30 | 21.967 | 🌘 | Abnehmender Sichelmond
 2027-01-31 | 22.822 | 🌘 | Abnehmender Sichelmond
 2027-02-01 | 23.678 | 🌘 | Abnehmender Sichelmond
+2027-02-02 | 24.533 | 🌘 | Abnehmender Sichelmond
+2027-02-03 | 25.389 | 🌘 | Abnehmender Sichelmond
+2027-02-04 | 26.167 | 🌘 | Abnehmender Sichelmond
+2027-02-05 | 27.022 | 🌘 | Abnehmender Sichelmond
+2027-02-06 | 27.878 | 🌘 | Abnehmender Sichelmond
+2027-02-07 |  0.733 | 🌑 | Neumond
+2027-02-08 |  1.589 | 🌒 | Zunehmender Sichelmond
+2027-02-09 |  2.522 | 🌒 | Zunehmender Sichelmond
+2027-02-10 |  3.378 | 🌒 | Zunehmender Sichelmond
+2027-02-11 |  4.311 | 🌒 | Zunehmender Sichelmond
+2027-02-12 |  5.245 | 🌒 | Zunehmender Sichelmond
+2027-02-13 |  6.178 | 🌒 | Zunehmender Sichelmond
+2027-02-14 |  7.189 | 🌓 | Erstes Viertel
+2027-02-15 |  8.122 | 🌔 | Zunehmender Mond
+2027-02-16 |  9.133 | 🌔 | Zunehmender Mond
+2027-02-17 | 10.222 | 🌔 | Zunehmender Mond
+2027-02-18 | 11.311 | 🌔 | Zunehmender Mond
+2027-02-19 | 12.322 | 🌔 | Zunehmender Mond
+2027-02-20 | 13.411 | 🌔 | Zunehmender Mond
+2027-02-21 | 14.500 | 🌕 | Vollmond
+2027-02-22 | 15.511 | 🌖 | Abnehmender Mond
+2027-02-23 | 16.600 | 🌖 | Abnehmender Mond
+2027-02-24 | 17.611 | 🌖 | Abnehmender Mond
+2027-02-25 | 18.545 | 🌖 | Abnehmender Mond
+2027-02-26 | 19.478 | 🌖 | Abnehmender Mond
+2027-02-27 | 20.411 | 🌖 | Abnehmender Mond
+2027-02-28 | 21.267 | 🌗 | Letztes Viertel
+2027-03-01 | 22.122 | 🌘 | Abnehmender Sichelmond
