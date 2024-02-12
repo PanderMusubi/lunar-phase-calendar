@@ -100,6 +100,7 @@ def write_files(lang='en'):
     ics = open('moon-phases.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
     ics_new = open('new-moon.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
     ics_full = open('full-moon.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
+    ics_all = open('moon-phases-all.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
 
     # write headers
     tsv_header = f'# {header[lang][0].ljust(10)}\t# {header[lang][1]}\t#' \
@@ -143,10 +144,12 @@ def write_files(lang='en'):
             ics.write(line.replace('Lunar Phase', header[lang][4].title()))
             ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0].title()))
             ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4].title()))
+            ics_all.write(line.replace('Lunar Phase', header[lang][4].title()))
         else:
             ics.write(line.replace('Lunar Phase', header[lang][4]))
             ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0]))
             ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4]))
+            ics_all.write(line.replace('Lunar Phase', header[lang][4]))
 
     # create event header
     event_header = ''
@@ -174,6 +177,17 @@ def write_files(lang='en'):
                                                         phase,
                                                         symbol,
                                                         name))
+        ics_all.write(f'{event_header.strip()}{symbol} {name}\n')
+        ics_all.write(uid_format % (dict(
+            list(uid_replace_values.items()) + list({'lang': 'nl',
+                                                     'seq': event_seq}.items())))
+        )
+        event_seq += 1
+        ics_start = f'{day}'
+        ics_end = f'{day + timedelta(days=1)}'
+        ics_all.write(f'DTSTART;VALUE=DATE:{ics_start.replace("-", "")}\n')
+        ics_all.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
+        ics_all.write(event_footer)
         if code % 2 == 0:
             tsv.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,
                                                      phase,
@@ -228,6 +242,7 @@ def write_files(lang='en'):
         ics.write(line)
         ics_new.write(line)
         ics_full.write(line)
+        ics_all.write(line)
 
 
 def generate():

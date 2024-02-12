@@ -2,20 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2023-12-28 | 15.356 | 🌖 | Lluna gibosa minvant
-2023-12-29 | 16.211 | 🌖 | Lluna gibosa minvant
-2023-12-30 | 17.145 | 🌖 | Lluna gibosa minvant
-2023-12-31 | 18.000 | 🌖 | Lluna gibosa minvant
-2024-01-01 | 18.778 | 🌖 | Lluna gibosa minvant
-2024-01-02 | 19.633 | 🌖 | Lluna gibosa minvant
-2024-01-03 | 20.489 | 🌖 | Lluna gibosa minvant
-2024-01-04 | 21.345 | 🌗 | Cuarto minvant
-2024-01-05 | 22.200 | 🌘 | Lluna minvant
-2024-01-06 | 23.056 | 🌘 | Lluna minvant
-2024-01-07 | 23.989 | 🌘 | Lluna minvant
-2024-01-08 | 24.922 | 🌘 | Lluna minvant
-2024-01-09 | 25.933 | 🌘 | Lluna minvant
-2024-01-10 | 26.945 | 🌘 | Lluna minvant
 2024-01-11 | 27.956 | 🌘 | Lluna minvant
 2024-01-12 |  0.967 | 🌑 | Lluna nova
 2024-01-13 |  2.056 | 🌒 | Lluna nova visible
@@ -1194,3 +1180,17 @@ Dia        | Fase   | Símbol | Nom
 2027-03-31 | 22.278 | 🌘 | Lluna minvant
 2027-04-01 | 23.133 | 🌘 | Lluna minvant
 2027-04-02 | 23.911 | 🌘 | Lluna minvant
+2027-04-03 | 24.845 | 🌘 | Lluna minvant
+2027-04-04 | 25.700 | 🌘 | Lluna minvant
+2027-04-05 | 26.633 | 🌘 | Lluna minvant
+2027-04-06 | 27.567 | 🌘 | Lluna minvant
+2027-04-07 |  0.500 | 🌑 | Lluna nova
+2027-04-08 |  1.433 | 🌒 | Lluna nova visible
+2027-04-09 |  2.445 | 🌒 | Lluna nova visible
+2027-04-10 |  3.456 | 🌒 | Lluna nova visible
+2027-04-11 |  4.467 | 🌒 | Lluna nova visible
+2027-04-12 |  5.478 | 🌒 | Lluna nova visible
+2027-04-13 |  6.489 | 🌒 | Lluna nova visible
+2027-04-14 |  7.500 | 🌓 | Cuart creixent
+2027-04-15 |  8.511 | 🌔 | Lluna gibosa creixent
+2027-04-16 |  9.522 | 🌔 | Lluna gibosa creixent

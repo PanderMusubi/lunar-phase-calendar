@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2024-01-04 | 21.345 | 🌗 | Laaste kwartier
 2024-01-12 |  0.967 | 🌑 | Donkermaan
 2024-01-18 |  7.267 | 🌓 | Eerste kwartier
 2024-01-26 | 14.656 | 🌕 | Volmaan
@@ -163,3 +162,5 @@ Dag        | Fase   | Simbool | Naam
 2027-03-16 |  7.811 | 🌓 | Eerste kwartier
 2027-03-22 | 14.033 | 🌕 | Volmaan
 2027-03-30 | 21.422 | 🌗 | Laaste kwartier
+2027-04-07 |  0.500 | 🌑 | Donkermaan
+2027-04-14 |  7.500 | 🌓 | Eerste kwartier

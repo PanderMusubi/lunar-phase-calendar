@@ -2,20 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2023-12-28 | 15.356 | 🌖 | Waning gibbous
-2023-12-29 | 16.211 | 🌖 | Waning gibbous
-2023-12-30 | 17.145 | 🌖 | Waning gibbous
-2023-12-31 | 18.000 | 🌖 | Waning gibbous
-2024-01-01 | 18.778 | 🌖 | Waning gibbous
-2024-01-02 | 19.633 | 🌖 | Waning gibbous
-2024-01-03 | 20.489 | 🌖 | Waning gibbous
-2024-01-04 | 21.345 | 🌗 | Last quarter
-2024-01-05 | 22.200 | 🌘 | Waning crescent
-2024-01-06 | 23.056 | 🌘 | Waning crescent
-2024-01-07 | 23.989 | 🌘 | Waning crescent
-2024-01-08 | 24.922 | 🌘 | Waning crescent
-2024-01-09 | 25.933 | 🌘 | Waning crescent
-2024-01-10 | 26.945 | 🌘 | Waning crescent
 2024-01-11 | 27.956 | 🌘 | Waning crescent
 2024-01-12 |  0.967 | 🌑 | New moon
 2024-01-13 |  2.056 | 🌒 | Waxing crescent
@@ -1194,3 +1180,17 @@ Day        | Phase  | Symbol | Name
 2027-03-31 | 22.278 | 🌘 | Waning crescent
 2027-04-01 | 23.133 | 🌘 | Waning crescent
 2027-04-02 | 23.911 | 🌘 | Waning crescent
+2027-04-03 | 24.845 | 🌘 | Waning crescent
+2027-04-04 | 25.700 | 🌘 | Waning crescent
+2027-04-05 | 26.633 | 🌘 | Waning crescent
+2027-04-06 | 27.567 | 🌘 | Waning crescent
+2027-04-07 |  0.500 | 🌑 | New moon
+2027-04-08 |  1.433 | 🌒 | Waxing crescent
+2027-04-09 |  2.445 | 🌒 | Waxing crescent
+2027-04-10 |  3.456 | 🌒 | Waxing crescent
+2027-04-11 |  4.467 | 🌒 | Waxing crescent
+2027-04-12 |  5.478 | 🌒 | Waxing crescent
+2027-04-13 |  6.489 | 🌒 | Waxing crescent
+2027-04-14 |  7.500 | 🌓 | First quarter
+2027-04-15 |  8.511 | 🌔 | Waxing gibbous
+2027-04-16 |  9.522 | 🌔 | Waxing gibbous
