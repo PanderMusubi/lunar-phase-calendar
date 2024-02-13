@@ -2,7 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Luna menguante
 2024-01-12 |  0.967 | 🌑 | Luna nueva
 2024-01-13 |  2.056 | 🌒 | Luna creciente
 2024-01-14 |  3.145 | 🌒 | Luna creciente
@@ -1194,3 +1193,4 @@ Día        | Fase   | Símbolo | Nombre
 2027-04-14 |  7.500 | 🌓 | Cuarto creciente
 2027-04-15 |  8.511 | 🌔 | Luna creciente gibosa
 2027-04-16 |  9.522 | 🌔 | Luna creciente gibosa
+2027-04-17 | 10.533 | 🌔 | Luna creciente gibosa

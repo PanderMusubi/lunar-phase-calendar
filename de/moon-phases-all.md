@@ -2,7 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Abnehmender Sichelmond
 2024-01-12 |  0.967 | 🌑 | Neumond
 2024-01-13 |  2.056 | 🌒 | Zunehmender Sichelmond
 2024-01-14 |  3.145 | 🌒 | Zunehmender Sichelmond
@@ -1194,3 +1193,4 @@ Tag        | Phase  | Symbole | Name
 2027-04-14 |  7.500 | 🌓 | Erstes Viertel
 2027-04-15 |  8.511 | 🌔 | Zunehmender Mond
 2027-04-16 |  9.522 | 🌔 | Zunehmender Mond
+2027-04-17 | 10.533 | 🌔 | Zunehmender Mond

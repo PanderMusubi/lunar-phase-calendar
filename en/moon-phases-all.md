@@ -2,7 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Waning crescent
 2024-01-12 |  0.967 | 🌑 | New moon
 2024-01-13 |  2.056 | 🌒 | Waxing crescent
 2024-01-14 |  3.145 | 🌒 | Waxing crescent
@@ -1194,3 +1193,4 @@ Day        | Phase  | Symbol | Name
 2027-04-14 |  7.500 | 🌓 | First quarter
 2027-04-15 |  8.511 | 🌔 | Waxing gibbous
 2027-04-16 |  9.522 | 🌔 | Waxing gibbous
+2027-04-17 | 10.533 | 🌔 | Waxing gibbous

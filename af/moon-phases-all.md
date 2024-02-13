@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Afnemende sekelmaan
 2024-01-12 |  0.967 | 🌑 | Donkermaan
 2024-01-13 |  2.056 | 🌒 | Groeiende sekelmaan
 2024-01-14 |  3.145 | 🌒 | Groeiende sekelmaan
@@ -1194,3 +1193,4 @@ Dag        | Fase   | Simbool | Naam
 2027-04-14 |  7.500 | 🌓 | Eerste kwartier
 2027-04-15 |  8.511 | 🌔 | Groeiende bolmaan
 2027-04-16 |  9.522 | 🌔 | Groeiende bolmaan
+2027-04-17 | 10.533 | 🌔 | Groeiende bolmaan

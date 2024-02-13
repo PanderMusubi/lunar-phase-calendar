@@ -2,7 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Luna calante
 2024-01-12 |  0.967 | 🌑 | Luna nuova
 2024-01-13 |  2.056 | 🌒 | Luna crescente
 2024-01-14 |  3.145 | 🌒 | Luna crescente
@@ -1194,3 +1193,4 @@ Giorno     | Fase   | Simbolo | Nome
 2027-04-14 |  7.500 | 🌓 | Primo quarto
 2027-04-15 |  8.511 | 🌔 | Gibbosa crescente
 2027-04-16 |  9.522 | 🌔 | Gibbosa crescente
+2027-04-17 | 10.533 | 🌔 | Gibbosa crescente

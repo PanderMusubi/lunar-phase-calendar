@@ -2,7 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Lluna minvant
 2024-01-12 |  0.967 | 🌑 | Lluna nova
 2024-01-13 |  2.056 | 🌒 | Lluna nova visible
 2024-01-14 |  3.145 | 🌒 | Lluna nova visible
@@ -1194,3 +1193,4 @@ Dia        | Fase   | Símbol | Nom
 2027-04-14 |  7.500 | 🌓 | Cuart creixent
 2027-04-15 |  8.511 | 🌔 | Lluna gibosa creixent
 2027-04-16 |  9.522 | 🌔 | Lluna gibosa creixent
+2027-04-17 | 10.533 | 🌔 | Lluna gibosa creixent

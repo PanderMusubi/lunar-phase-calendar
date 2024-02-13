@@ -2,7 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Lua minguante
 2024-01-12 |  0.967 | 🌑 | Lua nova
 2024-01-13 |  2.056 | 🌒 | Lua crescente
 2024-01-14 |  3.145 | 🌒 | Lua crescente
@@ -1194,3 +1193,4 @@ Dia        | Fase   | Símbolo | Nome
 2027-04-14 |  7.500 | 🌓 | Quarto crescente
 2027-04-15 |  8.511 | 🌔 | Lua crescente gibosa
 2027-04-16 |  9.522 | 🌔 | Lua crescente gibosa
+2027-04-17 | 10.533 | 🌔 | Lua crescente gibosa

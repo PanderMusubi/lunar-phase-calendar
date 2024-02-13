@@ -2,7 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2024-01-11 | 27.956 | 🌘 | Dernier croissant
 2024-01-12 |  0.967 | 🌑 | Nouvelle lune
 2024-01-13 |  2.056 | 🌒 | Premier croissant
 2024-01-14 |  3.145 | 🌒 | Premier croissant
@@ -1194,3 +1193,4 @@ Jour       | Phase  | Symbole | Nom
 2027-04-14 |  7.500 | 🌓 | Premier quartier
 2027-04-15 |  8.511 | 🌔 | Lune gibbeuse croissante
 2027-04-16 |  9.522 | 🌔 | Lune gibbeuse croissante
+2027-04-17 | 10.533 | 🌔 | Lune gibbeuse croissante
