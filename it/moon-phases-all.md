@@ -2,18 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | Luna nuova
-2024-01-13 |  2.056 | 🌒 | Luna crescente
-2024-01-14 |  3.145 | 🌒 | Luna crescente
-2024-01-15 |  4.156 | 🌒 | Luna crescente
-2024-01-16 |  5.245 | 🌒 | Luna crescente
-2024-01-17 |  6.256 | 🌒 | Luna crescente
-2024-01-18 |  7.267 | 🌓 | Primo quarto
-2024-01-19 |  8.278 | 🌔 | Gibbosa crescente
-2024-01-20 |  9.211 | 🌔 | Gibbosa crescente
-2024-01-21 | 10.222 | 🌔 | Gibbosa crescente
-2024-01-22 | 11.156 | 🌔 | Gibbosa crescente
-2024-01-23 | 12.011 | 🌔 | Gibbosa crescente
 2024-01-24 | 12.945 | 🌔 | Gibbosa crescente
 2024-01-25 | 13.800 | 🌔 | Gibbosa crescente
 2024-01-26 | 14.656 | 🌕 | Luna piena
@@ -1194,3 +1182,15 @@ Giorno     | Fase   | Simbolo | Nome
 2027-04-15 |  8.511 | 🌔 | Gibbosa crescente
 2027-04-16 |  9.522 | 🌔 | Gibbosa crescente
 2027-04-17 | 10.533 | 🌔 | Gibbosa crescente
+2027-04-18 | 11.545 | 🌔 | Gibbosa crescente
+2027-04-19 | 12.556 | 🌔 | Gibbosa crescente
+2027-04-20 | 13.567 | 🌔 | Gibbosa crescente
+2027-04-21 | 14.500 | 🌕 | Luna piena
+2027-04-22 | 15.511 | 🌖 | Gibbosa calante
+2027-04-23 | 16.445 | 🌖 | Gibbosa calante
+2027-04-24 | 17.300 | 🌖 | Gibbosa calante
+2027-04-25 | 18.156 | 🌖 | Gibbosa calante
+2027-04-26 | 19.089 | 🌖 | Gibbosa calante
+2027-04-27 | 19.867 | 🌖 | Gibbosa calante
+2027-04-28 | 20.722 | 🌖 | Gibbosa calante
+2027-04-29 | 21.578 | 🌗 | Ultimo quarto

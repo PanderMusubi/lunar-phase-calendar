@@ -2,18 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | Nouvelle lune
-2024-01-13 |  2.056 | 🌒 | Premier croissant
-2024-01-14 |  3.145 | 🌒 | Premier croissant
-2024-01-15 |  4.156 | 🌒 | Premier croissant
-2024-01-16 |  5.245 | 🌒 | Premier croissant
-2024-01-17 |  6.256 | 🌒 | Premier croissant
-2024-01-18 |  7.267 | 🌓 | Premier quartier
-2024-01-19 |  8.278 | 🌔 | Lune gibbeuse croissante
-2024-01-20 |  9.211 | 🌔 | Lune gibbeuse croissante
-2024-01-21 | 10.222 | 🌔 | Lune gibbeuse croissante
-2024-01-22 | 11.156 | 🌔 | Lune gibbeuse croissante
-2024-01-23 | 12.011 | 🌔 | Lune gibbeuse croissante
 2024-01-24 | 12.945 | 🌔 | Lune gibbeuse croissante
 2024-01-25 | 13.800 | 🌔 | Lune gibbeuse croissante
 2024-01-26 | 14.656 | 🌕 | Pleine lune
@@ -1194,3 +1182,15 @@ Jour       | Phase  | Symbole | Nom
 2027-04-15 |  8.511 | 🌔 | Lune gibbeuse croissante
 2027-04-16 |  9.522 | 🌔 | Lune gibbeuse croissante
 2027-04-17 | 10.533 | 🌔 | Lune gibbeuse croissante
+2027-04-18 | 11.545 | 🌔 | Lune gibbeuse croissante
+2027-04-19 | 12.556 | 🌔 | Lune gibbeuse croissante
+2027-04-20 | 13.567 | 🌔 | Lune gibbeuse croissante
+2027-04-21 | 14.500 | 🌕 | Pleine lune
+2027-04-22 | 15.511 | 🌖 | Lune gibbeuse décroissante
+2027-04-23 | 16.445 | 🌖 | Lune gibbeuse décroissante
+2027-04-24 | 17.300 | 🌖 | Lune gibbeuse décroissante
+2027-04-25 | 18.156 | 🌖 | Lune gibbeuse décroissante
+2027-04-26 | 19.089 | 🌖 | Lune gibbeuse décroissante
+2027-04-27 | 19.867 | 🌖 | Lune gibbeuse décroissante
+2027-04-28 | 20.722 | 🌖 | Lune gibbeuse décroissante
+2027-04-29 | 21.578 | 🌗 | Dernier quartier

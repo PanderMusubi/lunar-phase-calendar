@@ -2,18 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | Luna nueva
-2024-01-13 |  2.056 | 🌒 | Luna creciente
-2024-01-14 |  3.145 | 🌒 | Luna creciente
-2024-01-15 |  4.156 | 🌒 | Luna creciente
-2024-01-16 |  5.245 | 🌒 | Luna creciente
-2024-01-17 |  6.256 | 🌒 | Luna creciente
-2024-01-18 |  7.267 | 🌓 | Cuarto creciente
-2024-01-19 |  8.278 | 🌔 | Luna creciente gibosa
-2024-01-20 |  9.211 | 🌔 | Luna creciente gibosa
-2024-01-21 | 10.222 | 🌔 | Luna creciente gibosa
-2024-01-22 | 11.156 | 🌔 | Luna creciente gibosa
-2024-01-23 | 12.011 | 🌔 | Luna creciente gibosa
 2024-01-24 | 12.945 | 🌔 | Luna creciente gibosa
 2024-01-25 | 13.800 | 🌔 | Luna creciente gibosa
 2024-01-26 | 14.656 | 🌕 | Luna llena
@@ -1194,3 +1182,15 @@ Día        | Fase   | Símbolo | Nombre
 2027-04-15 |  8.511 | 🌔 | Luna creciente gibosa
 2027-04-16 |  9.522 | 🌔 | Luna creciente gibosa
 2027-04-17 | 10.533 | 🌔 | Luna creciente gibosa
+2027-04-18 | 11.545 | 🌔 | Luna creciente gibosa
+2027-04-19 | 12.556 | 🌔 | Luna creciente gibosa
+2027-04-20 | 13.567 | 🌔 | Luna creciente gibosa
+2027-04-21 | 14.500 | 🌕 | Luna llena
+2027-04-22 | 15.511 | 🌖 | Luna menguante gibosa
+2027-04-23 | 16.445 | 🌖 | Luna menguante gibosa
+2027-04-24 | 17.300 | 🌖 | Luna menguante gibosa
+2027-04-25 | 18.156 | 🌖 | Luna menguante gibosa
+2027-04-26 | 19.089 | 🌖 | Luna menguante gibosa
+2027-04-27 | 19.867 | 🌖 | Luna menguante gibosa
+2027-04-28 | 20.722 | 🌖 | Luna menguante gibosa
+2027-04-29 | 21.578 | 🌗 | Cuarto menguante

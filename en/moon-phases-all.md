@@ -2,18 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | New moon
-2024-01-13 |  2.056 | 🌒 | Waxing crescent
-2024-01-14 |  3.145 | 🌒 | Waxing crescent
-2024-01-15 |  4.156 | 🌒 | Waxing crescent
-2024-01-16 |  5.245 | 🌒 | Waxing crescent
-2024-01-17 |  6.256 | 🌒 | Waxing crescent
-2024-01-18 |  7.267 | 🌓 | First quarter
-2024-01-19 |  8.278 | 🌔 | Waxing gibbous
-2024-01-20 |  9.211 | 🌔 | Waxing gibbous
-2024-01-21 | 10.222 | 🌔 | Waxing gibbous
-2024-01-22 | 11.156 | 🌔 | Waxing gibbous
-2024-01-23 | 12.011 | 🌔 | Waxing gibbous
 2024-01-24 | 12.945 | 🌔 | Waxing gibbous
 2024-01-25 | 13.800 | 🌔 | Waxing gibbous
 2024-01-26 | 14.656 | 🌕 | Full moon
@@ -1194,3 +1182,15 @@ Day        | Phase  | Symbol | Name
 2027-04-15 |  8.511 | 🌔 | Waxing gibbous
 2027-04-16 |  9.522 | 🌔 | Waxing gibbous
 2027-04-17 | 10.533 | 🌔 | Waxing gibbous
+2027-04-18 | 11.545 | 🌔 | Waxing gibbous
+2027-04-19 | 12.556 | 🌔 | Waxing gibbous
+2027-04-20 | 13.567 | 🌔 | Waxing gibbous
+2027-04-21 | 14.500 | 🌕 | Full moon
+2027-04-22 | 15.511 | 🌖 | Waning gibbous
+2027-04-23 | 16.445 | 🌖 | Waning gibbous
+2027-04-24 | 17.300 | 🌖 | Waning gibbous
+2027-04-25 | 18.156 | 🌖 | Waning gibbous
+2027-04-26 | 19.089 | 🌖 | Waning gibbous
+2027-04-27 | 19.867 | 🌖 | Waning gibbous
+2027-04-28 | 20.722 | 🌖 | Waning gibbous
+2027-04-29 | 21.578 | 🌗 | Last quarter

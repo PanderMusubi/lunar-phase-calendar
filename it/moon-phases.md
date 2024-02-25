@@ -2,8 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | Luna nuova
-2024-01-18 |  7.267 | 🌓 | Primo quarto
 2024-01-26 | 14.656 | 🌕 | Luna piena
 2024-02-03 | 21.500 | 🌗 | Ultimo quarto
 2024-02-10 |  0.500 | 🌑 | Luna nuova
@@ -164,3 +162,5 @@ Giorno     | Fase   | Simbolo | Nome
 2027-03-30 | 21.422 | 🌗 | Ultimo quarto
 2027-04-07 |  0.500 | 🌑 | Luna nuova
 2027-04-14 |  7.500 | 🌓 | Primo quarto
+2027-04-21 | 14.500 | 🌕 | Luna piena
+2027-04-29 | 21.578 | 🌗 | Ultimo quarto

@@ -2,8 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2024-01-12 |  0.967 | 🌑 | Nieuwe maan
-2024-01-18 |  7.267 | 🌓 | Eerste kwartier
 2024-01-26 | 14.656 | 🌕 | Volle maan
 2024-02-03 | 21.500 | 🌗 | Laatste kwartier
 2024-02-10 |  0.500 | 🌑 | Nieuwe maan
@@ -164,3 +162,5 @@ Dag        | Fase   | Symbool | Naam
 2027-03-30 | 21.422 | 🌗 | Laatste kwartier
 2027-04-07 |  0.500 | 🌑 | Nieuwe maan
 2027-04-14 |  7.500 | 🌓 | Eerste kwartier
+2027-04-21 | 14.500 | 🌕 | Volle maan
+2027-04-29 | 21.578 | 🌗 | Laatste kwartier
