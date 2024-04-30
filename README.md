@@ -1,25 +1,17 @@
 # Lunar Phase Calendar
 
+# IMPORTANT: NEW DIRECTORY STRUCTURE `nl` will be `NL/nl`
+
 Roling ICS calendars with [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase) for three years in advance.
 
 > <em>Ignorance is the night of the mind, but a night without moon and star.</em> — Confucius (551 – 479 BC) Chinese philosopher and reformer
 
-Besides calendars with all the lunar phases, there are also calendars provided with only the dates when there is a new or full moon. The calendars are generated for different languages and in the formats:
-- tab-separated format in TSV files, e.g. `en/moon-phases.tsv`
-- MarkDown in MD files, e.g. `nl/new-moon.md`
-- iCalendar in ICS files, e.g. `de/full-moon.ics`
+Besides calendars with all the lunar phases, there are also calendars provided with only the dates when there is a new or full moon. The calendars are generated for many country-language combinations in different file formats:
+- tab-separated format in TSV files, e.g. `GB/en/moon-phases.tsv`
+- MarkDown in MD files, e.g. `BE/nl/new-moon.md`
+- iCalendar in ICS files, e.g. `AT/de/full-moon.ics`
 
-Currently the following languages are supported:
-- `af` Afrikaans
-- `ca` Catalan
-- `de` German
-- `en` English
-- `es` Spanish
-- `fr` French
-- `it` Italian
-- `nl` Dutch
-- `pt` Portuguese
-- `ru` Russian
+See the file [countries.json](countries.json) for which country-language combinations are supported. Even though the moon phase is the same all over the world, time zones per country need to be taken into consideration.
 
 The calendars are generated on a certain day for three years in advance and is published in this repository. At the time of generation, a margin is used of one month at the beginning and of two months at the end.
 
@@ -51,7 +43,7 @@ Check marks in the table have links to the software. ICSx⁵ can also be found i
 
 ## Using ICS Files in Calendar Software
 
-First, choose the ICS calendar file on GitHub you would like to add to your calendar software. Browse under Code to e.g. `en` and choose e.g. `full-moon.ics`. Then, click on the button called Raw and you will go to the URL for this calendar. For this example, `https://raw.githubusercontent.com/PanderMusubi/lunar-phase-calendar/master/en/full-moon.ics` will be the URL.
+First, choose the ICS calendar file on GitHub you would like to add to your calendar software. Browse under Code to e.g. `en` and choose e.g. `full-moon.ics`. Then, click on the button called Raw and you will go to the URL for this calendar. For this example, `https://raw.githubusercontent.com/PanderMusubi/lunar-phase-calendar/master/GB/en/full-moon.ics` will be the URL.
 
 After you have copied the URL of an ICS file, please paste this in your calendar software when adding a (read-only) online network or ICS calendar. Sometimes this is called to subscribe to a calendar. Usually you can choose how often synchronization has to be done to keep your lunar phase calendar up to date. Set this to 24 hours, because there are not that many updates. Again, do **not** choose the (one time) import of the ICS calendar as it will not update itself.
 

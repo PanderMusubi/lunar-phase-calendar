@@ -12,6 +12,8 @@ __location__ = realpath(join(getcwd(), dirname(__file__)))
 moon_phase_names = load(open(join(__location__, 'moon-phase-names.json'), encoding='utf8'))  # pylint:disable=consider-using-with
 moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '🌘')
 
+countries = load(open(join(__location__, 'countries.json'), encoding='utf8'))  # pylint:disable=consider-using-with
+
 # capitalized header values for day, phase, symbol, name and title
 header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pylint:disable=consider-using-with
 
@@ -19,17 +21,17 @@ header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pyli
 titles = ('en', 'pt')
 
 
-def moon_phase_code_to_name(code: str, lang: str = 'en'):
+def moon_phase_code_to_name(code: str, lang: str = 'en') -> str:
     '''Converts moon phase code to name.'''
     return moon_phase_names[lang][code]
 
 
-def moon_phase_code_to_symbol(code: str):
+def moon_phase_code_to_symbol(code: int) -> str:
     '''Converts moon phase code to symbol.'''
     return moon_phase_symbols[code]
 
 
-def moon_phase_to_inacurate_code(phase: str):
+def moon_phase_to_inacurate_code(phase: float) -> int:
     '''Converts moon phase code to inacurate code.'''
     value = int(phase)
     res = None
@@ -52,7 +54,7 @@ def moon_phase_to_inacurate_code(phase: str):
     return res
 
 
-def day_to_moon_phase_and_accurate_code(day: str):
+def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
     '''Converts day to moon phase and accurate code.'''
     phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
@@ -73,7 +75,7 @@ def day_to_moon_phase_and_accurate_code(day: str):
     return phase_today, code_today
 
 
-def write_files(lang: str = 'en'):
+def write_files(country: str, lang: str) -> None:
     '''Writes calendar files.'''
     # date and time
     utcnow = datetime.utcnow()
@@ -138,7 +140,7 @@ def write_files(lang: str = 'en'):
     mkd_all.write(mkd_header)
     mkd_new.write(mkd_header_new)
     mkd_full.write(mkd_header_full)
-    calendar_header = open(f'../templates/calendar-header-{lang}.txt', encoding='utf8')  # pylint:disable=consider-using-with
+    calendar_header = open(f'../../templates/calendar-header-{country}.txt', encoding='utf8')  # pylint:disable=consider-using-with
     for line in calendar_header:
         if lang in titles:
             ics.write(line.replace('Lunar Phase', header[lang][4].title()))
@@ -153,12 +155,12 @@ def write_files(lang: str = 'en'):
 
     # create event header
     event_header = ''
-    for line in open('../templates/event-header.txt', encoding='utf8'):  # pylint:disable=consider-using-with
+    for line in open('../../templates/event-header.txt', encoding='utf8'):  # pylint:disable=consider-using-with
         event_header += line.replace('DTSTAMP:', f'DTSTAMP:{dtstamp}')
 
     # create event footer
     event_footer = ''
-    for line in open('../templates/event-footer.txt', encoding='utf8'):  # pylint:disable=consider-using-with
+    for line in open('../../templates/event-footer.txt', encoding='utf8'):  # pylint:disable=consider-using-with
         event_footer += line  # pylint:disable=consider-using-join
 
     today = date.today()
@@ -225,7 +227,7 @@ def write_files(lang: str = 'en'):
             ics_full.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
             ics_full.write(event_footer)
 
-    calendar_footer = open('../templates/calendar-footer.txt', encoding='utf8')  # pylint:disable=consider-using-with
+    calendar_footer = open('../../templates/calendar-footer.txt', encoding='utf8')  # pylint:disable=consider-using-with
     for line in calendar_footer:
         ics.write(line)
         ics_new.write(line)
@@ -235,11 +237,16 @@ def write_files(lang: str = 'en'):
 
 def generate():
     '''Generate files.'''
-    for language in sorted(header.keys()):
-        if not isdir(language):
-            makedirs(language)
-        chdir(language)
-        write_files(language)
+    for country in sorted(countries.keys()):
+        if not isdir(country):
+            makedirs(country)
+        chdir(country)
+        for language in sorted(countries[country]):
+            if not isdir(language):
+                makedirs(language)
+            chdir(language)
+            write_files(country, language)
+            chdir('..')
         chdir('..')
 
 
