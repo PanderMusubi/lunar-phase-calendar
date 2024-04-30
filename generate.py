@@ -19,40 +19,40 @@ header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pyli
 titles = ('en', 'pt')
 
 
-def moon_phase_code_to_name(code, lang='en'):
+def moon_phase_code_to_name(code: str, lang: str = 'en'):
     '''Converts moon phase code to name.'''
     return moon_phase_names[lang][code]
 
 
-def moon_phase_code_to_symbol(code):
+def moon_phase_code_to_symbol(code: str):
     '''Converts moon phase code to symbol.'''
     return moon_phase_symbols[code]
 
 
-def moon_phase_to_inacurate_code(phase):
+def moon_phase_to_inacurate_code(phase: str):
     '''Converts moon phase code to inacurate code.'''
-    phase = int(phase)
-    value = None
-    if phase == 0:
-        value = 0
-    elif 0 < phase < 7:
-        value = 1
-    elif phase == 7:
-        value = 2
-    elif 7 < phase < 14:
-        value = 3
-    elif phase == 14:
-        value = 4
-    elif 14 < phase < 21:
-        value = 5
-    elif phase == 21:
-        value = 6
+    value = int(phase)
+    res = None
+    if value == 0:
+        res = 0
+    elif 0 < value < 7:
+        res = 1
+    elif value == 7:
+        res = 2
+    elif 7 < value < 14:
+        res = 3
+    elif value == 14:
+        res = 4
+    elif 14 < value < 21:
+        res = 5
+    elif value == 21:
+        res = 6
     else:
-        value = 7
-    return value
+        res = 7
+    return res
 
 
-def day_to_moon_phase_and_accurate_code(day):
+def day_to_moon_phase_and_accurate_code(day: str):
     '''Converts day to moon phase and accurate code.'''
     phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
@@ -73,7 +73,7 @@ def day_to_moon_phase_and_accurate_code(day):
     return phase_today, code_today
 
 
-def write_files(lang='en'):
+def write_files(lang: str = 'en'):
     '''Writes calendar files.'''
     # date and time
     utcnow = datetime.utcnow()
@@ -169,14 +169,8 @@ def write_files(lang='en'):
         phase, code = day_to_moon_phase_and_accurate_code(day)
         symbol = moon_phase_code_to_symbol(code)
         name = moon_phase_code_to_name(code, lang)
-        tsv_all.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,
-                                                     phase,
-                                                     symbol,
-                                                     name))
-        mkd_all.write('{} | {:6.3f} | {} | {}\n'.format(day,
-                                                        phase,
-                                                        symbol,
-                                                        name))
+        tsv_all.write(f'{day}\t{phase:6.3f}\t{symbol}\t{name}\n')
+        mkd_all.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
         ics_all.write(f'{event_header.strip()}{symbol} {name}\n')
         ics_all.write(uid_format % (dict(
             list(uid_replace_values.items()) + list({'lang': 'nl',
@@ -189,14 +183,8 @@ def write_files(lang='en'):
         ics_all.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
         ics_all.write(event_footer)
         if code % 2 == 0:
-            tsv.write('{}\t{:6.3f}\t{}\t{}\n'.format(day,
-                                                     phase,
-                                                     symbol,
-                                                     name))
-            mkd.write('{} | {:6.3f} | {} | {}\n'.format(day,
-                                                        phase,
-                                                        symbol,
-                                                        name))
+            tsv.write(f'{day}\t{phase:6.3f}\t{symbol}\t{name}\n')
+            mkd.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
             ics.write(f'{event_header.strip()}{symbol} {name}\n')
             ics.write(uid_format % (dict(
                 list(uid_replace_values.items()) + list({'lang': 'nl',
@@ -209,8 +197,8 @@ def write_files(lang='en'):
             ics.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
             ics.write(event_footer)
         if code == 0:
-            tsv_new.write('{}\t{:6.3f}\n'.format(day, phase))
-            mkd_new.write('{} | {:6.3f}\n'.format(day, phase,))
+            tsv_new.write(f'{day}\t{phase:6.3f}\n')
+            mkd_new.write(f'{day} | {phase:6.3f}\n')
             ics_new.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_new.write(uid_format % (dict(
                 list(uid_replace_values.items()) + list({'lang': 'nl',
@@ -223,8 +211,8 @@ def write_files(lang='en'):
             ics_new.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
             ics_new.write(event_footer)
         if code == 4:
-            tsv_full.write('{}\t{:6.3f}\n'.format(day, phase))
-            mkd_full.write('{} | {:6.3f}\n'.format(day, phase,))
+            tsv_full.write(f'{day}\t{phase:6.3f}\n')
+            mkd_full.write(f'{day} | {phase:6.3f}\n')
             ics_full.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_full.write(uid_format % (dict(
                 list(uid_replace_values.items()) + list({'lang': 'nl',
