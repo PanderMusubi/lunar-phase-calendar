@@ -6,7 +6,7 @@ Roling ICS calendars with [lunar phases](https://en.wikipedia.org/wiki/Lunar_pha
 
 > <em>Ignorance is the night of the mind, but a night without moon and star.</em> — Confucius (551 – 479 BC) Chinese philosopher and reformer
 
-Besides calendars with all the lunar phases, there are also calendars provided with only the dates when there is a new or full moon. The calendars are generated for many country-language combinations in different file formats:
+Besides calendars with all the lunar phases, there are also calendars provided with only the dates when there is a new or full moon. The calendars are generated for many [country](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)-[language](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) combinations in different file formats:
 - tab-separated format in TSV files, e.g. `GB/en/moon-phases.tsv`
 - MarkDown in MD files, e.g. `BE/nl/new-moon.md`
 - iCalendar in ICS files, e.g. `AT/de/full-moon.ics`
