@@ -11,7 +11,7 @@ Besides calendars with all the lunar phases, there are also calendars provided w
 - MarkDown in MD files, e.g. `BE/nl/new-moon.md`
 - iCalendar in ICS files, e.g. `AT/de/full-moon.ics`
 
-See the file [countries.json](countries.json) for which country-language combinations are supported. Even though the moon phase is the same all over the world, time zones per country need to be taken into consideration.
+See the file [countries.json](countries.json) for which country-language combinations are supported. Even though the moon phase is the same all over the world, [time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) per country need to be taken into consideration.
 
 The calendars are generated on a certain day for three years in advance and is published in this repository. At the time of generation, a margin is used of one month at the beginning and of two months at the end.
 
