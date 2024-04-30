@@ -2,15 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2024-01-26 | 14.656 | 🌕 | Pleine lune
-2024-02-03 | 21.500 | 🌗 | Dernier quartier
-2024-02-10 |  0.500 | 🌑 | Nouvelle lune
-2024-02-17 |  7.811 | 🌓 | Premier quartier
-2024-02-24 | 14.033 | 🌕 | Pleine lune
-2024-03-04 | 21.811 | 🌗 | Dernier quartier
-2024-03-10 |  0.033 | 🌑 | Nouvelle lune
-2024-03-17 |  7.345 | 🌓 | Premier quartier
-2024-03-25 | 14.189 | 🌕 | Pleine lune
 2024-04-02 | 21.345 | 🌗 | Dernier quartier
 2024-04-09 |  0.733 | 🌑 | Nouvelle lune
 2024-04-16 |  7.656 | 🌓 | Premier quartier
@@ -164,3 +155,11 @@ Jour       | Phase  | Symbole | Nom
 2027-04-14 |  7.500 | 🌓 | Premier quartier
 2027-04-21 | 14.500 | 🌕 | Pleine lune
 2027-04-29 | 21.578 | 🌗 | Dernier quartier
+2027-05-06 |  0.033 | 🌑 | Nouvelle lune
+2027-05-13 |  7.267 | 🌓 | Premier quartier
+2027-05-20 | 14.033 | 🌕 | Pleine lune
+2027-05-29 | 21.811 | 🌗 | Dernier quartier
+2027-06-05 |  0.656 | 🌑 | Nouvelle lune
+2027-06-11 |  7.033 | 🌓 | Premier quartier
+2027-06-19 | 14.422 | 🌕 | Pleine lune
+2027-06-27 | 21.267 | 🌗 | Dernier quartier
