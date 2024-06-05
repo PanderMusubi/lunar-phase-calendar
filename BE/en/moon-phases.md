@@ -2,11 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2024-04-02 | 21.345 | 🌗 | Last quarter
-2024-04-09 |  0.733 | 🌑 | New moon
-2024-04-16 |  7.656 | 🌓 | First quarter
-2024-04-24 | 14.422 | 🌕 | Full moon
-2024-05-02 | 21.967 | 🌗 | Last quarter
 2024-05-08 |  0.345 | 🌑 | New moon
 2024-05-15 |  7.033 | 🌓 | First quarter
 2024-05-24 | 14.889 | 🌕 | Full moon
@@ -163,3 +158,8 @@ Day        | Phase  | Symbol | Name
 2027-06-11 |  7.033 | 🌓 | First quarter
 2027-06-19 | 14.422 | 🌕 | Full moon
 2027-06-27 | 21.267 | 🌗 | Last quarter
+2027-07-04 |  0.345 | 🌑 | New moon
+2027-07-11 |  7.656 | 🌓 | First quarter
+2027-07-19 | 14.733 | 🌕 | Full moon
+2027-07-27 | 21.733 | 🌗 | Last quarter
+2027-08-03 |  1.122 | 🌑 | New moon

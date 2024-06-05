@@ -4,6 +4,8 @@ echo '* CHECKBASISMS'
 checkbashisms *.sh
 
 FILES=*.py
+echo '*PYDOCSTYLE'
+pydocstyle --convention=numpy $FILES
 echo '* FLAKE8'
 flake8 --ignore E501 $FILES
 echo '* PYLINT'
