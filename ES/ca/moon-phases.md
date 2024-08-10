@@ -2,8 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-06-29 | 21.578 | 🌗 | Cuarto minvant
-2024-07-06 |  0.500 | 🌑 | Lluna nova
 2024-07-14 |  7.500 | 🌓 | Cuart creixent
 2024-07-21 | 14.033 | 🌕 | Lluna plena
 2024-07-28 | 21.345 | 🌗 | Cuarto minvant
@@ -164,3 +162,4 @@ Dia        | Fase   | Símbol | Nom
 2027-09-16 | 14.500 | 🌕 | Lluna plena
 2027-09-23 | 21.033 | 🌗 | Cuarto minvant
 2027-09-30 |  0.345 | 🌑 | Lluna nova
+2027-10-07 |  7.033 | 🌓 | Cuart creixent

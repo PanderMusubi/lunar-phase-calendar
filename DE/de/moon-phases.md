@@ -2,8 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2024-06-29 | 21.578 | 🌗 | Letztes Viertel
-2024-07-06 |  0.500 | 🌑 | Neumond
 2024-07-14 |  7.500 | 🌓 | Erstes Viertel
 2024-07-21 | 14.033 | 🌕 | Vollmond
 2024-07-28 | 21.345 | 🌗 | Letztes Viertel
@@ -164,3 +162,4 @@ Tag        | Phase  | Symbole | Name
 2027-09-16 | 14.500 | 🌕 | Vollmond
 2027-09-23 | 21.033 | 🌗 | Letztes Viertel
 2027-09-30 |  0.345 | 🌑 | Neumond
+2027-10-07 |  7.033 | 🌓 | Erstes Viertel

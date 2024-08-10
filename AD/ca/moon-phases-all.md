@@ -2,18 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-06-27 | 19.478 | 🌖 | Lluna gibosa minvant
-2024-06-28 | 20.489 | 🌖 | Lluna gibosa minvant
-2024-06-29 | 21.578 | 🌗 | Cuarto minvant
-2024-06-30 | 22.589 | 🌘 | Lluna minvant
-2024-07-01 | 23.600 | 🌘 | Lluna minvant
-2024-07-02 | 24.611 | 🌘 | Lluna minvant
-2024-07-03 | 25.545 | 🌘 | Lluna minvant
-2024-07-04 | 26.556 | 🌘 | Lluna minvant
-2024-07-05 | 27.567 | 🌘 | Lluna minvant
-2024-07-06 |  0.500 | 🌑 | Lluna nova
-2024-07-07 |  1.433 | 🌒 | Lluna nova visible
-2024-07-08 |  2.367 | 🌒 | Lluna nova visible
 2024-07-09 |  3.222 | 🌒 | Lluna nova visible
 2024-07-10 |  4.156 | 🌒 | Lluna nova visible
 2024-07-11 |  5.011 | 🌒 | Lluna nova visible
@@ -1194,3 +1182,15 @@ Dia        | Fase   | Símbol | Nom
 2027-09-29 | 27.256 | 🌘 | Lluna minvant
 2027-09-30 |  0.345 | 🌑 | Lluna nova
 2027-10-01 |  1.356 | 🌒 | Lluna nova visible
+2027-10-02 |  2.367 | 🌒 | Lluna nova visible
+2027-10-03 |  3.378 | 🌒 | Lluna nova visible
+2027-10-04 |  4.389 | 🌒 | Lluna nova visible
+2027-10-05 |  5.322 | 🌒 | Lluna nova visible
+2027-10-06 |  6.178 | 🌒 | Lluna nova visible
+2027-10-07 |  7.033 | 🌓 | Cuart creixent
+2027-10-08 |  7.889 | 🌔 | Lluna gibosa creixent
+2027-10-09 |  8.745 | 🌔 | Lluna gibosa creixent
+2027-10-10 |  9.600 | 🌔 | Lluna gibosa creixent
+2027-10-11 | 10.456 | 🌔 | Lluna gibosa creixent
+2027-10-12 | 11.311 | 🌔 | Lluna gibosa creixent
+2027-10-13 | 12.167 | 🌔 | Lluna gibosa creixent
