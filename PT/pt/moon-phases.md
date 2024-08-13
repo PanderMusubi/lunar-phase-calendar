@@ -163,3 +163,4 @@ Dia        | Fase   | Símbolo | Nome
 2027-09-23 | 21.033 | 🌗 | Quarto minguante
 2027-09-30 |  0.345 | 🌑 | Lua nova
 2027-10-07 |  7.033 | 🌓 | Quarto crescente
+2027-10-16 | 14.889 | 🌕 | Lua cheia

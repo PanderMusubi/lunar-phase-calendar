@@ -2,9 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-07-09 |  3.222 | 🌒 | Lluna nova visible
-2024-07-10 |  4.156 | 🌒 | Lluna nova visible
-2024-07-11 |  5.011 | 🌒 | Lluna nova visible
 2024-07-12 |  5.789 | 🌒 | Lluna nova visible
 2024-07-13 |  6.645 | 🌒 | Lluna nova visible
 2024-07-14 |  7.500 | 🌓 | Cuart creixent
@@ -1194,3 +1191,6 @@ Dia        | Fase   | Símbol | Nom
 2027-10-11 | 10.456 | 🌔 | Lluna gibosa creixent
 2027-10-12 | 11.311 | 🌔 | Lluna gibosa creixent
 2027-10-13 | 12.167 | 🌔 | Lluna gibosa creixent
+2027-10-14 | 13.022 | 🌔 | Lluna gibosa creixent
+2027-10-15 | 13.956 | 🌔 | Lluna gibosa creixent
+2027-10-16 | 14.889 | 🌕 | Lluna plena

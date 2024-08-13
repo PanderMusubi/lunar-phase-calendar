@@ -2,9 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2024-07-09 |  3.222 | 🌒 | Luna crescente
-2024-07-10 |  4.156 | 🌒 | Luna crescente
-2024-07-11 |  5.011 | 🌒 | Luna crescente
 2024-07-12 |  5.789 | 🌒 | Luna crescente
 2024-07-13 |  6.645 | 🌒 | Luna crescente
 2024-07-14 |  7.500 | 🌓 | Primo quarto
@@ -1194,3 +1191,6 @@ Giorno     | Fase   | Simbolo | Nome
 2027-10-11 | 10.456 | 🌔 | Gibbosa crescente
 2027-10-12 | 11.311 | 🌔 | Gibbosa crescente
 2027-10-13 | 12.167 | 🌔 | Gibbosa crescente
+2027-10-14 | 13.022 | 🌔 | Gibbosa crescente
+2027-10-15 | 13.956 | 🌔 | Gibbosa crescente
+2027-10-16 | 14.889 | 🌕 | Luna piena

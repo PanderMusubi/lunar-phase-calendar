@@ -163,3 +163,4 @@ Giorno     | Fase   | Simbolo | Nome
 2027-09-23 | 21.033 | 🌗 | Ultimo quarto
 2027-09-30 |  0.345 | 🌑 | Luna nuova
 2027-10-07 |  7.033 | 🌓 | Primo quarto
+2027-10-16 | 14.889 | 🌕 | Luna piena

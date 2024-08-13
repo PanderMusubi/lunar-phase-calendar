@@ -2,9 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2024-07-09 |  3.222 | 🌒 | Wassende, sikkelvormige maan
-2024-07-10 |  4.156 | 🌒 | Wassende, sikkelvormige maan
-2024-07-11 |  5.011 | 🌒 | Wassende, sikkelvormige maan
 2024-07-12 |  5.789 | 🌒 | Wassende, sikkelvormige maan
 2024-07-13 |  6.645 | 🌒 | Wassende, sikkelvormige maan
 2024-07-14 |  7.500 | 🌓 | Eerste kwartier
@@ -1194,3 +1191,6 @@ Dag        | Fase   | Symbool | Naam
 2027-10-11 | 10.456 | 🌔 | Wassende,vooruitspringende maan
 2027-10-12 | 11.311 | 🌔 | Wassende,vooruitspringende maan
 2027-10-13 | 12.167 | 🌔 | Wassende,vooruitspringende maan
+2027-10-14 | 13.022 | 🌔 | Wassende,vooruitspringende maan
+2027-10-15 | 13.956 | 🌔 | Wassende,vooruitspringende maan
+2027-10-16 | 14.889 | 🌕 | Volle maan

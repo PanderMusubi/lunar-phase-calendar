@@ -163,3 +163,4 @@ Jour       | Phase  | Symbole | Nom
 2027-09-23 | 21.033 | 🌗 | Dernier quartier
 2027-09-30 |  0.345 | 🌑 | Nouvelle lune
 2027-10-07 |  7.033 | 🌓 | Premier quartier
+2027-10-16 | 14.889 | 🌕 | Pleine lune

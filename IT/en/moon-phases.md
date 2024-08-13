@@ -163,3 +163,4 @@ Day        | Phase  | Symbol | Name
 2027-09-23 | 21.033 | 🌗 | Last quarter
 2027-09-30 |  0.345 | 🌑 | New moon
 2027-10-07 |  7.033 | 🌓 | First quarter
+2027-10-16 | 14.889 | 🌕 | Full moon

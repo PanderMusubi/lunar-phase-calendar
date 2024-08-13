@@ -2,9 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2024-07-09 |  3.222 | 🌒 | Waxing crescent
-2024-07-10 |  4.156 | 🌒 | Waxing crescent
-2024-07-11 |  5.011 | 🌒 | Waxing crescent
 2024-07-12 |  5.789 | 🌒 | Waxing crescent
 2024-07-13 |  6.645 | 🌒 | Waxing crescent
 2024-07-14 |  7.500 | 🌓 | First quarter
@@ -1194,3 +1191,6 @@ Day        | Phase  | Symbol | Name
 2027-10-11 | 10.456 | 🌔 | Waxing gibbous
 2027-10-12 | 11.311 | 🌔 | Waxing gibbous
 2027-10-13 | 12.167 | 🌔 | Waxing gibbous
+2027-10-14 | 13.022 | 🌔 | Waxing gibbous
+2027-10-15 | 13.956 | 🌔 | Waxing gibbous
+2027-10-16 | 14.889 | 🌕 | Full moon

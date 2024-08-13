@@ -163,3 +163,4 @@ Día        | Fase   | Símbolo | Nombre
 2027-09-23 | 21.033 | 🌗 | Cuarto menguante
 2027-09-30 |  0.345 | 🌑 | Luna nueva
 2027-10-07 |  7.033 | 🌓 | Cuarto creciente
+2027-10-16 | 14.889 | 🌕 | Luna llena
