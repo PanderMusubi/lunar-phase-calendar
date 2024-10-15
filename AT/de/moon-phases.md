@@ -2,15 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2024-07-14 |  7.500 | 🌓 | Erstes Viertel
-2024-07-21 | 14.033 | 🌕 | Vollmond
-2024-07-28 | 21.345 | 🌗 | Letztes Viertel
-2024-08-04 |  0.033 | 🌑 | Neumond
-2024-08-13 |  7.733 | 🌓 | Erstes Viertel
-2024-08-20 | 14.733 | 🌕 | Vollmond
-2024-08-26 | 21.033 | 🌗 | Letztes Viertel
-2024-09-03 |  0.422 | 🌑 | Neumond
-2024-09-11 |  7.189 | 🌓 | Erstes Viertel
 2024-09-18 | 14.345 | 🌕 | Vollmond
 2024-09-25 | 21.656 | 🌗 | Letztes Viertel
 2024-10-03 |  0.656 | 🌑 | Neumond
@@ -164,3 +155,11 @@ Tag        | Phase  | Symbole | Name
 2027-09-30 |  0.345 | 🌑 | Neumond
 2027-10-07 |  7.033 | 🌓 | Erstes Viertel
 2027-10-16 | 14.889 | 🌕 | Vollmond
+2027-10-23 | 21.733 | 🌗 | Letztes Viertel
+2027-10-30 |  0.889 | 🌑 | Neumond
+2027-11-06 |  7.189 | 🌓 | Erstes Viertel
+2027-11-14 | 14.345 | 🌕 | Vollmond
+2027-11-21 | 21.422 | 🌗 | Letztes Viertel
+2027-11-28 |  0.345 | 🌑 | Neumond
+2027-12-06 |  7.267 | 🌓 | Erstes Viertel
+2027-12-14 | 14.811 | 🌕 | Vollmond
