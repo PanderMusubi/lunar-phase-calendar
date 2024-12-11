@@ -2,10 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-10-11 |  7.656 | 🌓 | Cuart creixent
-2024-10-18 | 15.045 | 🌕 | Lluna plena
-2024-10-24 | 21.189 | 🌗 | Cuarto minvant
-2024-11-01 |  0.033 | 🌑 | Lluna nova
 2024-11-09 |  7.267 | 🌓 | Cuart creixent
 2024-11-16 | 14.578 | 🌕 | Lluna plena
 2024-11-23 | 21.422 | 🌗 | Cuarto minvant
@@ -164,3 +160,7 @@ Dia        | Fase   | Símbol | Nom
 2027-12-28 |  0.578 | 🌑 | Lluna nova
 2028-01-05 |  7.422 | 🌓 | Cuart creixent
 2028-01-12 | 14.267 | 🌕 | Lluna plena
+2028-01-19 | 21.656 | 🌗 | Cuarto minvant
+2028-01-27 |  0.811 | 🌑 | Lluna nova
+2028-02-04 |  7.656 | 🌓 | Cuart creixent
+2028-02-11 | 14.889 | 🌕 | Lluna plena

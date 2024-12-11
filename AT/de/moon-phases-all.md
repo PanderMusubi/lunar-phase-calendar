@@ -2,35 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2024-10-11 |  7.656 | 🌓 | Erstes Viertel
-2024-10-12 |  8.667 | 🌔 | Zunehmender Mond
-2024-10-13 |  9.678 | 🌔 | Zunehmender Mond
-2024-10-14 | 10.689 | 🌔 | Zunehmender Mond
-2024-10-15 | 11.778 | 🌔 | Zunehmender Mond
-2024-10-16 | 12.867 | 🌔 | Zunehmender Mond
-2024-10-17 | 13.956 | 🌔 | Zunehmender Mond
-2024-10-18 | 15.045 | 🌕 | Vollmond
-2024-10-19 | 16.133 | 🌖 | Abnehmender Mond
-2024-10-20 | 17.145 | 🌖 | Abnehmender Mond
-2024-10-21 | 18.233 | 🌖 | Abnehmender Mond
-2024-10-22 | 19.245 | 🌖 | Abnehmender Mond
-2024-10-23 | 20.256 | 🌖 | Abnehmender Mond
-2024-10-24 | 21.189 | 🌗 | Letztes Viertel
-2024-10-25 | 22.045 | 🌘 | Abnehmender Sichelmond
-2024-10-26 | 22.978 | 🌘 | Abnehmender Sichelmond
-2024-10-27 | 23.833 | 🌘 | Abnehmender Sichelmond
-2024-10-28 | 24.689 | 🌘 | Abnehmender Sichelmond
-2024-10-29 | 25.467 | 🌘 | Abnehmender Sichelmond
-2024-10-30 | 26.322 | 🌘 | Abnehmender Sichelmond
-2024-10-31 | 27.178 | 🌘 | Abnehmender Sichelmond
-2024-11-01 |  0.033 | 🌑 | Neumond
-2024-11-02 |  0.889 | 🌒 | Zunehmender Sichelmond
-2024-11-03 |  1.745 | 🌒 | Zunehmender Sichelmond
-2024-11-04 |  2.600 | 🌒 | Zunehmender Sichelmond
-2024-11-05 |  3.456 | 🌒 | Zunehmender Sichelmond
-2024-11-06 |  4.389 | 🌒 | Zunehmender Sichelmond
-2024-11-07 |  5.322 | 🌒 | Zunehmender Sichelmond
-2024-11-08 |  6.256 | 🌒 | Zunehmender Sichelmond
 2024-11-09 |  7.267 | 🌓 | Erstes Viertel
 2024-11-10 |  8.200 | 🌔 | Zunehmender Mond
 2024-11-11 |  9.211 | 🌔 | Zunehmender Mond
@@ -1194,3 +1165,32 @@ Tag        | Phase  | Symbole | Name
 2028-01-13 | 15.356 | 🌖 | Abnehmender Mond
 2028-01-14 | 16.445 | 🌖 | Abnehmender Mond
 2028-01-15 | 17.533 | 🌖 | Abnehmender Mond
+2028-01-16 | 18.622 | 🌖 | Abnehmender Mond
+2028-01-17 | 19.633 | 🌖 | Abnehmender Mond
+2028-01-18 | 20.645 | 🌖 | Abnehmender Mond
+2028-01-19 | 21.656 | 🌗 | Letztes Viertel
+2028-01-20 | 22.589 | 🌘 | Abnehmender Sichelmond
+2028-01-21 | 23.522 | 🌘 | Abnehmender Sichelmond
+2028-01-22 | 24.456 | 🌘 | Abnehmender Sichelmond
+2028-01-23 | 25.311 | 🌘 | Abnehmender Sichelmond
+2028-01-24 | 26.245 | 🌘 | Abnehmender Sichelmond
+2028-01-25 | 27.100 | 🌘 | Abnehmender Sichelmond
+2028-01-26 | 27.956 | 🌘 | Abnehmender Sichelmond
+2028-01-27 |  0.811 | 🌑 | Neumond
+2028-01-28 |  1.589 | 🌒 | Zunehmender Sichelmond
+2028-01-29 |  2.445 | 🌒 | Zunehmender Sichelmond
+2028-01-30 |  3.300 | 🌒 | Zunehmender Sichelmond
+2028-01-31 |  4.156 | 🌒 | Zunehmender Sichelmond
+2028-02-01 |  5.011 | 🌒 | Zunehmender Sichelmond
+2028-02-02 |  5.867 | 🌒 | Zunehmender Sichelmond
+2028-02-03 |  6.722 | 🌒 | Zunehmender Sichelmond
+2028-02-04 |  7.656 | 🌓 | Erstes Viertel
+2028-02-05 |  8.589 | 🌔 | Zunehmender Mond
+2028-02-06 |  9.600 | 🌔 | Zunehmender Mond
+2028-02-07 | 10.611 | 🌔 | Zunehmender Mond
+2028-02-08 | 11.622 | 🌔 | Zunehmender Mond
+2028-02-09 | 12.711 | 🌔 | Zunehmender Mond
+2028-02-10 | 13.800 | 🌔 | Zunehmender Mond
+2028-02-11 | 14.889 | 🌕 | Vollmond
+2028-02-12 | 15.978 | 🌖 | Abnehmender Mond
+2028-02-13 | 17.067 | 🌖 | Abnehmender Mond

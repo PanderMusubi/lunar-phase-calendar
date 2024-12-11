@@ -2,35 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2024-10-11 |  7.656 | 🌓 | Cuarto creciente
-2024-10-12 |  8.667 | 🌔 | Luna creciente gibosa
-2024-10-13 |  9.678 | 🌔 | Luna creciente gibosa
-2024-10-14 | 10.689 | 🌔 | Luna creciente gibosa
-2024-10-15 | 11.778 | 🌔 | Luna creciente gibosa
-2024-10-16 | 12.867 | 🌔 | Luna creciente gibosa
-2024-10-17 | 13.956 | 🌔 | Luna creciente gibosa
-2024-10-18 | 15.045 | 🌕 | Luna llena
-2024-10-19 | 16.133 | 🌖 | Luna menguante gibosa
-2024-10-20 | 17.145 | 🌖 | Luna menguante gibosa
-2024-10-21 | 18.233 | 🌖 | Luna menguante gibosa
-2024-10-22 | 19.245 | 🌖 | Luna menguante gibosa
-2024-10-23 | 20.256 | 🌖 | Luna menguante gibosa
-2024-10-24 | 21.189 | 🌗 | Cuarto menguante
-2024-10-25 | 22.045 | 🌘 | Luna menguante
-2024-10-26 | 22.978 | 🌘 | Luna menguante
-2024-10-27 | 23.833 | 🌘 | Luna menguante
-2024-10-28 | 24.689 | 🌘 | Luna menguante
-2024-10-29 | 25.467 | 🌘 | Luna menguante
-2024-10-30 | 26.322 | 🌘 | Luna menguante
-2024-10-31 | 27.178 | 🌘 | Luna menguante
-2024-11-01 |  0.033 | 🌑 | Luna nueva
-2024-11-02 |  0.889 | 🌒 | Luna creciente
-2024-11-03 |  1.745 | 🌒 | Luna creciente
-2024-11-04 |  2.600 | 🌒 | Luna creciente
-2024-11-05 |  3.456 | 🌒 | Luna creciente
-2024-11-06 |  4.389 | 🌒 | Luna creciente
-2024-11-07 |  5.322 | 🌒 | Luna creciente
-2024-11-08 |  6.256 | 🌒 | Luna creciente
 2024-11-09 |  7.267 | 🌓 | Cuarto creciente
 2024-11-10 |  8.200 | 🌔 | Luna creciente gibosa
 2024-11-11 |  9.211 | 🌔 | Luna creciente gibosa
@@ -1194,3 +1165,32 @@ Día        | Fase   | Símbolo | Nombre
 2028-01-13 | 15.356 | 🌖 | Luna menguante gibosa
 2028-01-14 | 16.445 | 🌖 | Luna menguante gibosa
 2028-01-15 | 17.533 | 🌖 | Luna menguante gibosa
+2028-01-16 | 18.622 | 🌖 | Luna menguante gibosa
+2028-01-17 | 19.633 | 🌖 | Luna menguante gibosa
+2028-01-18 | 20.645 | 🌖 | Luna menguante gibosa
+2028-01-19 | 21.656 | 🌗 | Cuarto menguante
+2028-01-20 | 22.589 | 🌘 | Luna menguante
+2028-01-21 | 23.522 | 🌘 | Luna menguante
+2028-01-22 | 24.456 | 🌘 | Luna menguante
+2028-01-23 | 25.311 | 🌘 | Luna menguante
+2028-01-24 | 26.245 | 🌘 | Luna menguante
+2028-01-25 | 27.100 | 🌘 | Luna menguante
+2028-01-26 | 27.956 | 🌘 | Luna menguante
+2028-01-27 |  0.811 | 🌑 | Luna nueva
+2028-01-28 |  1.589 | 🌒 | Luna creciente
+2028-01-29 |  2.445 | 🌒 | Luna creciente
+2028-01-30 |  3.300 | 🌒 | Luna creciente
+2028-01-31 |  4.156 | 🌒 | Luna creciente
+2028-02-01 |  5.011 | 🌒 | Luna creciente
+2028-02-02 |  5.867 | 🌒 | Luna creciente
+2028-02-03 |  6.722 | 🌒 | Luna creciente
+2028-02-04 |  7.656 | 🌓 | Cuarto creciente
+2028-02-05 |  8.589 | 🌔 | Luna creciente gibosa
+2028-02-06 |  9.600 | 🌔 | Luna creciente gibosa
+2028-02-07 | 10.611 | 🌔 | Luna creciente gibosa
+2028-02-08 | 11.622 | 🌔 | Luna creciente gibosa
+2028-02-09 | 12.711 | 🌔 | Luna creciente gibosa
+2028-02-10 | 13.800 | 🌔 | Luna creciente gibosa
+2028-02-11 | 14.889 | 🌕 | Luna llena
+2028-02-12 | 15.978 | 🌖 | Luna menguante gibosa
+2028-02-13 | 17.067 | 🌖 | Luna menguante gibosa

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Generates calendars with lunar phase in iCal format.'''
+"""Generates calendars with lunar phase in iCal format."""
 
 from datetime import date, datetime, timedelta
 from json import load
@@ -22,17 +22,17 @@ titles = ('en', 'pt')
 
 
 def moon_phase_code_to_name(code: str, lang: str = 'en') -> str:
-    '''Converts moon phase code to name.'''
+    """Converts moon phase code to name."""
     return moon_phase_names[lang][code]
 
 
 def moon_phase_code_to_symbol(code: int) -> str:
-    '''Converts moon phase code to symbol.'''
+    """Converts moon phase code to symbol."""
     return moon_phase_symbols[code]
 
 
 def moon_phase_to_inacurate_code(phase: float) -> int:
-    '''Converts moon phase code to inacurate code.'''
+    """Converts moon phase code to inacurate code."""
     value = int(phase)
     res = None
     if value == 0:
@@ -55,7 +55,7 @@ def moon_phase_to_inacurate_code(phase: float) -> int:
 
 
 def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
-    '''Converts day to moon phase and accurate code.'''
+    """Converts day to moon phase and accurate code."""
     phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
@@ -76,7 +76,7 @@ def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
 
 
 def write_files(country: str, lang: str) -> None:
-    '''Writes calendar files.'''
+    """Writes calendar files."""
     # date and time
     utcnow = datetime.utcnow()
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
@@ -235,8 +235,8 @@ def write_files(country: str, lang: str) -> None:
         ics_all.write(line)
 
 
-def generate():
-    '''Generate files.'''
+def generate() -> None:
+    """Generate files."""
     for country in sorted(countries.keys()):
         if not isdir(country):
             makedirs(country)
