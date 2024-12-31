@@ -3,36 +3,38 @@
 
 from datetime import date, datetime, timedelta
 from json import load
-from os.path import isdir, realpath, join, dirname
-from os import makedirs, chdir, getpid, getcwd
+from os.path import isdir
+from os import makedirs, chdir, getpid
 from socket import getfqdn
+
 from astral.moon import phase
 
-__location__ = realpath(join(getcwd(), dirname(__file__)))
-moon_phase_names = load(open(join(__location__, 'moon-phase-names.json'), encoding='utf8'))  # pylint:disable=consider-using-with
+# pylint:disable=unspecified-encoding,disable=consider-using-with
+
+moon_phase_names = load(open('moon-phase-names.json'))
 moon_phase_symbols = ('🌑', '🌒', '🌓', '🌔', '🌕', '🌖', '🌗', '🌘')
 
-countries = load(open(join(__location__, 'countries.json'), encoding='utf8'))  # pylint:disable=consider-using-with
+countries = load(open('countries.json'))
 
-# capitalized header values for day, phase, symbol, name and title
-header = load(open(join(__location__, 'headers.json'), encoding='utf8'))  # pylint:disable=consider-using-with
+# Capitalized header values for day, phase, symbol, name and title.
+header = load(open('headers.json'))
 
-# explicitely capitalize with title() all words
+# Explicitely capitalize with title() all words.
 titles = ('en', 'pt')
 
 
-def moon_phase_code_to_name(code: str, lang: str = 'en') -> str:
-    """Converts moon phase code to name."""
+def moon_phase_code_to_name(code: int, lang: str = 'en') -> str:
+    """Convert moon phase code to name."""
     return moon_phase_names[lang][code]
 
 
 def moon_phase_code_to_symbol(code: int) -> str:
-    """Converts moon phase code to symbol."""
+    """Convert moon phase code to symbol."""
     return moon_phase_symbols[code]
 
 
 def moon_phase_to_inacurate_code(phase: float) -> int:
-    """Converts moon phase code to inacurate code."""
+    """Convert moon phase code to inacurate code."""
     value = int(phase)
     res = None
     if value == 0:
@@ -54,8 +56,8 @@ def moon_phase_to_inacurate_code(phase: float) -> int:
     return res
 
 
-def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
-    """Converts day to moon phase and accurate code."""
+def day_to_moon_phase_and_accurate_code(day: date) -> tuple[float, int]:
+    """Convert day to moon phase and accurate code."""
     phase_today = phase(day)
     code_today = moon_phase_to_inacurate_code(phase_today)
 
@@ -63,7 +65,7 @@ def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
     code_yesterday = moon_phase_to_inacurate_code(phase_yesterday)
 
     if (code_today - code_yesterday) % 8 > 1:
-        # skipped one code, hence do correction
+        # Skipped one code, hence do correction.
         return phase_today, (code_today - 1) % 8
 
     if code_today % 2 != 0:
@@ -76,7 +78,7 @@ def day_to_moon_phase_and_accurate_code(day: date) -> tuple:
 
 
 def write_files(country: str, lang: str) -> None:
-    """Writes calendar files."""
+    """Write calendar files."""
     # date and time
     utcnow = datetime.utcnow()
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
@@ -90,21 +92,21 @@ def write_files(country: str, lang: str) -> None:
     }
     event_seq = 1
 
-    # open files for writing
-    tsv = open('moon-phases.tsv', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    tsv_new = open('new-moon.tsv', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    tsv_full = open('full-moon.tsv', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    tsv_all = open('moon-phases-all.tsv', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    mkd = open('moon-phases.md', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    mkd_new = open('new-moon.md', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    mkd_full = open('full-moon.md', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    mkd_all = open('moon-phases-all.md', 'w', encoding='utf8')  # pylint:disable=consider-using-with
-    ics = open('moon-phases.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
-    ics_new = open('new-moon.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
-    ics_full = open('full-moon.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
-    ics_all = open('moon-phases-all.ics', 'w', newline='\r\n', encoding='utf8')  # pylint:disable=consider-using-with
+    # Open files for writing.
+    tsv = open('moon-phases.tsv', 'w')
+    tsv_new = open('new-moon.tsv', 'w')
+    tsv_full = open('full-moon.tsv', 'w')
+    tsv_all = open('moon-phases-all.tsv', 'w')
+    mkd = open('moon-phases.md', 'w')
+    mkd_new = open('new-moon.md', 'w')
+    mkd_full = open('full-moon.md', 'w')
+    mkd_all = open('moon-phases-all.md', 'w')
+    ics = open('moon-phases.ics', 'w', newline='\r\n')
+    ics_new = open('new-moon.ics', 'w', newline='\r\n')
+    ics_full = open('full-moon.ics', 'w', newline='\r\n')
+    ics_all = open('moon-phases-all.ics', 'w', newline='\r\n')
 
-    # write headers
+    # Write headers.
     tsv_header = f'# {header[lang][0].ljust(10)}\t# {header[lang][1]}\t#' \
         f' {header[lang][2]}\t# {header[lang][3]}\n'
     tsv_header_short = f'# {header[lang][0]}\t# {header[lang][1]}\n'
@@ -140,32 +142,36 @@ def write_files(country: str, lang: str) -> None:
     mkd_all.write(mkd_header)
     mkd_new.write(mkd_header_new)
     mkd_full.write(mkd_header_full)
-    calendar_header = open(f'../../templates/calendar-header-{country}.txt', encoding='utf8')  # pylint:disable=consider-using-with
+    calendar_header = open(f'../../templates/calendar-header-{country}.txt')
     for line in calendar_header:
         if lang in titles:
             ics.write(line.replace('Lunar Phase', header[lang][4].title()))
-            ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0].title()))
-            ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4].title()))
+            ics_new.write(line.replace('Lunar Phase',
+                                       moon_phase_names[lang][0].title()))
+            ics_full.write(line.replace('Lunar Phase',
+                                        moon_phase_names[lang][4].title()))
             ics_all.write(line.replace('Lunar Phase', header[lang][4].title()))
         else:
             ics.write(line.replace('Lunar Phase', header[lang][4]))
-            ics_new.write(line.replace('Lunar Phase', moon_phase_names[lang][0]))
-            ics_full.write(line.replace('Lunar Phase', moon_phase_names[lang][4]))
+            ics_new.write(line.replace('Lunar Phase',
+                                       moon_phase_names[lang][0]))
+            ics_full.write(line.replace('Lunar Phase',
+                                        moon_phase_names[lang][4]))
             ics_all.write(line.replace('Lunar Phase', header[lang][4]))
 
-    # create event header
+    # Create event header.
     event_header = ''
-    for line in open('../../templates/event-header.txt', encoding='utf8'):  # pylint:disable=consider-using-with
+    for line in open('../../templates/event-header.txt'):
         event_header += line.replace('DTSTAMP:', f'DTSTAMP:{dtstamp}')
 
-    # create event footer
+    # Create event footer.
     event_footer = ''
-    for line in open('../../templates/event-footer.txt', encoding='utf8'):  # pylint:disable=consider-using-with
+    for line in open('../../templates/event-footer.txt'):
         event_footer += line  # pylint:disable=consider-using-join
 
     today = date.today()
-    start = today - timedelta(days=31 + 1)
-    end = today + timedelta(days=(3 * 366) + (2 * 31))
+    start = today - timedelta(days=6 * 31)
+    end = today + timedelta(days=(5 * 366) + (3 * 31))
     for i in range((end - start).days):
         day = start + timedelta(days=i)
         phase, code = day_to_moon_phase_and_accurate_code(day)
@@ -175,8 +181,7 @@ def write_files(country: str, lang: str) -> None:
         mkd_all.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
         ics_all.write(f'{event_header.strip()}{symbol} {name}\n')
         ics_all.write(uid_format % (dict(
-            list(uid_replace_values.items()) + list({'lang': 'nl',
-                                                     'seq': event_seq}.items())))
+            list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
         )
         event_seq += 1
         ics_start = f'{day}'
@@ -189,8 +194,7 @@ def write_files(country: str, lang: str) -> None:
             mkd.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
             ics.write(f'{event_header.strip()}{symbol} {name}\n')
             ics.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl',
-                                                         'seq': event_seq}.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
@@ -203,8 +207,7 @@ def write_files(country: str, lang: str) -> None:
             mkd_new.write(f'{day} | {phase:6.3f}\n')
             ics_new.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_new.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl',
-                                                         'seq': event_seq}.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
@@ -217,17 +220,17 @@ def write_files(country: str, lang: str) -> None:
             mkd_full.write(f'{day} | {phase:6.3f}\n')
             ics_full.write(f'{event_header.strip()}{symbol} {name}\n')
             ics_full.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl',
-                                                         'seq': event_seq}.items())))
+                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
             )
             event_seq += 1
             ics_start = f'{day}'
             ics_end = f'{day + timedelta(days=1)}'
-            ics_full.write(f'DTSTART;VALUE=DATE:{ics_start.replace("-", "")}\n')
+            ics_full.write('DTSTART;VALUE='
+                           f'DATE:{ics_start.replace("-", "")}\n')
             ics_full.write(f'DTEND;VALUE=DATE:{ics_end.replace("-", "")}\n')
             ics_full.write(event_footer)
 
-    calendar_footer = open('../../templates/calendar-footer.txt', encoding='utf8')  # pylint:disable=consider-using-with
+    calendar_footer = open('../../templates/calendar-footer.txt')
     for line in calendar_footer:
         ics.write(line)
         ics_new.write(line)
@@ -236,12 +239,13 @@ def write_files(country: str, lang: str) -> None:
 
 
 def generate() -> None:
-    """Generate files."""
+    """Generate files for countries and languages."""
     for country in sorted(countries.keys()):
         if not isdir(country):
             makedirs(country)
         chdir(country)
         for language in sorted(countries[country]):
+            print(f'{country}/{language}')
             if not isdir(language):
                 makedirs(language)
             chdir(language)
