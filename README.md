@@ -60,7 +60,7 @@ Emoji support moon phases, hence the following Unicode characters are use in the
 
 Generate a new calendar by installing the required package with
 
-    pip install -Ur requirements/use.txt
+    pip install -Ur requirements.txt
 
 and run
 
@@ -71,7 +71,7 @@ Use https://icalendar.org/validator.html and https://icalvalidator.com/index.htm
 For development purposes and before running `lint.sh`, do
 
     sudo apt-get -y install devscripts
-    pip install -Ur requirements/dev.txt
+    pip install -Ur requirements_dev.txt
 
 Translation are welcome via PR for the files [countries.json](countries.json), [headers.json](headers.json) and [moon-phase-names.json](moon-phase-names.json).
 

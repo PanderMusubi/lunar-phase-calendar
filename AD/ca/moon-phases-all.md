@@ -2,46 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2024-06-28 | 20.489 | 🌖 | Lluna gibosa minvant
-2024-06-29 | 21.578 | 🌗 | Cuarto minvant
-2024-06-30 | 22.589 | 🌘 | Lluna minvant
-2024-07-01 | 23.600 | 🌘 | Lluna minvant
-2024-07-02 | 24.611 | 🌘 | Lluna minvant
-2024-07-03 | 25.545 | 🌘 | Lluna minvant
-2024-07-04 | 26.556 | 🌘 | Lluna minvant
-2024-07-05 | 27.567 | 🌘 | Lluna minvant
-2024-07-06 |  0.500 | 🌑 | Lluna nova
-2024-07-07 |  1.433 | 🌒 | Lluna nova visible
-2024-07-08 |  2.367 | 🌒 | Lluna nova visible
-2024-07-09 |  3.222 | 🌒 | Lluna nova visible
-2024-07-10 |  4.156 | 🌒 | Lluna nova visible
-2024-07-11 |  5.011 | 🌒 | Lluna nova visible
-2024-07-12 |  5.789 | 🌒 | Lluna nova visible
-2024-07-13 |  6.645 | 🌒 | Lluna nova visible
-2024-07-14 |  7.500 | 🌓 | Cuart creixent
-2024-07-15 |  8.356 | 🌔 | Lluna gibosa creixent
-2024-07-16 |  9.211 | 🌔 | Lluna gibosa creixent
-2024-07-17 | 10.145 | 🌔 | Lluna gibosa creixent
-2024-07-18 | 11.078 | 🌔 | Lluna gibosa creixent
-2024-07-19 | 12.011 | 🌔 | Lluna gibosa creixent
-2024-07-20 | 13.022 | 🌔 | Lluna gibosa creixent
-2024-07-21 | 14.033 | 🌕 | Lluna plena
-2024-07-22 | 15.045 | 🌖 | Lluna gibosa minvant
-2024-07-23 | 16.133 | 🌖 | Lluna gibosa minvant
-2024-07-24 | 17.145 | 🌖 | Lluna gibosa minvant
-2024-07-25 | 18.233 | 🌖 | Lluna gibosa minvant
-2024-07-26 | 19.245 | 🌖 | Lluna gibosa minvant
-2024-07-27 | 20.333 | 🌖 | Lluna gibosa minvant
-2024-07-28 | 21.345 | 🌗 | Cuarto minvant
-2024-07-29 | 22.356 | 🌘 | Lluna minvant
-2024-07-30 | 23.289 | 🌘 | Lluna minvant
-2024-07-31 | 24.300 | 🌘 | Lluna minvant
-2024-08-01 | 25.233 | 🌘 | Lluna minvant
-2024-08-02 | 26.167 | 🌘 | Lluna minvant
-2024-08-03 | 27.100 | 🌘 | Lluna minvant
-2024-08-04 |  0.033 | 🌑 | Lluna nova
-2024-08-05 |  0.967 | 🌒 | Lluna nova visible
-2024-08-06 |  1.822 | 🌒 | Lluna nova visible
 2024-08-07 |  2.678 | 🌒 | Lluna nova visible
 2024-08-08 |  3.533 | 🌒 | Lluna nova visible
 2024-08-09 |  4.389 | 🌒 | Lluna nova visible
@@ -2111,3 +2071,43 @@ Dia        | Fase   | Símbol | Nom
 2030-04-04 |  1.433 | 🌒 | Lluna nova visible
 2030-04-05 |  2.289 | 🌒 | Lluna nova visible
 2030-04-06 |  3.067 | 🌒 | Lluna nova visible
+2030-04-07 |  3.922 | 🌒 | Lluna nova visible
+2030-04-08 |  4.778 | 🌒 | Lluna nova visible
+2030-04-09 |  5.633 | 🌒 | Lluna nova visible
+2030-04-10 |  6.489 | 🌒 | Lluna nova visible
+2030-04-11 |  7.345 | 🌓 | Cuart creixent
+2030-04-12 |  8.200 | 🌔 | Lluna gibosa creixent
+2030-04-13 |  9.133 | 🌔 | Lluna gibosa creixent
+2030-04-14 | 10.145 | 🌔 | Lluna gibosa creixent
+2030-04-15 | 11.156 | 🌔 | Lluna gibosa creixent
+2030-04-16 | 12.167 | 🌔 | Lluna gibosa creixent
+2030-04-17 | 13.256 | 🌔 | Lluna gibosa creixent
+2030-04-18 | 14.345 | 🌕 | Lluna plena
+2030-04-19 | 15.433 | 🌖 | Lluna gibosa minvant
+2030-04-20 | 16.522 | 🌖 | Lluna gibosa minvant
+2030-04-21 | 17.611 | 🌖 | Lluna gibosa minvant
+2030-04-22 | 18.622 | 🌖 | Lluna gibosa minvant
+2030-04-23 | 19.711 | 🌖 | Lluna gibosa minvant
+2030-04-24 | 20.722 | 🌖 | Lluna gibosa minvant
+2030-04-25 | 21.656 | 🌗 | Cuarto minvant
+2030-04-26 | 22.589 | 🌘 | Lluna minvant
+2030-04-27 | 23.522 | 🌘 | Lluna minvant
+2030-04-28 | 24.456 | 🌘 | Lluna minvant
+2030-04-29 | 25.389 | 🌘 | Lluna minvant
+2030-04-30 | 26.245 | 🌘 | Lluna minvant
+2030-05-01 | 27.100 | 🌘 | Lluna minvant
+2030-05-02 | 27.956 | 🌘 | Lluna minvant
+2030-05-03 |  0.811 | 🌑 | Lluna nova
+2030-05-04 |  1.667 | 🌒 | Lluna nova visible
+2030-05-05 |  2.445 | 🌒 | Lluna nova visible
+2030-05-06 |  3.300 | 🌒 | Lluna nova visible
+2030-05-07 |  4.156 | 🌒 | Lluna nova visible
+2030-05-08 |  5.011 | 🌒 | Lluna nova visible
+2030-05-09 |  5.867 | 🌒 | Lluna nova visible
+2030-05-10 |  6.800 | 🌒 | Lluna nova visible
+2030-05-11 |  7.733 | 🌓 | Cuart creixent
+2030-05-12 |  8.667 | 🌔 | Lluna gibosa creixent
+2030-05-13 |  9.678 | 🌔 | Lluna gibosa creixent
+2030-05-14 | 10.689 | 🌔 | Lluna gibosa creixent
+2030-05-15 | 11.778 | 🌔 | Lluna gibosa creixent
+2030-05-16 | 12.867 | 🌔 | Lluna gibosa creixent
