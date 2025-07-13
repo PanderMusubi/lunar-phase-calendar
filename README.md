@@ -60,11 +60,14 @@ Emoji support moon phases, hence the following Unicode characters are use in the
 
 Generate a new calendar by installing the required package with
 
+    sudo apt-get -y install python3-venv
+    python3 -m venv .venv
+    . .venv/bin/activate
     pip install -Ur requirements.txt
 
 and run
 
-    ./generate.py
+    .venv/bin/python generate.py
 
 Use https://icalendar.org/validator.html and https://icalvalidator.com/index.html to validate the generated calendars.
 
