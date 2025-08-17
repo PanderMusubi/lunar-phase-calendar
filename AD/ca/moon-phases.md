@@ -2,10 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2025-01-14 | 14.500 | 🌕 | Lluna plena
-2025-01-22 | 21.578 | 🌗 | Cuarto minvant
-2025-01-30 |  0.967 | 🌑 | Lluna nova
-2025-02-05 |  7.111 | 🌓 | Cuart creixent
 2025-02-13 | 14.811 | 🌕 | Lluna plena
 2025-02-21 | 21.656 | 🌗 | Cuarto minvant
 2025-02-28 |  0.422 | 🌑 | Lluna nova
@@ -287,3 +283,8 @@ Dia        | Fase   | Símbol | Nom
 2030-09-27 |  0.033 | 🌑 | Lluna nova
 2030-10-04 |  7.267 | 🌓 | Cuart creixent
 2030-10-11 | 14.033 | 🌕 | Lluna plena
+2030-10-20 | 21.811 | 🌗 | Cuarto minvant
+2030-10-27 |  0.656 | 🌑 | Lluna nova
+2030-11-03 |  7.967 | 🌓 | Cuart creixent
+2030-11-10 | 14.345 | 🌕 | Lluna plena
+2030-11-18 | 21.111 | 🌗 | Cuarto minvant

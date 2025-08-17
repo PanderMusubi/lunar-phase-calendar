@@ -2,10 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2025-01-14 | 14.500 | 🌕 | Luna piena
-2025-01-22 | 21.578 | 🌗 | Ultimo quarto
-2025-01-30 |  0.967 | 🌑 | Luna nuova
-2025-02-05 |  7.111 | 🌓 | Primo quarto
 2025-02-13 | 14.811 | 🌕 | Luna piena
 2025-02-21 | 21.656 | 🌗 | Ultimo quarto
 2025-02-28 |  0.422 | 🌑 | Luna nuova
@@ -287,3 +283,8 @@ Giorno     | Fase   | Simbolo | Nome
 2030-09-27 |  0.033 | 🌑 | Luna nuova
 2030-10-04 |  7.267 | 🌓 | Primo quarto
 2030-10-11 | 14.033 | 🌕 | Luna piena
+2030-10-20 | 21.811 | 🌗 | Ultimo quarto
+2030-10-27 |  0.656 | 🌑 | Luna nuova
+2030-11-03 |  7.967 | 🌓 | Primo quarto
+2030-11-10 | 14.345 | 🌕 | Luna piena
+2030-11-18 | 21.111 | 🌗 | Ultimo quarto

@@ -2,41 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2025-01-08 |  8.511 | 🌔 | Wassende,vooruitspringende maan
-2025-01-09 |  9.522 | 🌔 | Wassende,vooruitspringende maan
-2025-01-10 | 10.533 | 🌔 | Wassende,vooruitspringende maan
-2025-01-11 | 11.545 | 🌔 | Wassende,vooruitspringende maan
-2025-01-12 | 12.556 | 🌔 | Wassende,vooruitspringende maan
-2025-01-13 | 13.567 | 🌔 | Wassende,vooruitspringende maan
-2025-01-14 | 14.500 | 🌕 | Volle maan
-2025-01-15 | 15.511 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-16 | 16.445 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-17 | 17.300 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-18 | 18.233 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-19 | 19.089 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-20 | 19.945 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-21 | 20.722 | 🌖 | Krimpende, vooruitspringende maan
-2025-01-22 | 21.578 | 🌗 | Laatste kwartier
-2025-01-23 | 22.433 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-24 | 23.289 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-25 | 24.145 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-26 | 25.078 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-27 | 26.011 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-28 | 26.945 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-29 | 27.956 | 🌘 | Krimpende, sikkelvormige maan
-2025-01-30 |  0.967 | 🌑 | Nieuwe maan
-2025-01-31 |  1.978 | 🌒 | Wassende, sikkelvormige maan
-2025-02-01 |  2.989 | 🌒 | Wassende, sikkelvormige maan
-2025-02-02 |  4.000 | 🌒 | Wassende, sikkelvormige maan
-2025-02-03 |  5.089 | 🌒 | Wassende, sikkelvormige maan
-2025-02-04 |  6.100 | 🌒 | Wassende, sikkelvormige maan
-2025-02-05 |  7.111 | 🌓 | Eerste kwartier
-2025-02-06 |  8.122 | 🌔 | Wassende,vooruitspringende maan
-2025-02-07 |  9.133 | 🌔 | Wassende,vooruitspringende maan
-2025-02-08 | 10.145 | 🌔 | Wassende,vooruitspringende maan
-2025-02-09 | 11.078 | 🌔 | Wassende,vooruitspringende maan
-2025-02-10 | 12.089 | 🌔 | Wassende,vooruitspringende maan
-2025-02-11 | 13.022 | 🌔 | Wassende,vooruitspringende maan
 2025-02-12 | 13.956 | 🌔 | Wassende,vooruitspringende maan
 2025-02-13 | 14.811 | 🌕 | Volle maan
 2025-02-14 | 15.745 | 🌖 | Krimpende, vooruitspringende maan
@@ -2111,3 +2076,38 @@ Dag        | Fase   | Symbool | Naam
 2030-10-15 | 17.533 | 🌖 | Krimpende, vooruitspringende maan
 2030-10-16 | 18.389 | 🌖 | Krimpende, vooruitspringende maan
 2030-10-17 | 19.245 | 🌖 | Krimpende, vooruitspringende maan
+2030-10-18 | 20.100 | 🌖 | Krimpende, vooruitspringende maan
+2030-10-19 | 20.956 | 🌖 | Krimpende, vooruitspringende maan
+2030-10-20 | 21.811 | 🌗 | Laatste kwartier
+2030-10-21 | 22.667 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-22 | 23.600 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-23 | 24.533 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-24 | 25.467 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-25 | 26.478 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-26 | 27.567 | 🌘 | Krimpende, sikkelvormige maan
+2030-10-27 |  0.656 | 🌑 | Nieuwe maan
+2030-10-28 |  1.667 | 🌒 | Wassende, sikkelvormige maan
+2030-10-29 |  2.756 | 🌒 | Wassende, sikkelvormige maan
+2030-10-30 |  3.845 | 🌒 | Wassende, sikkelvormige maan
+2030-10-31 |  4.933 | 🌒 | Wassende, sikkelvormige maan
+2030-11-01 |  5.945 | 🌒 | Wassende, sikkelvormige maan
+2030-11-02 |  6.956 | 🌒 | Wassende, sikkelvormige maan
+2030-11-03 |  7.967 | 🌓 | Eerste kwartier
+2030-11-04 |  8.900 | 🌔 | Wassende,vooruitspringende maan
+2030-11-05 |  9.833 | 🌔 | Wassende,vooruitspringende maan
+2030-11-06 | 10.767 | 🌔 | Wassende,vooruitspringende maan
+2030-11-07 | 11.700 | 🌔 | Wassende,vooruitspringende maan
+2030-11-08 | 12.633 | 🌔 | Wassende,vooruitspringende maan
+2030-11-09 | 13.489 | 🌔 | Wassende,vooruitspringende maan
+2030-11-10 | 14.345 | 🌕 | Volle maan
+2030-11-11 | 15.200 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-12 | 16.056 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-13 | 16.911 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-14 | 17.689 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-15 | 18.545 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-16 | 19.400 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-17 | 20.256 | 🌖 | Krimpende, vooruitspringende maan
+2030-11-18 | 21.111 | 🌗 | Laatste kwartier
+2030-11-19 | 22.045 | 🌘 | Krimpende, sikkelvormige maan
+2030-11-20 | 22.978 | 🌘 | Krimpende, sikkelvormige maan
+2030-11-21 | 23.911 | 🌘 | Krimpende, sikkelvormige maan

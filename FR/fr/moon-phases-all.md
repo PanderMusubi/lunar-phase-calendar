@@ -2,41 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2025-01-08 |  8.511 | 🌔 | Lune gibbeuse croissante
-2025-01-09 |  9.522 | 🌔 | Lune gibbeuse croissante
-2025-01-10 | 10.533 | 🌔 | Lune gibbeuse croissante
-2025-01-11 | 11.545 | 🌔 | Lune gibbeuse croissante
-2025-01-12 | 12.556 | 🌔 | Lune gibbeuse croissante
-2025-01-13 | 13.567 | 🌔 | Lune gibbeuse croissante
-2025-01-14 | 14.500 | 🌕 | Pleine lune
-2025-01-15 | 15.511 | 🌖 | Lune gibbeuse décroissante
-2025-01-16 | 16.445 | 🌖 | Lune gibbeuse décroissante
-2025-01-17 | 17.300 | 🌖 | Lune gibbeuse décroissante
-2025-01-18 | 18.233 | 🌖 | Lune gibbeuse décroissante
-2025-01-19 | 19.089 | 🌖 | Lune gibbeuse décroissante
-2025-01-20 | 19.945 | 🌖 | Lune gibbeuse décroissante
-2025-01-21 | 20.722 | 🌖 | Lune gibbeuse décroissante
-2025-01-22 | 21.578 | 🌗 | Dernier quartier
-2025-01-23 | 22.433 | 🌘 | Dernier croissant
-2025-01-24 | 23.289 | 🌘 | Dernier croissant
-2025-01-25 | 24.145 | 🌘 | Dernier croissant
-2025-01-26 | 25.078 | 🌘 | Dernier croissant
-2025-01-27 | 26.011 | 🌘 | Dernier croissant
-2025-01-28 | 26.945 | 🌘 | Dernier croissant
-2025-01-29 | 27.956 | 🌘 | Dernier croissant
-2025-01-30 |  0.967 | 🌑 | Nouvelle lune
-2025-01-31 |  1.978 | 🌒 | Premier croissant
-2025-02-01 |  2.989 | 🌒 | Premier croissant
-2025-02-02 |  4.000 | 🌒 | Premier croissant
-2025-02-03 |  5.089 | 🌒 | Premier croissant
-2025-02-04 |  6.100 | 🌒 | Premier croissant
-2025-02-05 |  7.111 | 🌓 | Premier quartier
-2025-02-06 |  8.122 | 🌔 | Lune gibbeuse croissante
-2025-02-07 |  9.133 | 🌔 | Lune gibbeuse croissante
-2025-02-08 | 10.145 | 🌔 | Lune gibbeuse croissante
-2025-02-09 | 11.078 | 🌔 | Lune gibbeuse croissante
-2025-02-10 | 12.089 | 🌔 | Lune gibbeuse croissante
-2025-02-11 | 13.022 | 🌔 | Lune gibbeuse croissante
 2025-02-12 | 13.956 | 🌔 | Lune gibbeuse croissante
 2025-02-13 | 14.811 | 🌕 | Pleine lune
 2025-02-14 | 15.745 | 🌖 | Lune gibbeuse décroissante
@@ -2111,3 +2076,38 @@ Jour       | Phase  | Symbole | Nom
 2030-10-15 | 17.533 | 🌖 | Lune gibbeuse décroissante
 2030-10-16 | 18.389 | 🌖 | Lune gibbeuse décroissante
 2030-10-17 | 19.245 | 🌖 | Lune gibbeuse décroissante
+2030-10-18 | 20.100 | 🌖 | Lune gibbeuse décroissante
+2030-10-19 | 20.956 | 🌖 | Lune gibbeuse décroissante
+2030-10-20 | 21.811 | 🌗 | Dernier quartier
+2030-10-21 | 22.667 | 🌘 | Dernier croissant
+2030-10-22 | 23.600 | 🌘 | Dernier croissant
+2030-10-23 | 24.533 | 🌘 | Dernier croissant
+2030-10-24 | 25.467 | 🌘 | Dernier croissant
+2030-10-25 | 26.478 | 🌘 | Dernier croissant
+2030-10-26 | 27.567 | 🌘 | Dernier croissant
+2030-10-27 |  0.656 | 🌑 | Nouvelle lune
+2030-10-28 |  1.667 | 🌒 | Premier croissant
+2030-10-29 |  2.756 | 🌒 | Premier croissant
+2030-10-30 |  3.845 | 🌒 | Premier croissant
+2030-10-31 |  4.933 | 🌒 | Premier croissant
+2030-11-01 |  5.945 | 🌒 | Premier croissant
+2030-11-02 |  6.956 | 🌒 | Premier croissant
+2030-11-03 |  7.967 | 🌓 | Premier quartier
+2030-11-04 |  8.900 | 🌔 | Lune gibbeuse croissante
+2030-11-05 |  9.833 | 🌔 | Lune gibbeuse croissante
+2030-11-06 | 10.767 | 🌔 | Lune gibbeuse croissante
+2030-11-07 | 11.700 | 🌔 | Lune gibbeuse croissante
+2030-11-08 | 12.633 | 🌔 | Lune gibbeuse croissante
+2030-11-09 | 13.489 | 🌔 | Lune gibbeuse croissante
+2030-11-10 | 14.345 | 🌕 | Pleine lune
+2030-11-11 | 15.200 | 🌖 | Lune gibbeuse décroissante
+2030-11-12 | 16.056 | 🌖 | Lune gibbeuse décroissante
+2030-11-13 | 16.911 | 🌖 | Lune gibbeuse décroissante
+2030-11-14 | 17.689 | 🌖 | Lune gibbeuse décroissante
+2030-11-15 | 18.545 | 🌖 | Lune gibbeuse décroissante
+2030-11-16 | 19.400 | 🌖 | Lune gibbeuse décroissante
+2030-11-17 | 20.256 | 🌖 | Lune gibbeuse décroissante
+2030-11-18 | 21.111 | 🌗 | Dernier quartier
+2030-11-19 | 22.045 | 🌘 | Dernier croissant
+2030-11-20 | 22.978 | 🌘 | Dernier croissant
+2030-11-21 | 23.911 | 🌘 | Dernier croissant
