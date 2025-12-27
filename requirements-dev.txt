@@ -5,3 +5,4 @@ numpydoc
 pydocstyle
 pyflakes
 pylint
+pyright-alright

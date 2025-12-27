@@ -2,24 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2025-02-13 | 14.811 | 🌕 | Luna llena
-2025-02-21 | 21.656 | 🌗 | Cuarto menguante
-2025-02-28 |  0.422 | 🌑 | Luna nueva
-2025-03-07 |  7.733 | 🌓 | Cuarto creciente
-2025-03-14 | 14.189 | 🌕 | Luna llena
-2025-03-22 | 21.033 | 🌗 | Cuarto menguante
-2025-03-30 |  1.045 | 🌑 | Luna nueva
-2025-04-05 |  7.345 | 🌓 | Cuarto creciente
-2025-04-13 | 14.422 | 🌕 | Luna llena
-2025-04-21 | 21.345 | 🌗 | Cuarto menguante
-2025-04-28 |  0.656 | 🌑 | Luna nueva
-2025-05-05 |  7.889 | 🌓 | Cuarto creciente
-2025-05-13 | 14.733 | 🌕 | Luna llena
-2025-05-21 | 21.967 | 🌗 | Cuarto menguante
-2025-05-27 |  0.345 | 🌑 | Luna nueva
-2025-06-03 |  7.345 | 🌓 | Cuarto creciente
-2025-06-11 | 14.189 | 🌕 | Luna llena
-2025-06-19 | 21.656 | 🌗 | Cuarto menguante
 2025-06-26 |  1.045 | 🌑 | Luna nueva
 2025-07-03 |  7.656 | 🌓 | Cuarto creciente
 2025-07-11 | 14.578 | 🌕 | Luna llena
@@ -288,3 +270,21 @@ Día        | Fase   | Símbolo | Nombre
 2030-11-03 |  7.967 | 🌓 | Cuarto creciente
 2030-11-10 | 14.345 | 🌕 | Luna llena
 2030-11-18 | 21.111 | 🌗 | Cuarto menguante
+2030-11-25 |  0.111 | 🌑 | Luna nueva
+2030-12-02 |  7.500 | 🌓 | Cuarto creciente
+2030-12-10 | 14.500 | 🌕 | Luna llena
+2030-12-18 | 21.422 | 🌗 | Cuarto menguante
+2030-12-25 |  0.733 | 🌑 | Luna nueva
+2031-01-01 |  7.889 | 🌓 | Cuarto creciente
+2031-01-09 | 14.656 | 🌕 | Luna llena
+2031-01-17 | 21.967 | 🌗 | Cuarto menguante
+2031-01-23 |  0.267 | 🌑 | Luna nueva
+2031-01-30 |  7.189 | 🌓 | Cuarto creciente
+2031-02-08 | 14.889 | 🌕 | Luna llena
+2031-02-15 | 21.500 | 🌗 | Cuarto menguante
+2031-02-22 |  0.811 | 🌑 | Luna nueva
+2031-03-01 |  7.345 | 🌓 | Cuarto creciente
+2031-03-09 | 14.267 | 🌕 | Luna llena
+2031-03-16 | 21.189 | 🌗 | Cuarto menguante
+2031-03-23 |  0.267 | 🌑 | Luna nueva
+2031-03-31 |  7.422 | 🌓 | Cuarto creciente

@@ -78,6 +78,22 @@ For development purposes and before running `lint.sh`, do
 
 Translation are welcome via PR for the files [countries.json](countries.json), [headers.json](headers.json) and [moon-phase-names.json](moon-phase-names.json).
 
+## Development
+
+Install
+
+```sh
+. .venv/bin/activate
+pip install -Ur requirements-dev.txt
+```
+
+Run
+
+```sh
+checkbashisms *.sh
+./lint.sh
+```
+
 ## See also
 
 See also https://github.com/PanderMusubi/dutch-holidays and https://github.com/commenthol/date-holidays-ical for calendars related to holidays.
