@@ -2,16 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2025-06-24 | 26.945 | 🌘 | Waning crescent
-2025-06-25 | 27.956 | 🌘 | Waning crescent
-2025-06-26 |  1.045 | 🌑 | New moon
-2025-06-27 |  2.056 | 🌒 | Waxing crescent
-2025-06-28 |  3.067 | 🌒 | Waxing crescent
-2025-06-29 |  4.078 | 🌒 | Waxing crescent
-2025-06-30 |  5.011 | 🌒 | Waxing crescent
-2025-07-01 |  5.945 | 🌒 | Waxing crescent
-2025-07-02 |  6.800 | 🌒 | Waxing crescent
-2025-07-03 |  7.656 | 🌓 | First quarter
 2025-07-04 |  8.511 | 🌔 | Waxing gibbous
 2025-07-05 |  9.367 | 🌔 | Waxing gibbous
 2025-07-06 | 10.145 | 🌔 | Waxing gibbous
@@ -2111,3 +2101,13 @@ Day        | Phase  | Symbol | Name
 2031-03-31 |  7.422 | 🌓 | First quarter
 2031-04-01 |  8.278 | 🌔 | Waxing gibbous
 2031-04-02 |  9.133 | 🌔 | Waxing gibbous
+2031-04-03 |  9.989 | 🌔 | Waxing gibbous
+2031-04-04 | 10.922 | 🌔 | Waxing gibbous
+2031-04-05 | 11.856 | 🌔 | Waxing gibbous
+2031-04-06 | 12.789 | 🌔 | Waxing gibbous
+2031-04-07 | 13.722 | 🌔 | Waxing gibbous
+2031-04-08 | 14.733 | 🌕 | Full moon
+2031-04-09 | 15.745 | 🌖 | Waning gibbous
+2031-04-10 | 16.756 | 🌖 | Waning gibbous
+2031-04-11 | 17.845 | 🌖 | Waning gibbous
+2031-04-12 | 18.856 | 🌖 | Waning gibbous

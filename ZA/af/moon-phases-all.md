@@ -2,16 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2025-06-24 | 26.945 | 🌘 | Afnemende sekelmaan
-2025-06-25 | 27.956 | 🌘 | Afnemende sekelmaan
-2025-06-26 |  1.045 | 🌑 | Donkermaan
-2025-06-27 |  2.056 | 🌒 | Groeiende sekelmaan
-2025-06-28 |  3.067 | 🌒 | Groeiende sekelmaan
-2025-06-29 |  4.078 | 🌒 | Groeiende sekelmaan
-2025-06-30 |  5.011 | 🌒 | Groeiende sekelmaan
-2025-07-01 |  5.945 | 🌒 | Groeiende sekelmaan
-2025-07-02 |  6.800 | 🌒 | Groeiende sekelmaan
-2025-07-03 |  7.656 | 🌓 | Eerste kwartier
 2025-07-04 |  8.511 | 🌔 | Groeiende bolmaan
 2025-07-05 |  9.367 | 🌔 | Groeiende bolmaan
 2025-07-06 | 10.145 | 🌔 | Groeiende bolmaan
@@ -2111,3 +2101,13 @@ Dag        | Fase   | Simbool | Naam
 2031-03-31 |  7.422 | 🌓 | Eerste kwartier
 2031-04-01 |  8.278 | 🌔 | Groeiende bolmaan
 2031-04-02 |  9.133 | 🌔 | Groeiende bolmaan
+2031-04-03 |  9.989 | 🌔 | Groeiende bolmaan
+2031-04-04 | 10.922 | 🌔 | Groeiende bolmaan
+2031-04-05 | 11.856 | 🌔 | Groeiende bolmaan
+2031-04-06 | 12.789 | 🌔 | Groeiende bolmaan
+2031-04-07 | 13.722 | 🌔 | Groeiende bolmaan
+2031-04-08 | 14.733 | 🌕 | Volmaan
+2031-04-09 | 15.745 | 🌖 | Afnemende bolmaan
+2031-04-10 | 16.756 | 🌖 | Afnemende bolmaan
+2031-04-11 | 17.845 | 🌖 | Afnemende bolmaan
+2031-04-12 | 18.856 | 🌖 | Afnemende bolmaan

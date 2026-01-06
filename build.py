@@ -2,10 +2,10 @@
 """Generates calendars with lunar phase in iCal format."""
 
 from datetime import date, datetime, timedelta
+from hashlib import sha256
 from json import load
 from os.path import isdir
-from os import makedirs, chdir, getpid
-from socket import getfqdn
+from os import makedirs, chdir
 
 from astral.moon import phase
 
@@ -82,15 +82,6 @@ def write_files(country: str, lang: str) -> None:
     # date and time
     utcnow = datetime.utcnow()
     dtstamp = utcnow.strftime('%Y%m%dT%H%M%SZ')
-
-    # event UID
-    uid_format = 'UID:%(date)s-%(pid)d-%(seq)04d-%(lang)s@%(domain)s\n'
-    uid_replace_values = {
-        'date': dtstamp,
-        'pid': getpid(),
-        'domain': getfqdn()
-    }
-    event_seq = 1
 
     # Open files for writing.
     tsv = open('moon-phases.tsv', 'w')
@@ -180,10 +171,8 @@ def write_files(country: str, lang: str) -> None:
         tsv_all.write(f'{day}\t{phase:6.3f}\t{symbol}\t{name}\n')
         mkd_all.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
         ics_all.write(f'{event_header.strip()}{symbol} {name}\n')
-        ics_all.write(uid_format % (dict(
-            list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
-        )
-        event_seq += 1
+        uid = sha256((str(day) + str(phase) + symbol + name + country + lang).encode()).hexdigest()[:16]
+        ics_all.write(f'UID:{uid}@github.com/pandermusubi\n')
         ics_start = f'{day}'
         ics_end = f'{day + timedelta(days=1)}'
         ics_all.write(f'DTSTART;VALUE=DATE:{ics_start.replace("-", "")}\n')
@@ -193,10 +182,8 @@ def write_files(country: str, lang: str) -> None:
             tsv.write(f'{day}\t{phase:6.3f}\t{symbol}\t{name}\n')
             mkd.write(f'{day} | {phase:6.3f} | {symbol} | {name}\n')
             ics.write(f'{event_header.strip()}{symbol} {name}\n')
-            ics.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
-            )
-            event_seq += 1
+            uid = sha256((str(day) + str(phase) + symbol + name + country + lang).encode()).hexdigest()[:16]
+            ics.write(f'UID:{uid}@github.com/pandermusubi\n')
             ics_start = f'{day}'
             ics_end = f'{day + timedelta(days=1)}'
             ics.write(f'DTSTART;VALUE=DATE:{ics_start.replace("-", "")}\n')
@@ -206,10 +193,8 @@ def write_files(country: str, lang: str) -> None:
             tsv_new.write(f'{day}\t{phase:6.3f}\n')
             mkd_new.write(f'{day} | {phase:6.3f}\n')
             ics_new.write(f'{event_header.strip()}{symbol} {name}\n')
-            ics_new.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
-            )
-            event_seq += 1
+            uid = sha256((str(day) + str(phase) + symbol + name + country + lang).encode()).hexdigest()[:16]
+            ics_new.write(f'UID:{uid}@github.com/pandermusubi\n')
             ics_start = f'{day}'
             ics_end = f'{day + timedelta(days=1)}'
             ics_new.write(f'DTSTART;VALUE=DATE:{ics_start.replace("-", "")}\n')
@@ -219,10 +204,8 @@ def write_files(country: str, lang: str) -> None:
             tsv_full.write(f'{day}\t{phase:6.3f}\n')
             mkd_full.write(f'{day} | {phase:6.3f}\n')
             ics_full.write(f'{event_header.strip()}{symbol} {name}\n')
-            ics_full.write(uid_format % (dict(
-                list(uid_replace_values.items()) + list({'lang': 'nl', 'seq': event_seq}.items())))
-            )
-            event_seq += 1
+            uid = sha256((str(day) + str(phase) + symbol + name + country + lang).encode()).hexdigest()[:16]
+            ics_full.write(f'UID:{uid}@github.com/pandermusubi\n')
             ics_start = f'{day}'
             ics_end = f'{day + timedelta(days=1)}'
             ics_full.write('DTSTART;VALUE='

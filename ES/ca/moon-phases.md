@@ -2,8 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | Lluna nova
-2025-07-03 |  7.656 | 🌓 | Cuart creixent
 2025-07-11 | 14.578 | 🌕 | Lluna plena
 2025-07-18 | 21.422 | 🌗 | Cuarto minvant
 2025-07-25 |  0.656 | 🌑 | Lluna nova
@@ -288,3 +286,4 @@ Dia        | Fase   | Símbol | Nom
 2031-03-16 | 21.189 | 🌗 | Cuarto minvant
 2031-03-23 |  0.267 | 🌑 | Lluna nova
 2031-03-31 |  7.422 | 🌓 | Cuart creixent
+2031-04-08 | 14.733 | 🌕 | Lluna plena

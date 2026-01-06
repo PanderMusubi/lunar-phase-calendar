@@ -2,16 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2025-06-24 | 26.945 | 🌘 | Dernier croissant
-2025-06-25 | 27.956 | 🌘 | Dernier croissant
-2025-06-26 |  1.045 | 🌑 | Nouvelle lune
-2025-06-27 |  2.056 | 🌒 | Premier croissant
-2025-06-28 |  3.067 | 🌒 | Premier croissant
-2025-06-29 |  4.078 | 🌒 | Premier croissant
-2025-06-30 |  5.011 | 🌒 | Premier croissant
-2025-07-01 |  5.945 | 🌒 | Premier croissant
-2025-07-02 |  6.800 | 🌒 | Premier croissant
-2025-07-03 |  7.656 | 🌓 | Premier quartier
 2025-07-04 |  8.511 | 🌔 | Lune gibbeuse croissante
 2025-07-05 |  9.367 | 🌔 | Lune gibbeuse croissante
 2025-07-06 | 10.145 | 🌔 | Lune gibbeuse croissante
@@ -2111,3 +2101,13 @@ Jour       | Phase  | Symbole | Nom
 2031-03-31 |  7.422 | 🌓 | Premier quartier
 2031-04-01 |  8.278 | 🌔 | Lune gibbeuse croissante
 2031-04-02 |  9.133 | 🌔 | Lune gibbeuse croissante
+2031-04-03 |  9.989 | 🌔 | Lune gibbeuse croissante
+2031-04-04 | 10.922 | 🌔 | Lune gibbeuse croissante
+2031-04-05 | 11.856 | 🌔 | Lune gibbeuse croissante
+2031-04-06 | 12.789 | 🌔 | Lune gibbeuse croissante
+2031-04-07 | 13.722 | 🌔 | Lune gibbeuse croissante
+2031-04-08 | 14.733 | 🌕 | Pleine lune
+2031-04-09 | 15.745 | 🌖 | Lune gibbeuse décroissante
+2031-04-10 | 16.756 | 🌖 | Lune gibbeuse décroissante
+2031-04-11 | 17.845 | 🌖 | Lune gibbeuse décroissante
+2031-04-12 | 18.856 | 🌖 | Lune gibbeuse décroissante

@@ -2,8 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | New moon
-2025-07-03 |  7.656 | 🌓 | First quarter
 2025-07-11 | 14.578 | 🌕 | Full moon
 2025-07-18 | 21.422 | 🌗 | Last quarter
 2025-07-25 |  0.656 | 🌑 | New moon
@@ -288,3 +286,4 @@ Day        | Phase  | Symbol | Name
 2031-03-16 | 21.189 | 🌗 | Last quarter
 2031-03-23 |  0.267 | 🌑 | New moon
 2031-03-31 |  7.422 | 🌓 | First quarter
+2031-04-08 | 14.733 | 🌕 | Full moon

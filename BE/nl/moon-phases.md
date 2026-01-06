@@ -2,8 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | Nieuwe maan
-2025-07-03 |  7.656 | 🌓 | Eerste kwartier
 2025-07-11 | 14.578 | 🌕 | Volle maan
 2025-07-18 | 21.422 | 🌗 | Laatste kwartier
 2025-07-25 |  0.656 | 🌑 | Nieuwe maan
@@ -288,3 +286,4 @@ Dag        | Fase   | Symbool | Naam
 2031-03-16 | 21.189 | 🌗 | Laatste kwartier
 2031-03-23 |  0.267 | 🌑 | Nieuwe maan
 2031-03-31 |  7.422 | 🌓 | Eerste kwartier
+2031-04-08 | 14.733 | 🌕 | Volle maan

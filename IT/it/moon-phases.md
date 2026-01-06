@@ -2,8 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | Luna nuova
-2025-07-03 |  7.656 | 🌓 | Primo quarto
 2025-07-11 | 14.578 | 🌕 | Luna piena
 2025-07-18 | 21.422 | 🌗 | Ultimo quarto
 2025-07-25 |  0.656 | 🌑 | Luna nuova
@@ -288,3 +286,4 @@ Giorno     | Fase   | Simbolo | Nome
 2031-03-16 | 21.189 | 🌗 | Ultimo quarto
 2031-03-23 |  0.267 | 🌑 | Luna nuova
 2031-03-31 |  7.422 | 🌓 | Primo quarto
+2031-04-08 | 14.733 | 🌕 | Luna piena

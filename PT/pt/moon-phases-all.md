@@ -2,16 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2025-06-24 | 26.945 | 🌘 | Lua minguante
-2025-06-25 | 27.956 | 🌘 | Lua minguante
-2025-06-26 |  1.045 | 🌑 | Lua nova
-2025-06-27 |  2.056 | 🌒 | Lua crescente
-2025-06-28 |  3.067 | 🌒 | Lua crescente
-2025-06-29 |  4.078 | 🌒 | Lua crescente
-2025-06-30 |  5.011 | 🌒 | Lua crescente
-2025-07-01 |  5.945 | 🌒 | Lua crescente
-2025-07-02 |  6.800 | 🌒 | Lua crescente
-2025-07-03 |  7.656 | 🌓 | Quarto crescente
 2025-07-04 |  8.511 | 🌔 | Lua crescente gibosa
 2025-07-05 |  9.367 | 🌔 | Lua crescente gibosa
 2025-07-06 | 10.145 | 🌔 | Lua crescente gibosa
@@ -2111,3 +2101,13 @@ Dia        | Fase   | Símbolo | Nome
 2031-03-31 |  7.422 | 🌓 | Quarto crescente
 2031-04-01 |  8.278 | 🌔 | Lua crescente gibosa
 2031-04-02 |  9.133 | 🌔 | Lua crescente gibosa
+2031-04-03 |  9.989 | 🌔 | Lua crescente gibosa
+2031-04-04 | 10.922 | 🌔 | Lua crescente gibosa
+2031-04-05 | 11.856 | 🌔 | Lua crescente gibosa
+2031-04-06 | 12.789 | 🌔 | Lua crescente gibosa
+2031-04-07 | 13.722 | 🌔 | Lua crescente gibosa
+2031-04-08 | 14.733 | 🌕 | Lua cheia
+2031-04-09 | 15.745 | 🌖 | Lua minguante gibosa
+2031-04-10 | 16.756 | 🌖 | Lua minguante gibosa
+2031-04-11 | 17.845 | 🌖 | Lua minguante gibosa
+2031-04-12 | 18.856 | 🌖 | Lua minguante gibosa

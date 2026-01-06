@@ -2,8 +2,6 @@
 
 Jour       | Phase  | Symbole | Nom
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | Nouvelle lune
-2025-07-03 |  7.656 | 🌓 | Premier quartier
 2025-07-11 | 14.578 | 🌕 | Pleine lune
 2025-07-18 | 21.422 | 🌗 | Dernier quartier
 2025-07-25 |  0.656 | 🌑 | Nouvelle lune
@@ -288,3 +286,4 @@ Jour       | Phase  | Symbole | Nom
 2031-03-16 | 21.189 | 🌗 | Dernier quartier
 2031-03-23 |  0.267 | 🌑 | Nouvelle lune
 2031-03-31 |  7.422 | 🌓 | Premier quartier
+2031-04-08 | 14.733 | 🌕 | Pleine lune

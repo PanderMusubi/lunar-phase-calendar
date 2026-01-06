@@ -2,16 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2025-06-24 | 26.945 | 🌘 | Luna calante
-2025-06-25 | 27.956 | 🌘 | Luna calante
-2025-06-26 |  1.045 | 🌑 | Luna nuova
-2025-06-27 |  2.056 | 🌒 | Luna crescente
-2025-06-28 |  3.067 | 🌒 | Luna crescente
-2025-06-29 |  4.078 | 🌒 | Luna crescente
-2025-06-30 |  5.011 | 🌒 | Luna crescente
-2025-07-01 |  5.945 | 🌒 | Luna crescente
-2025-07-02 |  6.800 | 🌒 | Luna crescente
-2025-07-03 |  7.656 | 🌓 | Primo quarto
 2025-07-04 |  8.511 | 🌔 | Gibbosa crescente
 2025-07-05 |  9.367 | 🌔 | Gibbosa crescente
 2025-07-06 | 10.145 | 🌔 | Gibbosa crescente
@@ -2111,3 +2101,13 @@ Giorno     | Fase   | Simbolo | Nome
 2031-03-31 |  7.422 | 🌓 | Primo quarto
 2031-04-01 |  8.278 | 🌔 | Gibbosa crescente
 2031-04-02 |  9.133 | 🌔 | Gibbosa crescente
+2031-04-03 |  9.989 | 🌔 | Gibbosa crescente
+2031-04-04 | 10.922 | 🌔 | Gibbosa crescente
+2031-04-05 | 11.856 | 🌔 | Gibbosa crescente
+2031-04-06 | 12.789 | 🌔 | Gibbosa crescente
+2031-04-07 | 13.722 | 🌔 | Gibbosa crescente
+2031-04-08 | 14.733 | 🌕 | Luna piena
+2031-04-09 | 15.745 | 🌖 | Gibbosa calante
+2031-04-10 | 16.756 | 🌖 | Gibbosa calante
+2031-04-11 | 17.845 | 🌖 | Gibbosa calante
+2031-04-12 | 18.856 | 🌖 | Gibbosa calante

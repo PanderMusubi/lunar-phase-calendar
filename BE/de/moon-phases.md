@@ -2,8 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2025-06-26 |  1.045 | 🌑 | Neumond
-2025-07-03 |  7.656 | 🌓 | Erstes Viertel
 2025-07-11 | 14.578 | 🌕 | Vollmond
 2025-07-18 | 21.422 | 🌗 | Letztes Viertel
 2025-07-25 |  0.656 | 🌑 | Neumond
@@ -288,3 +286,4 @@ Tag        | Phase  | Symbole | Name
 2031-03-16 | 21.189 | 🌗 | Letztes Viertel
 2031-03-23 |  0.267 | 🌑 | Neumond
 2031-03-31 |  7.422 | 🌓 | Erstes Viertel
+2031-04-08 | 14.733 | 🌕 | Vollmond
