@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Simbool | Naam
 -----------|-------:|---|---
-2025-07-04 |  8.511 | 🌔 | Groeiende bolmaan
 2025-07-05 |  9.367 | 🌔 | Groeiende bolmaan
 2025-07-06 | 10.145 | 🌔 | Groeiende bolmaan
 2025-07-07 | 11.000 | 🌔 | Groeiende bolmaan
@@ -2111,3 +2110,4 @@ Dag        | Fase   | Simbool | Naam
 2031-04-10 | 16.756 | 🌖 | Afnemende bolmaan
 2031-04-11 | 17.845 | 🌖 | Afnemende bolmaan
 2031-04-12 | 18.856 | 🌖 | Afnemende bolmaan
+2031-04-13 | 19.867 | 🌖 | Afnemende bolmaan

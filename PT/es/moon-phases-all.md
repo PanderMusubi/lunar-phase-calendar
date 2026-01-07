@@ -2,7 +2,6 @@
 
 Día        | Fase   | Símbolo | Nombre
 -----------|-------:|---|---
-2025-07-04 |  8.511 | 🌔 | Luna creciente gibosa
 2025-07-05 |  9.367 | 🌔 | Luna creciente gibosa
 2025-07-06 | 10.145 | 🌔 | Luna creciente gibosa
 2025-07-07 | 11.000 | 🌔 | Luna creciente gibosa
@@ -2111,3 +2110,4 @@ Día        | Fase   | Símbolo | Nombre
 2031-04-10 | 16.756 | 🌖 | Luna menguante gibosa
 2031-04-11 | 17.845 | 🌖 | Luna menguante gibosa
 2031-04-12 | 18.856 | 🌖 | Luna menguante gibosa
+2031-04-13 | 19.867 | 🌖 | Luna menguante gibosa

@@ -2,7 +2,6 @@
 
 Day        | Phase  | Symbol | Name
 -----------|-------:|---|---
-2025-07-04 |  8.511 | 🌔 | Waxing gibbous
 2025-07-05 |  9.367 | 🌔 | Waxing gibbous
 2025-07-06 | 10.145 | 🌔 | Waxing gibbous
 2025-07-07 | 11.000 | 🌔 | Waxing gibbous
@@ -2111,3 +2110,4 @@ Day        | Phase  | Symbol | Name
 2031-04-10 | 16.756 | 🌖 | Waning gibbous
 2031-04-11 | 17.845 | 🌖 | Waning gibbous
 2031-04-12 | 18.856 | 🌖 | Waning gibbous
+2031-04-13 | 19.867 | 🌖 | Waning gibbous
