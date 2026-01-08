@@ -2,7 +2,6 @@
 
 Dag        | Fase   | Symbool | Naam
 -----------|-------:|---|---
-2025-07-05 |  9.367 | 🌔 | Wassende,vooruitspringende maan
 2025-07-06 | 10.145 | 🌔 | Wassende,vooruitspringende maan
 2025-07-07 | 11.000 | 🌔 | Wassende,vooruitspringende maan
 2025-07-08 | 11.856 | 🌔 | Wassende,vooruitspringende maan
@@ -2111,3 +2110,4 @@ Dag        | Fase   | Symbool | Naam
 2031-04-11 | 17.845 | 🌖 | Krimpende, vooruitspringende maan
 2031-04-12 | 18.856 | 🌖 | Krimpende, vooruitspringende maan
 2031-04-13 | 19.867 | 🌖 | Krimpende, vooruitspringende maan
+2031-04-14 | 20.878 | 🌖 | Krimpende, vooruitspringende maan

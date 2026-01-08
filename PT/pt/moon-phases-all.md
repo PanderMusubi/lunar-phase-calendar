@@ -2,7 +2,6 @@
 
 Dia        | Fase   | Símbolo | Nome
 -----------|-------:|---|---
-2025-07-05 |  9.367 | 🌔 | Lua crescente gibosa
 2025-07-06 | 10.145 | 🌔 | Lua crescente gibosa
 2025-07-07 | 11.000 | 🌔 | Lua crescente gibosa
 2025-07-08 | 11.856 | 🌔 | Lua crescente gibosa
@@ -2111,3 +2110,4 @@ Dia        | Fase   | Símbolo | Nome
 2031-04-11 | 17.845 | 🌖 | Lua minguante gibosa
 2031-04-12 | 18.856 | 🌖 | Lua minguante gibosa
 2031-04-13 | 19.867 | 🌖 | Lua minguante gibosa
+2031-04-14 | 20.878 | 🌖 | Lua minguante gibosa

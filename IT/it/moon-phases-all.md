@@ -2,7 +2,6 @@
 
 Giorno     | Fase   | Simbolo | Nome
 -----------|-------:|---|---
-2025-07-05 |  9.367 | 🌔 | Gibbosa crescente
 2025-07-06 | 10.145 | 🌔 | Gibbosa crescente
 2025-07-07 | 11.000 | 🌔 | Gibbosa crescente
 2025-07-08 | 11.856 | 🌔 | Gibbosa crescente
@@ -2111,3 +2110,4 @@ Giorno     | Fase   | Simbolo | Nome
 2031-04-11 | 17.845 | 🌖 | Gibbosa calante
 2031-04-12 | 18.856 | 🌖 | Gibbosa calante
 2031-04-13 | 19.867 | 🌖 | Gibbosa calante
+2031-04-14 | 20.878 | 🌖 | Gibbosa calante

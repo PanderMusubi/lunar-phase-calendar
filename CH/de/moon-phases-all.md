@@ -2,7 +2,6 @@
 
 Tag        | Phase  | Symbole | Name
 -----------|-------:|---|---
-2025-07-05 |  9.367 | 🌔 | Zunehmender Mond
 2025-07-06 | 10.145 | 🌔 | Zunehmender Mond
 2025-07-07 | 11.000 | 🌔 | Zunehmender Mond
 2025-07-08 | 11.856 | 🌔 | Zunehmender Mond
@@ -2111,3 +2110,4 @@ Tag        | Phase  | Symbole | Name
 2031-04-11 | 17.845 | 🌖 | Abnehmender Mond
 2031-04-12 | 18.856 | 🌖 | Abnehmender Mond
 2031-04-13 | 19.867 | 🌖 | Abnehmender Mond
+2031-04-14 | 20.878 | 🌖 | Abnehmender Mond

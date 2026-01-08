@@ -2,7 +2,6 @@
 
 Dia        | Fase   | Símbol | Nom
 -----------|-------:|---|---
-2025-07-05 |  9.367 | 🌔 | Lluna gibosa creixent
 2025-07-06 | 10.145 | 🌔 | Lluna gibosa creixent
 2025-07-07 | 11.000 | 🌔 | Lluna gibosa creixent
 2025-07-08 | 11.856 | 🌔 | Lluna gibosa creixent
@@ -2111,3 +2110,4 @@ Dia        | Fase   | Símbol | Nom
 2031-04-11 | 17.845 | 🌖 | Lluna gibosa minvant
 2031-04-12 | 18.856 | 🌖 | Lluna gibosa minvant
 2031-04-13 | 19.867 | 🌖 | Lluna gibosa minvant
+2031-04-14 | 20.878 | 🌖 | Lluna gibosa minvant
